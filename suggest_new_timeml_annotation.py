@@ -4,8 +4,10 @@
 
 ## usage: python suggest_new_timeml_annotation.py gold_anntoation system_annotation1 system_annotation2 system_annotation3 system_annotationn
 
+import re 
 import os
 import sys
+import operator
 
 debug = 1 
 
@@ -76,6 +78,89 @@ def suggest_new_timeml_anntoation():
 		print command 
 		os.system(command)
 	
+def get_system_name(line):
+	return re.sub('data-platinum-test-runs-', '', re.sub('-test-TaskABC-normalized', '', line))
+	
+def get_entity(line): 
+	entity = re.findall('[te]id="[^"]*"', line)[0]
+	entity = re.sub('[te]id=', '', entity)
+	entity = re.sub('"', '', entity)
+	system = line.split('\t')[2]
+	system = get_system_name(system)
+	e_text = re.findall('>[^<]*<', line)[0]
+	e_text = re.sub('>', '', re.sub('<', '', e_text))
+	return entity, system, e_text 
+	
+def get_relations(line): 
+	words = line.split('\t')
+	relation = words[1] + ' ' + words[2] + ' ' + words[3]
+	system = get_system_name(words[4])
+	return relation, system 
+	
+
+def rank_suggestions(filename, outfile): 
+	if debug >= 2: 
+		print filename 
+	text = open(filename).read() 
+	new_entity = {} 
+	new_entity_count = {} 
+	entity2text = {} 
+	new_tlink = {} 
+	new_tlink_count = {} 
+	for line in text.split('\n'): 
+		if re.search('event', line) or re.search('timex', line): 
+			entity, system, e_text = get_entity(line)
+			#print entity, system 
+			
+			if not entity in new_entity: 
+				new_entity[entity] = [] 
+				entity2text[entity] = [] 
+				new_entity_count[entity] = 0 
+			new_entity[entity].append(system)	
+			new_entity_count[entity] += 1 
+			if not e_text in entity2text[entity]: 
+				entity2text[entity].append(e_text)
+		elif re.search('tlink', line): 
+			relation, system = get_relations(line)
+			#print system, relation
+			if not relation in new_tlink: 
+				new_tlink[relation] = [] 
+				new_tlink_count[relation] = 0 
+			new_tlink[relation].append(system)
+			new_tlink_count[relation] += 1 
+	
+	sorted_e = sorted(new_entity_count.iteritems(), key=operator.itemgetter(1), reverse=True)
+	sorted_r = sorted(new_tlink_count.iteritems(), key=operator.itemgetter(1), reverse=True)
+
+	outfile.write('==== NEW ENTITY SUGGESTION ===\n')
+	for i in range(0, len(sorted_e)): 
+		str_foo = sorted_e[i][0] + '\t' + str(sorted_e[i][1]) + '\t' + ', '.join(entity2text[sorted_e[i][0]]) + '\t' + ', '.join(new_entity[sorted_e[i][0]]) 
+		outfile.write(str_foo + '\n')
+	outfile.write('\n\n') 
+
+	outfile.write('==== NEW TLINK SUGGESTION ===\n')
+	for i in range(0, len(sorted_r)): 
+		str_foo = sorted_r[i][0] + '\t' + str(sorted_r[i][1]) + '\t' + ', '.join(new_tlink[sorted_r[i][0]])
+		outfile.write(str_foo + '\n')
+	outfile.write('\n') 
+
+	
+	
+def rank_all_suggestions(): 
+	source_dir = experiment_dir + 'raw_suggest_dir/'
+	dest_dir = experiment_dir + 'suggest_dir/'
+	if not os.path.exists(dest_dir):
+		command = 'mkdir ' + dest_dir
+		os.system(command)
+	files = os.listdir(source_dir)
+	for file in files: 
+		if re.search('DS_Store', file): 
+			continue
+		filename = source_dir + file 
+		outfile = open(dest_dir + file, 'w') 
+		rank_suggestions(filename, outfile)
+		outfile.close()
 
 		
 suggest_new_timeml_anntoation()
+rank_all_suggestions() 
