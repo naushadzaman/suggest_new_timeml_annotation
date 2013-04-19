@@ -137,19 +137,15 @@ def normalize_folders():
     
     
     
-def evaluate(tmp_folder): 
-
-	if len(os.listdir(gold_dir)) != len(os.listdir(sys.argv[1])): 
+def evaluate(source_dir, dest_dir): 
+	if len(os.listdir(source_dir)) != len(os.listdir(dest_dir)): 
 		print 'Invalid TimeML XML file exists, NOT EVALUATING FILES\n\n'
 
-	command = 'python evaluation-entities/evaluate_entities.py '+tmp_folder+'/gold-normalized/'+' '+tmp_folder+'/system-normalized/ '+str(debug)
+	tmp_debug = 0 
+	command = 'python evaluation-entities/evaluate_entities.py ' + source_dir + ' ' + dest_dir + ' ' + str(tmp_debug)
 	os.system(command) 
-
-	if len(sys.argv) > 5: 
-		evaluation_method = ' ' + sys.argv[5] # ' implicit_in_recall', 'acl11
-	else: 
-		evaluation_method = ''
-	command = 'python evaluation-relations/temporal_evaluation.py '+tmp_folder+'/gold-normalized/'+' '+tmp_folder+'/system-normalized/ '+str(debug) +  evaluation_method 
+	evaluation_method = ''
+	command = 'python evaluation-relations/temporal_evaluation.py ' + source_dir + ' ' + dest_dir + ' ' +str(tmp_debug) +  evaluation_method 
 	os.system(command) 
 
 
@@ -159,16 +155,10 @@ if debug >= 3:
 tmp_folder = copy_folders() 
 if debug >= 3: 
     print 'copy folder'
-normalize_folders()
-if debug >= 3: 
-    print 'normalized'
-evaluate(tmp_folder) 
+#normalize_folders()
+#if debug >= 3: 
+#    print 'normalized'
+evaluate(sys.argv[1], sys.argv[2])
 if debug >= 3: 
     print 'evaluated'
 
-if len(sys.argv) <= 4: 
-    command = 'rm -rf '+tmp_folder    
-    if debug >= 1: 
-        print 'Deleting temporary folder', tmp_folder 
-        print 'To keep the temporary folder, RUN: "python TE3-evaluation.py gold_folder_or_file system_folder_or_filefile debug_level tmp_folder"' 
-    os.system(command) 

@@ -1,0 +1,97 @@
+<?xml version="1.0" ?><TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>AFP_ENG_19970411.0253</DOCID>
+
+<DCT>KINSHASA, <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1997-04-11">April 11 , 1997</TIMEX3> (AFP)</DCT>
+
+<TITLE>Mobutu aide blasts US for suggesting the game is up</TITLE>
+
+
+
+<TEXT>
+
+A top aide to President Mobutu Sese Seko <EVENT eid="e1" class="OCCURRENCE">hit</EVENT> out <TIMEX3 tid="t1" type="DATE" value="1997-04-11">Friday</TIMEX3> at US suggestions that the embattled Zairean leader's rule was all but over.
+
+Honore Ngbanda Nzambo <EVENT eid="e2" class="OCCURRENCE">blasted</EVENT> Washington for <EVENT eid="e3" class="I_ACTION">trying</EVENT> to <EVENT eid="e4" class="OCCURRENCE">apply</EVENT> pressure on the crumbling Kinshasa regime and <EVENT eid="e5" class="OCCURRENCE">singled</EVENT> out for particular criticism comments by top US envoy George Moose which <EVENT class="PERCEPTION" eid="e6">suggested</EVENT> that Mobutu's regime "was a thing of the past."
+
+"What right has Mr Moose <EVENT eid="e9" class="OCCURRENCE">got</EVENT> to <EVENT class="OCCURRENCE" eid="e10">speak</EVENT> out in this way," Ngbanda <EVENT eid="e11" class="REPORTING">told</EVENT> AFP by telephone from Johannesburg, where he is <EVENT class="I_ACTION" eid="e12">leading</EVENT> a Mobutu delegation in fledgling peace <EVENT eid="e13" class="OCCURRENCE">talks</EVENT> with rebel negotiators.
+
+"This is no method respecting democracy which America is <EVENT eid="e14" class="OCCURRENCE">advocating</EVENT>," he <EVENT eid="e15" class="REPORTING">said</EVENT>, <EVENT eid="e16" class="I_ACTION">accusing</EVENT> Washington of "<EVENT eid="e17" class="I_ACTION">recommending</EVENT> democracy and then <EVENT eid="e18" class="OCCURRENCE">using</EVENT> anti-democratic methods to <EVENT eid="e19" class="OCCURRENCE">get</EVENT> rid of someone."
+
+"It's not up to foreign capitals to <EVENT eid="e20" class="OCCURRENCE">make</EVENT> <EVENT eid="e21" class="OCCURRENCE">decisions</EVENT> in place of Zaireans," Ngbanda <EVENT eid="e22" class="REPORTING">said</EVENT>.
+
+The United States has <EVENT eid="e23" class="OCCURRENCE">led</EVENT> calls for the <EVENT eid="e25" class="OCCURRENCE">ailing</EVENT> Mobutu to <EVENT eid="e26" class="OCCURRENCE">give</EVENT> way to democratic rule after decades of dictatorship and <TIMEX3 tid="t4" type="DURATION" value="P6M">six months</TIMEX3> of civil <EVENT eid="e27" class="OCCURRENCE">war</EVENT> which has <EVENT eid="e28" class="PERCEPTION">seen</EVENT> rebel forces <EVENT eid="e29" class="OCCURRENCE">seize</EVENT> almost half of the vast central African country.
+
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ei1" eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei3" eventID="e3" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei2" eventID="e2" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei22" eventID="e22" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei23" eventID="e23" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei13" eventID="e13" pos="NOUN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei27" eventID="e27" pos="NOUN" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei28" eventID="e28" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei14" eventID="e14" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei15" eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei16" eventID="e16" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei26" eventID="e26" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei17" eventID="e17" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei4" eventID="e4" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei5" eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei18" eventID="e18" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei19" eventID="e19" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei6" eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei29" eventID="e29" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei20" eventID="e20" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei9" eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei21" eventID="e21" pos="NOUN" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei10" eventID="e10" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei11" eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+
+
+<TLINK lid="l1" eventInstanceID="ei2" relatedToEventInstance="ei6" relType="AFTER" />
+<TLINK lid="l2" eventInstanceID="ei2" relatedToEventInstance="ei4" relType="AFTER" />
+<TLINK lid="l3" eventInstanceID="ei2" relatedToEventInstance="ei3" relType="AFTER" />
+<TLINK lid="l4" eventInstanceID="ei1" relatedToEventInstance="ei2" relType="SIMULTANEOUS" />
+<TLINK lid="l5" eventInstanceID="ei1" relatedToTime="t1" relType="IS_INCLUDED" />
+<TLINK lid="l6" eventInstanceID="ei15" relatedToEventInstance="ei17" relType="AFTER" />
+<TLINK lid="l7" eventInstanceID="ei15" relatedToEventInstance="ei18" relType="AFTER" />
+<TLINK lid="l8" eventInstanceID="ei23" relatedToEventInstance="ei26" relType="BEFORE" />
+<TLINK lid="l9" eventInstanceID="ei2" relatedToEventInstance="ei5" relType="SIMULTANEOUS" />
+<TLINK lid="l10" eventInstanceID="ei9" relatedToEventInstance="ei11" relType="INCLUDES" />
+<TLINK lid="l11" eventInstanceID="ei9" relatedToEventInstance="ei10" relType="INCLUDES" />
+<TLINK lid="l12" eventInstanceID="ei15" relatedToEventInstance="ei22" relType="SIMULTANEOUS" />
+<TLINK lid="l13" eventInstanceID="ei1" relatedToTime="t0" relType="BEFORE" />
+<TLINK lid="l14" eventInstanceID="ei11" relatedToTime="t0" relType="BEFORE" />
+<TLINK lid="l15" eventInstanceID="ei22" relatedToTime="t0" relType="BEFORE" />
+<TLINK lid="l16" eventInstanceID="ei23" relatedToTime="t0" relType="BEFORE" />
+<TLINK lid="l17" eventInstanceID="ei23" relatedToEventInstance="ei27" relType="AFTER" />
+<TLINK lid="l18" eventInstanceID="ei22" relatedToEventInstance="ei23" relType="AFTER" />
+<TLINK lid="l19" eventInstanceID="ei23" relatedToEventInstance="ei29" relType="AFTER" />
+<TLINK lid="l20" eventInstanceID="ei23" relatedToEventInstance="ei28" relType="AFTER" />
+<TLINK lid="l21" eventInstanceID="ei21" relatedToEventInstance="ei22" relType="BEFORE" />
+<TLINK lid="l22" eventInstanceID="ei15" relatedToEventInstance="ei19" relType="AFTER" />
+<TLINK lid="l23" eventInstanceID="ei15" relatedToEventInstance="ei16" relType="SIMULTANEOUS" />
+<TLINK lid="l24" eventInstanceID="ei14" relatedToEventInstance="ei15" relType="INCLUDES" />
+<TLINK lid="l25" eventInstanceID="ei27" relatedToTime="t4" relType="SIMULTANEOUS" />
+<TLINK lid="l26" eventInstanceID="ei20" relatedToEventInstance="ei22" relType="IS_INCLUDED" />
+<TLINK lid="l27" eventInstanceID="ei9" relatedToTime="t0" relType="BEFORE" />
+<TLINK lid="l28" eventInstanceID="ei2" relatedToEventInstance="ei9" relType="IS_INCLUDED" />
+<TLINK lid="l29" eventInstanceID="ei9" relatedToEventInstance="ei15" relType="INCLUDES" />
+<TLINK lid="l30" eventInstanceID="ei9" relatedToEventInstance="ei13" relType="BEFORE" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TimeML>
