@@ -141,20 +141,20 @@ def evaluate(source_dir, dest_dir):
 	if len(os.listdir(source_dir)) != len(os.listdir(dest_dir)): 
 		print 'Invalid TimeML XML file exists, NOT EVALUATING FILES\n\n'
 
-	tmp_debug = 0 
-	command = 'python evaluation-entities/evaluate_entities.py ' + source_dir + ' ' + dest_dir + ' ' + str(tmp_debug)
+	tmp_debug = debug
+	command = 'python evaluation-entities/evaluate_entities.py ' + source_dir + ' ' + dest_dir + ' ' + str(tmp_debug) + ' ' + sys.argv[4]
 	os.system(command) 
 	evaluation_method = ''
 	command = 'python evaluation-relations/temporal_evaluation.py ' + source_dir + ' ' + dest_dir + ' ' +str(tmp_debug) +  evaluation_method 
 	os.system(command) 
 
 
-create_tmp_folder()
-if debug >= 3: 
-    print 'folder created'
-tmp_folder = copy_folders() 
-if debug >= 3: 
-    print 'copy folder'
+#create_tmp_folder()
+#if debug >= 3: 
+#    print 'folder created'
+#tmp_folder = copy_folders() 
+#if debug >= 3: 
+#    print 'copy folder'
 #normalize_folders()
 #if debug >= 3: 
 #    print 'normalized'

@@ -364,7 +364,7 @@ def remove_tokenizer_tags(word):
     return word 
 
 
-def compute_precision_recall(gold_event, gold_timex, system_event, system_timex): 
+def compute_precision_recall(gold_event, gold_timex, system_event, system_timex, sys_disagreement): 
     "given the indexed events and timex, this module computes the precision and recall"
     global global_system_timex 
     global global_gold_timex
@@ -502,6 +502,7 @@ def compute_precision_recall(gold_event, gold_timex, system_event, system_timex)
                 print ' gold annotation:', g.annotation, match_word
 
         else:
+            sys_disagreement.write('event\t' + system_event[eid].annotation + '\t' + '-'.join(sys.argv[2].split('/')).strip('-') + '\n')
             if debug >= 1.5: 
                 print ' system annotation not found in gold:', system_event[eid].annotation
  
@@ -623,6 +624,7 @@ def compute_precision_recall(gold_event, gold_timex, system_event, system_timex)
                 print ' gold annotation:', (g.annotation).encode('ascii','ignore'), match_word
 
         else:
+            sys_disagreement.write('timex\t' + system_timex[tid].annotation + '\t' + '-'.join(sys.argv[2].split('/')).strip('-') + '\n')
             if debug >= 1.5: 
                 print ' system annotation not found in gold:', (system_timex[tid].annotation).encode('ascii','ignore')
  
@@ -749,7 +751,17 @@ def evaluate_two_files(gold_file, system_file):
 	"evaluate two files" 
 	if debug >= 1: 
 		print '\n\nEVALUATE:', system_file, 'AGAINST GOLD ANNOTATION:', gold_file
-
+	
+	suggest_dir = sys.argv[4] + 'suggest_dir/'
+	if not os.path.exists(suggest_dir):
+		command = 'mkdir ' + suggest_dir
+		os.system(command)
+	if os.path.exists(suggest_dir + extract_name(system_file)): 
+		mode = 'a'
+	else: 
+		mode = 'w'
+	#print mode, suggest_dir + extract_name(system_file)
+	system_disagreement = open(suggest_dir + extract_name(system_file), mode)
 	gold_onlytext, gold_tml = get_text(read_file(gold_file))
 	system_onlytext, system_tml = get_text(read_file(system_file))
     
@@ -776,14 +788,15 @@ def evaluate_two_files(gold_file, system_file):
 					print 'syst: "' + system_text_lines[i] + '"'
 					print ''
 				
-				
+		system_disagreement.close()		
 		sys.exit(1)
 		return '-1'
 
 
 	gold_event, gold_timex = get_attributes(gold_tml)
 	system_event, system_timex = get_attributes(system_tml)
-	compute_precision_recall(gold_event, gold_timex, system_event, system_timex) 
+	compute_precision_recall(gold_event, gold_timex, system_event, system_timex, system_disagreement) 
+	system_disagreement.close() 
 
     
 

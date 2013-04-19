@@ -62,11 +62,17 @@ def process_files():
 	return all_folders 
 
 def suggest_new_timeml_anntoation(): 
+	debug_level = 0
+	command = 'rm -rf ' + experiment_dir
+	os.system(command)
+	command = 'mkdir ' + experiment_dir 
+	os.system(command)
+	
 	all_folders = process_files() 
 	if debug >= 2: 
 		print all_folders 
 	for i in range(1, len(all_folders)):
-		command = 'python TE3-evaluation.py ' + all_folders[0]+'-normalized/ ' + all_folders[i] +'-normalized/ 0'
+		command = 'python TE3-evaluation.py ' + all_folders[0]+'-normalized/ ' + all_folders[i] +'-normalized/ ' + str(debug_level) + ' ' + experiment_dir
 		print command 
 		os.system(command)
 	

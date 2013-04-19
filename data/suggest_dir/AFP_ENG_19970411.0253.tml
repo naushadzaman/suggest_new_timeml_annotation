@@ -1,0 +1,8 @@
+event	<EVENT eid="e24" tense="NONE" aspect="NONE" class="OCCURRENCE">calls</EVENT>	data-tmp_eval-task1-NavyTime-run1-test-TaskABC-normalized
+timex	<TIMEX3 tid="t2" type="DATE" value="PAST_REF" temporalFunction="false" functionInDocument="NONE">the past</TIMEX3>	data-tmp_eval-task1-NavyTime-run1-test-TaskABC-normalized
+timex	<TIMEX3 tid="t3" type="DURATION" value="PXY" temporalFunction="false" functionInDocument="NONE">decades</TIMEX3>	data-tmp_eval-task1-NavyTime-run1-test-TaskABC-normalized
+event	<EVENT eid="e8" tense="PRESENT" aspect="NONE" class="STATE">has</EVENT>	data-tmp_eval-task1-NavyTime-run2-test-TaskABC-normalized
+event	<EVENT eid="e7" tense="NONE" aspect="NONE" class="STATE">thing</EVENT>	data-tmp_eval-task1-NavyTime-run2-test-TaskABC-normalized
+event	<EVENT eid="e24" tense="NONE" aspect="NONE" class="I_ACTION">calls</EVENT>	data-tmp_eval-task1-NavyTime-run2-test-TaskABC-normalized
+timex	<TIMEX3 tid="t2" type="DATE" value="PAST_REF" temporalFunction="false" functionInDocument="NONE">the past</TIMEX3>	data-tmp_eval-task1-NavyTime-run2-test-TaskABC-normalized
+timex	<TIMEX3 tid="t3" type="DURATION" value="PXY" temporalFunction="false" functionInDocument="NONE">decades</TIMEX3>	data-tmp_eval-task1-NavyTime-run2-test-TaskABC-normalized

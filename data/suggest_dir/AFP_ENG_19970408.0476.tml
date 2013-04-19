@@ -1,0 +1,4 @@
+event	<EVENT eid="e19" tense="NONE" aspect="NONE" class="OCCURRENCE">pollution</EVENT>	data-tmp_eval-task1-NavyTime-run1-test-TaskABC-normalized
+event	<EVENT eid="e11" tense="PRESENT" aspect="NONE" class="I_STATE">allow</EVENT>	data-tmp_eval-task1-NavyTime-run1-test-TaskABC-normalized
+event	<EVENT eid="e19" tense="NONE" aspect="NONE" class="OCCURRENCE">pollution</EVENT>	data-tmp_eval-task1-NavyTime-run2-test-TaskABC-normalized
+event	<EVENT eid="e11" tense="PRESENT" aspect="NONE" class="I_STATE">allow</EVENT>	data-tmp_eval-task1-NavyTime-run2-test-TaskABC-normalized

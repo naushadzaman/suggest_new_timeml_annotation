@@ -1,0 +1,8 @@
+event	<EVENT eid="e10" tense="NONE" aspect="NONE" class="OCCURRENCE">release</EVENT>	data-tmp_eval-task1-NavyTime-run1-test-TaskABC-normalized
+event	<EVENT eid="e36" tense="NONE" aspect="NONE" class="REPORTING">report</EVENT>	data-tmp_eval-task1-NavyTime-run1-test-TaskABC-normalized
+timex	<TIMEX3 tid="t7" type="DATE" value="1974" temporalFunction="false" functionInDocument="NONE">1974</TIMEX3>	data-tmp_eval-task1-NavyTime-run1-test-TaskABC-normalized
+timex	<TIMEX3 tid="t4" type="DURATION" value="PTXH" temporalFunction="false" functionInDocument="NONE">hours</TIMEX3>	data-tmp_eval-task1-NavyTime-run1-test-TaskABC-normalized
+event	<EVENT eid="e10" tense="NONE" aspect="NONE" class="OCCURRENCE">release</EVENT>	data-tmp_eval-task1-NavyTime-run2-test-TaskABC-normalized
+event	<EVENT eid="e36" tense="NONE" aspect="NONE" class="REPORTING">report</EVENT>	data-tmp_eval-task1-NavyTime-run2-test-TaskABC-normalized
+timex	<TIMEX3 tid="t7" type="DATE" value="1974" temporalFunction="false" functionInDocument="NONE">1974</TIMEX3>	data-tmp_eval-task1-NavyTime-run2-test-TaskABC-normalized
+timex	<TIMEX3 tid="t4" type="DURATION" value="PTXH" temporalFunction="false" functionInDocument="NONE">hours</TIMEX3>	data-tmp_eval-task1-NavyTime-run2-test-TaskABC-normalized
