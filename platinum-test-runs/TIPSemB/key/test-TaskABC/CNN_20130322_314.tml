@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130322_314</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>Obama gets diplomatic coup before heading to refugee-flooded Jordan</TITLE>
+
+
+
+<TEXT>
+
+President Barack Obama <EVENT class="OCCURRENCE" eid="e1">arrived</EVENT> in refugee-flooded Jordan on <TIMEX3 type="DATE" value="2013-03-29" tid="t1">Friday</TIMEX3> after <EVENT class="OCCURRENCE" eid="e2">scoring</EVENT> a diplomatic <EVENT class="OCCURRENCE" eid="e3">coup</EVENT> just before <EVENT class="OCCURRENCE" eid="e4">leaving</EVENT> Israel when Prime Minister Benjamin Netanyahu <EVENT class="OCCURRENCE" eid="e5">apologized</EVENT> to Turkey for a 2010 commando <EVENT class="OCCURRENCE" eid="e6">raid</EVENT> that <EVENT class="OCCURRENCE" eid="e7">killed</EVENT> nine activists on a Turkish vessel in a Gaza-bound flotilla.
+
+The apology, long <EVENT class="I_ACTION" eid="e8">sought</EVENT> by Turkish Prime Minister Recep Erdogan, <EVENT class="OCCURRENCE" eid="e9">eased</EVENT> strained feelings between Turkey and Israel, two vital U.S. allies in the Middle East.
+
+It <EVENT class="OCCURRENCE" eid="e10">happened</EVENT> in a phone <EVENT class="OCCURRENCE" eid="e11">call</EVENT> to Erdogan during a final <EVENT class="OCCURRENCE" eid="e12">meeting</EVENT> between Obama and Netanyahu at Ben Gurion International Airport in Tel Aviv minutes before Air Force One <EVENT class="OCCURRENCE" eid="e13">departed</EVENT> for Jordan to <EVENT class="OCCURRENCE" eid="e14">complete</EVENT> the president's Middle East swing. It is the first foreign <EVENT class="OCCURRENCE" eid="e15">trip</EVENT> of his second term.
+
+A statement from Netanyahu's office <EVENT class="REPORTING" eid="e16">said</EVENT> the apology <EVENT class="PERCEPTION" eid="e17">included</EVENT> an <EVENT class="OCCURRENCE" eid="e18">offer</EVENT> of compensation. However, there was confusion later when the Israeli government <EVENT class="OCCURRENCE" eid="e19">dropped</EVENT> a reference in its original statement to normalized relations between the countries with a <EVENT class="OCCURRENCE" eid="e20">return</EVENT> of ambassadors.
+
+There also was no word on whether the once-close nations would <EVENT class="ASPECTUAL" eid="e21">resume</EVENT> the joint military <EVENT class="OCCURRENCE" eid="e22">exercises</EVENT> that were <EVENT class="ASPECTUAL" eid="e23">suspended</EVENT> after the flotilla <EVENT class="OCCURRENCE" eid="e24">raid</EVENT>.
+
+Turkey had been <EVENT class="OCCURRENCE" eid="e25">prosecuting</EVENT> four Israeli soldiers in absentia and Israel initially <EVENT class="REPORTING" eid="e26">said</EVENT> the two leaders <EVENT class="I_ACTION" eid="e27">agreed</EVENT> to the <EVENT class="OCCURRENCE" eid="e28">cancellation</EVENT> of legal steps against the troops. Later, however, its amended statement <EVENT class="OCCURRENCE" eid="e29">omitted</EVENT> that <EVENT class="OCCURRENCE" eid="e30">action</EVENT> as well.
+
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ei1"  eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei2"  eventID="e2" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei3"  eventID="e3" pos="NOUN" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei4"  eventID="e4" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei5"  eventID="e5" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei6"  eventID="e6" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei7"  eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei8"  eventID="e8" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei9"  eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei10"  eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei11"  eventID="e11" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei12"  eventID="e12" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei13"  eventID="e13" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei14"  eventID="e14" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei15"  eventID="e15" pos="NOUN" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei16"  eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei17"  eventID="e17" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei18"  eventID="e18" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei19"  eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei20"  eventID="e20" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei21"  eventID="e21" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="would" />
+<MAKEINSTANCE eiid="ei22"  eventID="e22" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei23"  eventID="e23" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei24"  eventID="e24" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei25"  eventID="e25" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei26"  eventID="e26" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei27"  eventID="e27" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei28"  eventID="e28" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei29"  eventID="e29" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei30"  eventID="e30" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+
+<TLINK lid="l1" relType="IS_INCLUDED" eventInstanceID="ei2" relatedToTime="t1" />
+<TLINK lid="l2" relType="BEFORE" eventInstanceID="ei1" relatedToTime="t0" />
+<TLINK lid="l3" relType="AFTER" eventInstanceID="ei2" relatedToEventInstance="ei1" />
+<TLINK lid="l4" relType="INCLUDES" eventInstanceID="ei3" relatedToEventInstance="ei1" />
+<TLINK lid="l5" relType="AFTER" eventInstanceID="ei4" relatedToEventInstance="ei1" />
+<TLINK lid="l6" relType="AFTER" eventInstanceID="ei5" relatedToEventInstance="ei1" />
+<TLINK lid="l7" relType="AFTER" eventInstanceID="ei6" relatedToEventInstance="ei1" />
+<TLINK lid="l8" relType="SIMULTANEOUS" eventInstanceID="ei7" relatedToEventInstance="ei1" />
+<TLINK lid="l9" relType="BEFORE" eventInstanceID="ei8" relatedToTime="t0" />
+<TLINK lid="l10" relType="SIMULTANEOUS" eventInstanceID="ei1" relatedToEventInstance="ei8" />
+<TLINK lid="l11" relType="AFTER" eventInstanceID="ei9" relatedToEventInstance="ei8" />
+<TLINK lid="l12" relType="BEFORE" eventInstanceID="ei10" relatedToTime="t0" />
+<TLINK lid="l13" relType="BEFORE" eventInstanceID="ei8" relatedToEventInstance="ei10" />
+<TLINK lid="l14" relType="BEFORE" eventInstanceID="ei11" relatedToEventInstance="ei10" />
+<TLINK lid="l15" relType="INCLUDES" eventInstanceID="ei12" relatedToEventInstance="ei10" />
+<TLINK lid="l16" relType="BEFORE" eventInstanceID="ei13" relatedToEventInstance="ei10" />
+<TLINK lid="l17" relType="BEFORE" eventInstanceID="ei14" relatedToEventInstance="ei10" />
+<TLINK lid="l18" relType="BEFORE" eventInstanceID="ei15" relatedToTime="t0" />
+<TLINK lid="l19" relType="SIMULTANEOUS" eventInstanceID="ei10" relatedToEventInstance="ei15" />
+<TLINK lid="l20" relType="BEFORE" eventInstanceID="ei16" relatedToTime="t0" />
+<TLINK lid="l21" relType="SIMULTANEOUS" eventInstanceID="ei15" relatedToEventInstance="ei16" />
+<TLINK lid="l22" relType="BEFORE" eventInstanceID="ei17" relatedToEventInstance="ei16" />
+<TLINK lid="l23" relType="BEFORE" eventInstanceID="ei18" relatedToEventInstance="ei16" />
+<TLINK lid="l24" relType="BEFORE" eventInstanceID="ei19" relatedToTime="t0" />
+<TLINK lid="l25" relType="SIMULTANEOUS" eventInstanceID="ei16" relatedToEventInstance="ei19" />
+<TLINK lid="l26" relType="AFTER" eventInstanceID="ei20" relatedToEventInstance="ei19" />
+<TLINK lid="l27" relType="BEFORE" eventInstanceID="ei22" relatedToTime="t0" />
+<TLINK lid="l28" relType="SIMULTANEOUS" eventInstanceID="ei19" relatedToEventInstance="ei22" />
+<TLINK lid="l29" relType="AFTER" eventInstanceID="ei21" relatedToEventInstance="ei22" />
+<TLINK lid="l30" relType="AFTER" eventInstanceID="ei23" relatedToEventInstance="ei22" />
+<TLINK lid="l31" relType="AFTER" eventInstanceID="ei24" relatedToEventInstance="ei22" />
+<TLINK lid="l32" relType="BEFORE" eventInstanceID="ei26" relatedToTime="t0" />
+<TLINK lid="l33" relType="BEFORE" eventInstanceID="ei25" relatedToTime="t0" />
+<TLINK lid="l34" relType="AFTER" eventInstanceID="ei22" relatedToEventInstance="ei25" />
+<TLINK lid="l35" relType="AFTER" eventInstanceID="ei26" relatedToEventInstance="ei25" />
+<TLINK lid="l36" relType="AFTER" eventInstanceID="ei27" relatedToEventInstance="ei25" />
+<TLINK lid="l37" relType="BEFORE" eventInstanceID="ei28" relatedToEventInstance="ei25" />
+<TLINK lid="l38" relType="BEFORE" eventInstanceID="ei29" relatedToTime="t0" />
+<TLINK lid="l39" relType="SIMULTANEOUS" eventInstanceID="ei25" relatedToEventInstance="ei29" />
+<TLINK lid="l40" relType="SIMULTANEOUS" eventInstanceID="ei30" relatedToEventInstance="ei29" />
+
+
+
+</TimeML>

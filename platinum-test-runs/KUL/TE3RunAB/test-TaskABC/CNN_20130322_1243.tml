@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130322_1243</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>Google Keep is a note-taking app with great potential</TITLE>
+
+
+
+<TEXT>
+
+Before the <EVENT eid="e275" class="OCCURRENCE">arrival</EVENT> of <EVENT eid="e276" class="OCCURRENCE">Keep</EVENT>, which Google <EVENT eid="e277" class="OCCURRENCE">launched</EVENT> this week, there was no default note-taking app for Android. It was a glaring hole, <EVENT eid="e278" class="I_STATE">considering</EVENT> that Apple's iPhone has built-in Notes and Reminders apps that can be <EVENT eid="e279" class="OCCURRENCE">powered</EVENT> by Siri.
+
+Instead of <EVENT eid="e280" class="OCCURRENCE">settling</EVENT> for a bare bones app to <EVENT eid="e281" class="OCCURRENCE">fill</EVENT> the void, the <EVENT eid="e282" class="OCCURRENCE">search</EVENT> giant <EVENT eid="e283" class="OCCURRENCE">took</EVENT> things one step further. <EVENT eid="e284" class="OCCURRENCE">Keep</EVENT> isn't simply just a place to bank whatever random half-thoughts <EVENT eid="e285" class="OCCURRENCE">come</EVENT> to <EVENT eid="e286" class="OCCURRENCE">mind</EVENT>: Users can <EVENT eid="e287" class="OCCURRENCE">construct</EVENT> to-do lists, stash photos, and color code your notes -- all in one well-designed and easy-to-use interface.
+
+The second you <EVENT eid="e288" class="OCCURRENCE">log</EVENT> anything into your phone, it is also accessible from a PC Web browser via Google Drive. Alternatively, you can <EVENT eid="e289" class="OCCURRENCE">save</EVENT> things while <EVENT eid="e290" class="OCCURRENCE">working</EVENT> on your computer, and it will instantly <EVENT eid="e291" class="OCCURRENCE">appear</EVENT> on your phone, ready for use while on the go.
+
+The design may not be as progressive as the to-do app Clear, but <EVENT eid="e292" class="OCCURRENCE">Keep makes</EVENT> up for that in its simplicity and efficiency.
+
+Everything in <EVENT eid="e293" class="OCCURRENCE">Keep</EVENT> is <EVENT eid="e294" class="OCCURRENCE">presented</EVENT> like a Microsoft (MSFT, Fortune 500) Windows Phone-esque stream of tiles. Swiping <EVENT eid="e295" class="OCCURRENCE">left</EVENT> or right will <EVENT eid="e296" class="OCCURRENCE">archive</EVENT> those notes you no longer <EVENT eid="e297" class="I_STATE">need</EVENT> (but don't <EVENT eid="e298" class="I_STATE">want</EVENT> to <EVENT eid="e299" class="OCCURRENCE">erase</EVENT> entirely). At the top of the app is a text entry field that <EVENT eid="e300" class="OCCURRENCE">serves</EVENT> as your main point of entry for all new notes. And when viewing any specific note, <EVENT eid="e301" class="OCCURRENCE">tapping</EVENT> any part of that note (title, body, etc.) will <EVENT eid="e302" class="OCCURRENCE">allow</EVENT> you to <EVENT eid="e303" class="OCCURRENCE">edit</EVENT> it. The entire experience is frictionless.
+
+That <EVENT eid="e304" class="REPORTING">said</EVENT>, it's not going to <EVENT eid="e305" class="OCCURRENCE">conquer</EVENT> the world quite yet. Organization options are <EVENT eid="e306" class="OCCURRENCE">limited</EVENT> -- color coding is your only choice, and you can't re-order your notes. Sharing with others is mostly <EVENT eid="e307" class="OCCURRENCE">limited</EVENT> to email and Google+, and the desktop features are pretty bare bones.
+
+But that's more a function of it being new, rather than poorly <EVENT eid="e308" class="I_STATE">thought</EVENT> out. Like most things Google, <EVENT eid="e309" class="I_STATE">expect</EVENT> the company to flesh out <EVENT eid="e310" class="OCCURRENCE">Keep</EVENT> over time and really <EVENT eid="e311" class="OCCURRENCE">turn</EVENT> it into our personal internet junk drawer.
+
+It's easy to <EVENT eid="e312" class="OCCURRENCE">foresee</EVENT> <TIMEX3 tid="t54" type="DATE" value="2013-03-22">the day</TIMEX3> the when users will be able to <EVENT eid="e313" class="OCCURRENCE">send</EVENT> anything from their Web browser or Maps directly to <EVENT eid="e314" class="OCCURRENCE">Keep.</EVENT> The prospect of <EVENT eid="e315" class="OCCURRENCE">Keep</EVENT> incorporating features of services such as Pinterest or Pocket, or even <EVENT eid="e316" class="OCCURRENCE">making</EVENT> it easy to catalog <EVENT eid="e317" class="OCCURRENCE">streaming</EVENT> media, could <EVENT eid="e318" class="OCCURRENCE">turn</EVENT> it into something big. That should <EVENT eid="e319" class="OCCURRENCE">scare</EVENT> Evernote.
+
+<EVENT eid="e320" class="OCCURRENCE">Keep</EVENT> is not the reinvention of the wheel in any aspect -- there are a plethora of third-party apps already available for Android. But it is a well-exectuted refinement.
+
+In <EVENT eid="e321" class="OCCURRENCE">filling</EVENT> a minor, but important gap in its mobile ecosystem, Google <EVENT eid="e322" class="OCCURRENCE">gives</EVENT> the competition one less claim of superiority over Android.  
+
+</TEXT>
+
+
+</TimeML>

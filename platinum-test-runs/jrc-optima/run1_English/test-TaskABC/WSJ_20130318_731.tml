@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeML><DOCID>WSJ_20130318_731</DOCID><DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-18" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-18</TIMEX3></DCT><TEXT>
+
+Microsoft Corp. broke sales <EVENT eid="e0" class="OCCURRENCE">records</EVENT> in <TIMEX3 tid="t1" type="DATE" value="2010">2010</TIMEX3> when it <EVENT eid="e1" class="OCCURRENCE">released</EVENT> its Kinect - a movement-tracking device that enabled Xbox users to <EVENT eid="e3" class="OCCURRENCE">play</EVENT> their favorite games through gestures alone, without need of a controller.
+
+Now, with the help of outside developers, the software giant is hoping to <EVENT eid="e4" class="OCCURRENCE">move</EVENT> the Kinect beyond gaming.
+
+Microsoft is <EVENT eid="e5" class="OCCURRENCE">expanding</EVENT> into China with a company-funded incubator <EVENT eid="e6" class="OCCURRENCE">program</EVENT> for outside developers to <EVENT eid="e7" class="OCCURRENCE">build</EVENT> products <EVENT eid="e8" class="OCCURRENCE">based</EVENT> on Kinect technology for a range of industries <EVENT eid="e9" class="OCCURRENCE">including</EVENT> health <EVENT eid="e10" class="OCCURRENCE">care</EVENT> and <EVENT eid="e11" class="OCCURRENCE">retail</EVENT>.
+
+In the U.S., 11 companies were <EVENT eid="e12" class="OCCURRENCE">selected</EVENT> <TIMEX3 tid="t2" type="DATE" value="2012">last year</TIMEX3> for the accelerator's first <TIMEX3 tid="t3" type="DURATION" value="P3M">three-month</TIMEX3> <EVENT eid="e14" class="OCCURRENCE">class</EVENT> in Seattle, out of nearly 500 applicants. Microsoft <EVENT eid="e15" class="OCCURRENCE">said</EVENT> it has <EVENT eid="e16" class="OCCURRENCE">identified</EVENT> three companies for the China <EVENT eid="e17" class="OCCURRENCE">program</EVENT> to <EVENT eid="e18" class="OCCURRENCE">run</EVENT> through June.
+
+The company <EVENT eid="e19" class="OCCURRENCE">gives</EVENT> each participating startup in the Seattle <EVENT eid="e20" class="OCCURRENCE">program</EVENT> $20,000 to <EVENT eid="e21" class="OCCURRENCE">create</EVENT> software that can be <EVENT eid="e22" class="OCCURRENCE">used</EVENT> with Kinect for Windows, but it is isn't <EVENT eid="e23" class="I_ACTION">asking</EVENT> for any ownership <EVENT eid="e24" class="OCCURRENCE">stakes</EVENT> or intellectual property <EVENT eid="e25" class="OCCURRENCE">rights</EVENT>. Microsoft also doesn't <EVENT eid="e26" class="OCCURRENCE">have</EVENT> any veto power over the ideas.
+
+What Microsoft gets are developers around the world <EVENT eid="e27" class="OCCURRENCE">working</EVENT> on ideas that could potentially <EVENT eid="e28" class="ASPECTUAL">open</EVENT> up Kinect for Windows' technology to new markets - and <EVENT eid="e29" class="I_ACTION">convince</EVENT> consumers and businesses to <EVENT eid="e30" class="OCCURRENCE">buy</EVENT> the company's hardware and <EVENT eid="e31" class="OCCURRENCE">make</EVENT> <EVENT eid="e32" class="OCCURRENCE">use</EVENT> of the potential apps.
+
+The Windows-ready Kinect sensor, which would be necessary for any business that wants to <EVENT eid="e33" class="OCCURRENCE">use</EVENT> these potential new technologies, is currently <EVENT eid="e34" class="OCCURRENCE">selling</EVENT> for $250 through Microsoft, more than twice what Microsoft <EVENT eid="e35" class="OCCURRENCE">charges</EVENT> for the gaming-only Xbox version.
+
+</TEXT></TimeML>

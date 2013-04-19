@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>WSJ_20130322_159</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>Netanyahu Apologizes to Turkey for Deadly Ship Raid</TITLE>
+
+
+
+<TEXT>
+
+Israeli Prime Minister Benjamin Netanyahu apologized on Friday to Turkish Prime Minister Recep Tayyip Erdogan for a <EVENT eid="e1" class="OCCURRENCE">raid</EVENT> on a Turkish flotilla ship, a move that will <EVENT eid="e2" class="I_ACTION">help</EVENT> <EVENT eid="e3" class="OCCURRENCE">restore</EVENT> strained ties between the countries.
+
+The <EVENT eid="e4" class="OCCURRENCE">call</EVENT>, which happened as President Barack Obama <EVENT eid="e5" class="OCCURRENCE">wrapped</EVENT> up his first presidential <EVENT eid="e6" class="OCCURRENCE">visit</EVENT> to Israel, was an unexpected outcome from a Mideast trip that seemed to <EVENT eid="e7" class="OCCURRENCE">yield</EVENT> few concrete steps.
+
+Mr. Netanyahu's office <EVENT eid="e8" class="REPORTING">confirmed</EVENT> that the Israeli leader, in a conversation with Mr. Erdogan, "<EVENT eid="e9" class="I_ACTION">agreed</EVENT> to <EVENT eid="e10" class="OCCURRENCE">restore</EVENT> normalization between Israel and Turkey, including the dispatch of ambassadors and the cancellation of legal steps against [Israeli Defense Forces] soldiers." Mr. Erdogan accepted the Israeli apology, the prime minister's office <EVENT eid="e11" class="REPORTING">said</EVENT>.
+
+Mr. Erdogan has long sought an apology for the raid in May 2010 on the Mavi Marmara, which was part of a flotilla that sought to <EVENT eid="e12" class="OCCURRENCE">break</EVENT> Israel's <EVENT eid="e13" class="OCCURRENCE">blockade</EVENT> of Gaza. An Israeli raid on the ship <EVENT eid="e14" class="OCCURRENCE">left</EVENT> nine passengers dead, all of them Turkish or of Turkish descent.
+
+"In light of the Israeli investigation into the incident, which pointed out several operational <EVENT eid="e15" class="OCCURRENCE">errors</EVENT>, Prime Minister Netanyahu <EVENT eid="e16" class="OCCURRENCE">apologized</EVENT> to the Turkish people for any errors that could have <EVENT eid="e17" class="OCCURRENCE">led</EVENT> to <EVENT eid="e18" class="OCCURRENCE">loss</EVENT> of life and agreed to <EVENT eid="e19" class="OCCURRENCE">complete</EVENT> the <EVENT eid="e20" class="I_STATE">agreement</EVENT> on compensation," the statement <EVENT eid="e21" class="REPORTING">said</EVENT>.
+
+Mr. Netanyahu <EVENT eid="e22" class="REPORTING">told</EVENT> Mr. Erdogan that what happened on board the Mavi Marmara was "unintentional and Israel <EVENT eid="e23" class="I_ACTION">expresses</EVENT> regret over injuries and <EVENT eid="e24" class="OCCURRENCE">loss</EVENT> of life," according to the statement.
+
+Mr. Obama <EVENT eid="e25" class="REPORTING">said</EVENT> later at a news conference in Amman that he had <EVENT eid="e26" class="OCCURRENCE">spoken</EVENT> to both leaders over the past two years about how it was in the interests of both countries to restore normal relations.
+
+He <EVENT eid="e27" class="REPORTING">said</EVENT> he <EVENT eid="e28" class="OCCURRENCE">discussed</EVENT> the issue with Mr. Netanyahu during his visit to Israel this week, and that they <EVENT eid="e29" class="I_ACTION">agreed</EVENT> the timing was good for a discussion with the Turkish leader.
+
+The incident was a subject of <EVENT eid="e30" class="REPORTING">talks</EVENT> between Mr. Netanyahu and President Barack Obama during the president's trip to Israel this week, officials <EVENT eid="e31" class="REPORTING">said</EVENT>.
+
+</TEXT>
+
+
+
+</TimeML>

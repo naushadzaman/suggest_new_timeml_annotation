@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>bbc_20130322_1150</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-22</TIMEX3></DCT>
+
+<TITLE>Last 1953 Everest team member George Lowe dies, aged 89</TITLE>
+
+<TEXT>
+
+The last surviving member of the team which first <EVENT eid="e30" class="OCCURRENCE">conquered</EVENT> Everest in <TIMEX3 tid="t10" type="DATE" value="1953">1953</TIMEX3> has <EVENT eid="e31" class="OCCURRENCE">died</EVENT> in a Derbyshire nursing home.
+
+George Lowe, 89, <EVENT eid="e32" class="OCCURRENCE">died</EVENT> in Ripley on <TIMEX3 tid="t11" type="DATE" value="2013-03-20">Wednesday</TIMEX3> after a long-term illness, with his wife Mary by his side.
+
+New Zealand-born Mr Lowe was part of the team that <EVENT eid="e33" class="I_ACTION">helped</EVENT> Sir Edmund Hillary and Tenzing Norgay to the <EVENT eid="e34" class="OCCURRENCE">summit</EVENT> in <TIMEX3 tid="t12" type="DATE" value="1953">1953</TIMEX3>.
+
+Family friend and historian Dr Huw Lewis-Jones <EVENT eid="e35" class="OCCURRENCE">paid</EVENT> tribute to a "gentle soul and fine climber" who <EVENT eid="e36" class="OCCURRENCE">shunned</EVENT> the limelight.
+
+Mr Lowe also <EVENT eid="e37" class="OCCURRENCE">took</EVENT> part in the trans-Antarctic <EVENT eid="e38" class="OCCURRENCE">expedition</EVENT> of 1957-58, which <EVENT eid="e39" class="OCCURRENCE">made</EVENT> the first successful overland <EVENT eid="e40" class="OCCURRENCE">crossing</EVENT> of Antarctica via the South Pole.
+
+He later <EVENT eid="e41" class="OCCURRENCE">made expeditions</EVENT> to Greenland, Greece and Ethiopia.
+
+<EVENT eid="e42" class="OCCURRENCE">Speaking</EVENT> to the BBC in <TIMEX3 tid="t13" type="DATE" value="1995">1995</TIMEX3>, Mr Lowe <EVENT eid="e43" class="REPORTING">said</EVENT> of his Antarctic adventure: "We <EVENT eid="e44" class="REPORTING">estimated</EVENT> we could <EVENT eid="e45" class="OCCURRENCE">do</EVENT> it in <TIMEX3 tid="t14" type="DURATION" value="P100D">100 days</TIMEX3>, and we <EVENT eid="e46" class="OCCURRENCE">got</EVENT> across on <TIMEX3 tid="t15" type="DATE" value="2013-03-22">the 99th day</TIMEX3>.
+
+"There was a great feeling of euphoria from everyone. It had a multiplying effect.
+
+"We were <EVENT eid="e47" class="I_STATE">pleased</EVENT> that England and New Zealand <EVENT eid="e48" class="I_STATE">knew</EVENT> about it, and we <EVENT eid="e49" class="I_STATE">thought</EVENT> that's where it would <EVENT eid="e50" class="ASPECTUAL">stop</EVENT>."
+
+He also <EVENT eid="e51" class="REPORTING">talked</EVENT> about his "second job" as the group's cameraman, and having to <EVENT eid="e52" class="OCCURRENCE">wear</EVENT> four pairs of gloves to <EVENT eid="e53" class="OCCURRENCE">work</EVENT> the clockwork camera.
+
+"When there were dramas, there was a <EVENT eid="e54" class="OCCURRENCE">split</EVENT> problem. Do you <EVENT eid="e55" class="OCCURRENCE">take</EVENT> part in the urgency - or <EVENT eid="e56" class="OCCURRENCE">do</EVENT> you <EVENT eid="e57" class="OCCURRENCE">record</EVENT> it?" he <EVENT eid="e58" class="REPORTING">said</EVENT>.
+
+Dr Lewis-Jones, the former curator at the Scott Polar Research Institute at the University of Cambridge, who first <EVENT eid="e59" class="OCCURRENCE">met</EVENT> Mr Lowe in <TIMEX3 tid="t16" type="DATE" value="2005">2005</TIMEX3>, <EVENT eid="e60" class="REPORTING">called</EVENT> him a "hero".
+
+"I don't often <EVENT eid="e61" class="OCCURRENCE">use</EVENT> that word but then it is not very often that you <EVENT eid="e62" class="OCCURRENCE">get</EVENT> to <EVENT eid="e63" class="OCCURRENCE">meet</EVENT> one," he <EVENT eid="e64" class="REPORTING">said</EVENT>.
+
+A book of memoirs and photographs from the <EVENT eid="e65" class="OCCURRENCE">climb</EVENT> by Mr Lowe, which he <EVENT eid="e66" class="OCCURRENCE">worked</EVENT> on with Dr Lewis-Jones, is due to be <EVENT eid="e67" class="OCCURRENCE">published</EVENT> in <TIMEX3 tid="t17" type="DATE" value="2013-05">May</TIMEX3>.
+
+He <EVENT eid="e68" class="REPORTING">said</EVENT>: "Lowe was a brilliant, kind fellow who never <EVENT eid="e69" class="I_ACTION">sought</EVENT> the limelight... and <TIMEX3 tid="t18" type="DURATION" value="P60Y">60 years</TIMEX3> on from Everest his achievements <EVENT eid="e70" class="OCCURRENCE">deserve</EVENT> wider recognition.
+
+"He was <EVENT eid="e71" class="OCCURRENCE">involved</EVENT> in two of the most important explorations of the 20th Century... yet <EVENT eid="e72" class="STATE">remained</EVENT> a humble, happy man right to the end... an inspirational lesson to us all."
+
+Before <EVENT eid="e73" class="OCCURRENCE">retiring</EVENT> in <TIMEX3 tid="t19" type="DATE" value="1984">1984</TIMEX3>, Mr Lowe <EVENT eid="e74" class="OCCURRENCE">worked</EVENT> as an Inspector of Schools with the Department of Education and Sciences, and he <EVENT eid="e75" class="OCCURRENCE">leaves</EVENT> three sons from a previous marriage.
+
+The last British <EVENT eid="e76" class="OCCURRENCE">climbing</EVENT> member of the <TIMEX3 tid="t20" type="DATE" value="1953">1953</TIMEX3> team, Mike Westmacott, <EVENT eid="e77" class="OCCURRENCE">died</EVENT> <TIMEX3 tid="t21" type="DATE" value="2012-06">last June</TIMEX3>.
+
+</TEXT>
+
+</TimeML>

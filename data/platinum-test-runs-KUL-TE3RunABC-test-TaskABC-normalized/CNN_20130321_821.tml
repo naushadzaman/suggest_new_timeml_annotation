@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130321_821</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">March 21, 2013</TIMEX3></DCT>
+
+<TITLE>How Obama has weaponized wit</TITLE>
+
+
+<TEXT>
+Barack Obama would <EVENT eid="e1" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">make</EVENT> a great stand-up comic, not because he's the funniest president ever but because he <EVENT eid="e2" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">uses</EVENT> jokes the same way many of us comedians <EVENT eid="e4" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">do</EVENT>: as a weapon.
+
+Traditionally, the (intentionally) funny lines by our presidents have had one thing in common: They were self-deprecating. Sure, some presidents have <EVENT eid="e7" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">used</EVENT> jokes to <EVENT eid="e8" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">take</EVENT> <EVENT eid="e9" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">jabs</EVENT> at their opponents, but not to the extent of Obama.
+
+During his tenure, he has increasingly <EVENT eid="e10" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">unleashed</EVENT> <EVENT eid="e11" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">biting</EVENT> comedic barbs against his critics and political adversaries. These jokes are <EVENT eid="e13" class="I_ACTION" tense="PAST" aspect="NONE" pos="VERB">intended</EVENT> to <EVENT eid="e14" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">do</EVENT> more than simply <EVENT eid="e15" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">entertain</EVENT> you. They have an agenda.
+
+Obama's humor is often <EVENT eid="e17" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">delivered</EVENT> the way a comedian <EVENT eid="e18" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">dealing</EVENT> with a heckler would <EVENT eid="e19" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">do</EVENT> it. He <EVENT eid="e20" class="I_ACTION" tense="PRESENT" aspect="NONE" pos="VERB">tries</EVENT> to <EVENT eid="e21" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">undermine</EVENT> his opponents with it and <EVENT eid="e22" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">get</EVENT> the crowd -- in this case the public -- on his side. I can <EVENT eid="e23" class="I_ACTION" tense="FUTURE" aspect="NONE" pos="VERB">assure</EVENT> you that having a crowd laugh at your critic/heckler is not only effective in <EVENT eid="e26" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">dominating</EVENT> them, it's also very satisfying.
+
+</TEXT>
+<MAKEINSTANCE eventID="e1" eiid="ei1" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e2" eiid="ei2" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e4" eiid="ei4" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e7" eiid="ei7" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e8" eiid="ei8" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e9" eiid="ei9" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e10" eiid="ei10" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11" eiid="ei11" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e13" eiid="ei13" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e14" eiid="ei14" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e15" eiid="ei15" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e17" eiid="ei17" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e18" eiid="ei18" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e19" eiid="ei19" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e20" eiid="ei20" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e21" eiid="ei21" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e22" eiid="ei22" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e23" eiid="ei23" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e26" eiid="ei26" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<TLINK lid="l10847" relType="AFTER" eventInstanceID="ei1" relatedToTime="t0"/>
+<TLINK lid="l10849" relType="INCLUDES" eventInstanceID="ei2" relatedToTime="t0"/>
+<TLINK lid="l10851" relType="INCLUDES" eventInstanceID="ei4" relatedToTime="t0"/>
+<TLINK lid="l10853" relType="BEFORE" eventInstanceID="ei7" relatedToTime="t0"/>
+<TLINK lid="l10855" relType="BEFORE" eventInstanceID="ei8" relatedToTime="t0"/>
+<TLINK lid="l10857" relType="BEFORE" eventInstanceID="ei9" relatedToTime="t0"/>
+<TLINK lid="l10859" relType="BEFORE" eventInstanceID="ei10" relatedToTime="t0"/>
+<TLINK lid="l10861" relType="INCLUDES" eventInstanceID="ei11" relatedToTime="t0"/>
+<TLINK lid="l10863" relType="BEFORE" eventInstanceID="ei13" relatedToTime="t0"/>
+<TLINK lid="l10865" relType="AFTER" eventInstanceID="ei14" relatedToTime="t0"/>
+<TLINK lid="l10867" relType="INCLUDES" eventInstanceID="ei15" relatedToTime="t0"/>
+<TLINK lid="l10869" relType="BEFORE" eventInstanceID="ei17" relatedToTime="t0"/>
+<TLINK lid="l10871" relType="INCLUDES" eventInstanceID="ei18" relatedToTime="t0"/>
+<TLINK lid="l10873" relType="AFTER" eventInstanceID="ei19" relatedToTime="t0"/>
+<TLINK lid="l10875" relType="INCLUDES" eventInstanceID="ei20" relatedToTime="t0"/>
+<TLINK lid="l10877" relType="AFTER" eventInstanceID="ei21" relatedToTime="t0"/>
+<TLINK lid="l10879" relType="BEFORE" eventInstanceID="ei22" relatedToTime="t0"/>
+<TLINK lid="l10881" relType="AFTER" eventInstanceID="ei23" relatedToTime="t0"/>
+<TLINK lid="l10883" relType="INCLUDES" eventInstanceID="ei26" relatedToTime="t0"/>
+<TLINK lid="l10884" relType="AFTER" eventInstanceID="ei1" relatedToEventInstance="ei13"/>
+<TLINK lid="l10885" relType="SIMULTANEOUS" eventInstanceID="ei15" relatedToEventInstance="ei18"/>
+<TLINK lid="l10886" relType="BEFORE" eventInstanceID="ei17" relatedToEventInstance="ei21"/>
+<TLINK lid="l10887" relType="AFTER" eventInstanceID="ei23" relatedToEventInstance="ei26"/>
+
+
+</TimeML>

@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>AP_20130322</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>105 U.S. Kids Died From Flu, CDC Says</TITLE>
+
+
+
+<TEXT>
+
+The flu season is <EVENT eid="e10001" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">winding</EVENT> down, and it has <EVENT eid="e10002" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">killed</EVENT> 105 children so far - about the average toll.
+
+The season <EVENT eid="e10005" class="ASPECTUAL" tense="PAST" aspect="NONE" pos="VERB">started</EVENT> about <TIMEX3 tid="t10003" type="DURATION" value="P1M">a month</TIMEX3> earlier than usual, sparking concerns it might <EVENT eid="e10006" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">turn</EVENT> into the worst in <TIMEX3 tid="t10004" type="DURATION" value="P1E">a decade</TIMEX3>. It <EVENT eid="e10007" class="ASPECTUAL" tense="PAST" aspect="NONE" pos="VERB">ended</EVENT> up being very hard on the elderly, but was moderately severe overall, <EVENT eid="e10008" class="REPORTING" tense="NONE" aspect="NONE" pos="VERB">according</EVENT> to the Centers for Disease Control and Prevention.
+
+Six of the pediatric deaths were <EVENT eid="e10010" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">reported</EVENT> in the last week, and it's possible there will be more, <EVENT eid="e10011" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT> the CDC's Dr. Michael Jhung <EVENT eid="e10012" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT> <TIMEX3 tid="t10009" type="DATE" value="2013-03-22">Friday</TIMEX3>.
+
+Roughly 100 children <EVENT eid="e10013" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">die</EVENT> in an average flu season. One exception was the swine flu pandemic of 2009-2010, when 348 children <EVENT eid="e10014" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">died</EVENT>.
+
+The CDC <EVENT eid="e10016" class="I_ACTION" tense="PRESENT" aspect="NONE" pos="VERB">recommends</EVENT> that all children ages <TIMEX3 tid="t10015" type="DURATION" value="P6M">6 months</TIMEX3> and older be <EVENT eid="e10017" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">vaccinated</EVENT> against flu each season, though only about half <EVENT eid="e10018" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">get</EVENT> a flu <EVENT eid="e10019" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">shot</EVENT> or nasal spray.
+
+All but four of the children who <EVENT eid="e10020" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">died</EVENT> were old enough to be <EVENT eid="e10021" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">vaccinated</EVENT>, but 90 percent of them did not <EVENT eid="e10022" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">get</EVENT> <EVENT eid="e10023" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">vaccinated</EVENT>, CDC officials <EVENT eid="e10024" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT>.
+
+<TIMEX3 tid="t10025" type="DATE" value="2013">This year</TIMEX3>'s vaccine was <EVENT eid="e10026" class="I_STATE" tense="PAST" aspect="NONE" pos="VERB">considered</EVENT> effective in children, though it didn't work very well in older people. And the dominant flu strain early in the season was one that tends to <EVENT eid="e10027" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">cause</EVENT> more severe illness.
+
+The government only does a national flu death count for children. But it does <EVENT eid="e10028" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">track</EVENT> hospitalization rates for people 65 and older, and those statistics have been grim.
+
+In that group, 177 out of every 100,000 were <EVENT eid="e10030" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">hospitalized</EVENT> with flu-related illness in <TIMEX3 tid="t10029" type="DURATION" value="PXM">the past several months</TIMEX3>. That's more than 2 1/2 times higher than any other recent season.
+
+This flu season <EVENT eid="e10034" class="ASPECTUAL" tense="PAST" aspect="NONE" pos="VERB">started</EVENT> in <TIMEX3 tid="t10031" type="DATE" value="2013-12">early December</TIMEX3>, <TIMEX3 tid="t10032" type="DURATION" value="P1M">a month</TIMEX3> earlier than usual, and <EVENT eid="e10035" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">peaked</EVENT> by the end of <TIMEX3 tid="t10033" type="DATE" value="2013">year</TIMEX3>. Since then, flu reports have been <EVENT eid="e10036" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">dropping</EVENT> off throughout the country.
+
+"We <EVENT eid="e10037" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">appear</EVENT> to be <EVENT eid="e10038" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">getting</EVENT> close to the end of flu season," Jhung <EVENT eid="e10039" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT>.
+
+</TEXT>
+<MAKEINSTANCE eventID="e10001" eiid="ei10040" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10002" eiid="ei10042" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10005" eiid="ei10044" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10006" eiid="ei10046" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10007" eiid="ei10048" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10008" eiid="ei10050" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10010" eiid="ei10052" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10011" eiid="ei10054" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10012" eiid="ei10056" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10013" eiid="ei10058" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10014" eiid="ei10060" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10016" eiid="ei10062" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10017" eiid="ei10064" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10018" eiid="ei10066" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10019" eiid="ei10068" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e10020" eiid="ei10070" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10021" eiid="ei10072" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10022" eiid="ei10074" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10023" eiid="ei10076" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10024" eiid="ei10078" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10026" eiid="ei10080" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10027" eiid="ei10082" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10028" eiid="ei10084" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10030" eiid="ei10086" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10034" eiid="ei10088" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10035" eiid="ei10090" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10036" eiid="ei10092" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10037" eiid="ei10094" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10038" eiid="ei10096" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10039" eiid="ei10098" tense="PAST" aspect="NONE" pos="VERB"/>
+<TLINK lid="l10041" relType="INCLUDES" eventInstanceID="ei10040" relatedToTime="t0"/>
+<TLINK lid="l10043" relType="BEFORE" eventInstanceID="ei10042" relatedToTime="t0"/>
+<TLINK lid="l10045" relType="BEFORE" eventInstanceID="ei10044" relatedToTime="t0"/>
+<TLINK lid="l10047" relType="BEFORE" eventInstanceID="ei10046" relatedToTime="t0"/>
+<TLINK lid="l10049" relType="BEFORE" eventInstanceID="ei10048" relatedToTime="t0"/>
+<TLINK lid="l10051" relType="BEFORE" eventInstanceID="ei10050" relatedToTime="t0"/>
+<TLINK lid="l10053" relType="BEFORE" eventInstanceID="ei10052" relatedToTime="t0"/>
+<TLINK lid="l10055" relType="BEFORE" eventInstanceID="ei10054" relatedToTime="t0"/>
+<TLINK lid="l10057" relType="BEFORE" eventInstanceID="ei10056" relatedToTime="t0"/>
+<TLINK lid="l10059" relType="INCLUDES" eventInstanceID="ei10058" relatedToTime="t0"/>
+<TLINK lid="l10061" relType="BEFORE" eventInstanceID="ei10060" relatedToTime="t0"/>
+<TLINK lid="l10063" relType="INCLUDES" eventInstanceID="ei10062" relatedToTime="t0"/>
+<TLINK lid="l10065" relType="BEFORE" eventInstanceID="ei10064" relatedToTime="t0"/>
+<TLINK lid="l10067" relType="INCLUDES" eventInstanceID="ei10066" relatedToTime="t0"/>
+<TLINK lid="l10069" relType="BEFORE" eventInstanceID="ei10068" relatedToTime="t0"/>
+<TLINK lid="l10071" relType="BEFORE" eventInstanceID="ei10070" relatedToTime="t0"/>
+<TLINK lid="l10073" relType="BEFORE" eventInstanceID="ei10072" relatedToTime="t0"/>
+<TLINK lid="l10075" relType="BEFORE" eventInstanceID="ei10074" relatedToTime="t0"/>
+<TLINK lid="l10077" relType="BEFORE" eventInstanceID="ei10076" relatedToTime="t0"/>
+<TLINK lid="l10079" relType="IS_INCLUDED" eventInstanceID="ei10078" relatedToTime="t0"/>
+<TLINK lid="l10081" relType="BEFORE" eventInstanceID="ei10080" relatedToTime="t0"/>
+<TLINK lid="l10083" relType="INCLUDES" eventInstanceID="ei10082" relatedToTime="t0"/>
+<TLINK lid="l10085" relType="AFTER" eventInstanceID="ei10084" relatedToTime="t0"/>
+<TLINK lid="l10087" relType="BEFORE" eventInstanceID="ei10086" relatedToTime="t0"/>
+<TLINK lid="l10089" relType="BEFORE" eventInstanceID="ei10088" relatedToTime="t0"/>
+<TLINK lid="l10091" relType="BEFORE" eventInstanceID="ei10090" relatedToTime="t0"/>
+<TLINK lid="l10093" relType="INCLUDES" eventInstanceID="ei10092" relatedToTime="t0"/>
+<TLINK lid="l10095" relType="IS_INCLUDED" eventInstanceID="ei10094" relatedToTime="t0"/>
+<TLINK lid="l10097" relType="IS_INCLUDED" eventInstanceID="ei10096" relatedToTime="t0"/>
+<TLINK lid="l10099" relType="IS_INCLUDED" eventInstanceID="ei10098" relatedToTime="t0"/>
+<TLINK lid="l10100" relType="DURING" eventInstanceID="ei10044" relatedToTime="t10003"/>
+<TLINK lid="l10101" relType="AFTER" eventInstanceID="ei10098" relatedToTime="t10004"/>
+<TLINK lid="l10102" relType="DURING" eventInstanceID="ei10048" relatedToEventInstance="ei10050"/>
+<TLINK lid="l10103" relType="BEFORE" eventInstanceID="ei10056" relatedToEventInstance="ei10054"/>
+<TLINK lid="l10104" relType="DURING" eventInstanceID="ei10056" relatedToTime="t10009"/>
+<TLINK lid="l10105" relType="AFTER" eventInstanceID="ei10078" relatedToEventInstance="ei10060"/>
+<TLINK lid="l10106" relType="AFTER" eventInstanceID="ei10078" relatedToEventInstance="ei10064"/>
+<TLINK lid="l10107" relType="DURING_INV" eventInstanceID="ei10098" relatedToEventInstance="ei10066"/>
+<TLINK lid="l10108" relType="AFTER" eventInstanceID="ei10084" relatedToEventInstance="ei10068"/>
+<TLINK lid="l10109" relType="AFTER" eventInstanceID="ei10078" relatedToEventInstance="ei10070"/>
+<TLINK lid="l10110" relType="AFTER" eventInstanceID="ei10078" relatedToEventInstance="ei10072"/>
+<TLINK lid="l10111" relType="BEFORE" eventInstanceID="ei10076" relatedToEventInstance="ei10074"/>
+<TLINK lid="l10112" relType="BEFORE" eventInstanceID="ei10056" relatedToEventInstance="ei10078"/>
+<TLINK lid="l10113" relType="AFTER" eventInstanceID="ei10078" relatedToEventInstance="ei10080"/>
+<TLINK lid="l10114" relType="DURING" eventInstanceID="ei10078" relatedToEventInstance="ei10082"/>
+<TLINK lid="l10115" relType="BEFORE" eventInstanceID="ei10048" relatedToEventInstance="ei10084"/>
+<TLINK lid="l10116" relType="AFTER" eventInstanceID="ei10084" relatedToEventInstance="ei10086"/>
+<TLINK lid="l10117" relType="AFTER" eventInstanceID="ei10098" relatedToEventInstance="ei10088"/>
+<TLINK lid="l10118" relType="AFTER" eventInstanceID="ei10096" relatedToEventInstance="ei10090"/>
+<TLINK lid="l10119" relType="DURING" eventInstanceID="ei10090" relatedToTime="t10033"/>
+<TLINK lid="l10120" relType="BEFORE" eventInstanceID="ei10056" relatedToEventInstance="ei10094"/>
+<TLINK lid="l10121" relType="AFTER" eventInstanceID="ei10098" relatedToEventInstance="ei10096"/>
+<TLINK lid="l10122" relType="BEFORE" eventInstanceID="ei10070" relatedToEventInstance="ei10098"/>
+
+
+</TimeML>

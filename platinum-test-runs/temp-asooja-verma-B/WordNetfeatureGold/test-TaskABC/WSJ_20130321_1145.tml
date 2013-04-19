@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>WSJ_20130321_1145</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">March 21, 2013</TIMEX3></DCT>
+
+<TITLE>The Terminal Cancer Patient Who Won a Marathon</TITLE>
+
+
+<TEXT>
+
+In competitions against the clock, some athletes <EVENT eid="e1" class="OCCURRENCE">display</EVENT> an ability to <EVENT eid="e2" class="OCCURRENCE">seize</EVENT> control. Think of the Clark-Kent-to-Superman routines that John Elway and Michael Jordan often <EVENT eid="e3" class="OCCURRENCE">pulled</EVENT> in the final seconds.
+
+But Iram Leon stands on the sidelines of his own race against time. Lodged in his brain is an untreatable and inoperable cancerous tumor that statistics <EVENT eid="e4" class="I_STATE">suggest</EVENT> will <EVENT eid="e5" class="OCCURRENCE">kill</EVENT> him before he is 40, eight years from now. Medical science is <EVENT eid="e6" class="OCCURRENCE">advancing</EVENT> at a rate that doesn't <EVENT eid="e7" class="OCCURRENCE">preclude</EVENT> the <EVENT eid="e8" class="OCCURRENCE">development</EVENT> of a treatment, but it's not clear if it will <EVENT eid="e9" class="OCCURRENCE">come</EVENT> in time.
+
+"No one knows what technology will be <EVENT eid="e10" class="STATE">available</EVENT> in five years," <EVENT eid="e11" class="REPORTING">said</EVENT> Allan Friedman, Duke University Hospital neurosurgeon in chief, who in 2011 removed as much of Leon's brain tumor as possible.
+
+The torment of enduring that wait can paste a cancer patient to the couch, a surrender heavily associated with deadlier outcomes. Some seek escape in their careers, but that is no longer an option for Leon, who early this year was <EVENT eid="e12" class="I_STATE">forced</EVENT> to step down as a juvenile probation officer in Travis County, Texas, a position he <EVENT eid="e13" class="STATE">had</EVENT> <EVENT eid="e14" class="STATE">held</EVENT> for almost seven years. His thinking is no longer clear, said Leon, adding, "I was <EVENT eid="e15" class="I_ACTION">making</EVENT> too many mistakes on the stand."
+
+But Leon can still <EVENT eid="e16" class="OCCURRENCE">run</EVENT>. Two years after his brain-cancer diagnosis, he recently <EVENT eid="e17" class="I_STATE">ran</EVENT> a sub-five-minute mile for the first time since high school. What has startled the medical community even more is what Leon did this month in Beaumont, Texas. He <EVENT eid="e18" class="OCCURRENCE">won</EVENT> the Gusher Marathon, finishing in 3:07:35. That was one second slower than his personal record in the 26.2-mile event, set days before he <EVENT eid="e19" class="OCCURRENCE">underwent</EVENT> brain surgery in early 2011.
+
+</TEXT>
+
+</TimeML>

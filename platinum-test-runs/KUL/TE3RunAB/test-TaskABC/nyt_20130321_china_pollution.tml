@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>nyt_20130321_china_pollution</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-21</TIMEX3></DCT>
+
+<TITLE>As Pollution Worsens in China, Solutions Succumb to Infighting</TITLE>
+
+<TEXT>
+
+China's state leadership <EVENT eid="e371" class="OCCURRENCE">transition</EVENT> has <EVENT eid="e372" class="OCCURRENCE">taken</EVENT> place <TIMEX3 tid="t63" type="DATE" value="2013-03">this month</TIMEX3> against an ominous backdrop. More than 16,000 dead pigs have been <EVENT eid="e373" class="OCCURRENCE">found floating</EVENT> in rivers that <EVENT eid="e374" class="OCCURRENCE">provide</EVENT> drinking water to Shanghai. A haze akin to volcanic fumes <EVENT eid="e375" class="OCCURRENCE">cloaked</EVENT> the capital, <EVENT eid="e376" class="OCCURRENCE">causing</EVENT> convulsive coughing and <EVENT eid="e377" class="OCCURRENCE">obscuring</EVENT> the portrait of Mao Zedong on the gate to the Forbidden City.
+
+So severe are China's environmental woes, especially the noxious air, that top government officials have been <EVENT eid="e378" class="OCCURRENCE">forced</EVENT> to openly <EVENT eid="e379" class="REPORTING">acknowledge</EVENT> them. Fu Ying, the spokeswoman for the National People's Congress, <EVENT eid="e380" class="REPORTING">said</EVENT> she <EVENT eid="e381" class="OCCURRENCE">checked</EVENT> for smog <TIMEX3 tid="t64" type="TIME" value="2013-03-21TMO">every morning</TIMEX3> after <EVENT eid="e382" class="ASPECTUAL">opening</EVENT> her curtains and <EVENT eid="e383" class="OCCURRENCE">kept</EVENT> at home face masks for her daughter and herself. Li Keqiang, the new prime minister, <EVENT eid="e384" class="REPORTING">said</EVENT> the air pollution had <EVENT eid="e385" class="OCCURRENCE">made</EVENT> him "quite upset" and <EVENT eid="e386" class="I_ACTION">vowed</EVENT> to "<EVENT eid="e387" class="OCCURRENCE">show</EVENT> even greater resolve and <EVENT eid="e388" class="OCCURRENCE">make</EVENT> more vigorous efforts" to <EVENT eid="e389" class="OCCURRENCE">clean</EVENT> it up.
+
+<TIMEX3 tid="t65" type="DATE" value="2013-02">Last month</TIMEX3>, after deadly air pollution hit record levels in northern China, officials <EVENT eid="e390" class="OCCURRENCE">led</EVENT> byWen Jiabao, then the prime minister, <EVENT eid="e391" class="OCCURRENCE">put</EVENT> forward strict new fuel standards that the oil companies had <EVENT eid="e392" class="OCCURRENCE">blocked</EVENT> for <TIMEX3 tid="t66" type="DURATION" value="PXY">years.</TIMEX3> But there are doubts about whether the oil companies will <EVENT eid="e393" class="I_STATE">comply</EVENT>, especially since oil officials <EVENT eid="e394" class="I_ACTION">resisted</EVENT> a similar government order for higher-grade fuel <TIMEX3 tid="t67" type="DATE" value="2009">four years ago.</TIMEX3> State-owned power companies have been similarly resistant. The companies regularly <EVENT eid="e395" class="OCCURRENCE">ignore</EVENT> government orders to <EVENT eid="e396" class="OCCURRENCE">upgrade</EVENT> coal-burning electricity plants, <EVENT eid="e397" class="REPORTING">according</EVENT> to ministry data. And as with the oil companies, the power companies <EVENT eid="e398" class="OCCURRENCE">exert</EVENT> an outsize influence over environmental policy debates.
+
+In <TIMEX3 tid="t68" type="DATE" value="2011">2011</TIMEX3>, during a round of <EVENT eid="e399" class="OCCURRENCE">discussions</EVENT> over stricter emissions standards, the China Electricity Council, which <EVENT eid="e400" class="OCCURRENCE">represents</EVENT> the companies, <EVENT eid="e401" class="OCCURRENCE">pushed</EVENT> back hard against the proposals, <EVENT eid="e402" class="REPORTING">saying</EVENT> that the costs of <EVENT eid="e403" class="OCCURRENCE">upgrading</EVENT> the plants would be too high.
+
+On <TIMEX3 tid="t69" type="DATE" value="2013-02-28">Feb. 28</TIMEX3>, Deutsche Bank <EVENT eid="e404" class="OCCURRENCE">released</EVENT> an analysts' note <EVENT eid="e405" class="REPORTING">saying</EVENT> that China's current economic policies would <EVENT eid="e406" class="OCCURRENCE">result</EVENT> in an enormous <EVENT eid="e407" class="OCCURRENCE">surge</EVENT> in coal consumption and automobile sales over <TIMEX3 tid="t70" type="DATE" value="">the next decade.</TIMEX3> "China's air pollution will <EVENT eid="e408" class="OCCURRENCE">become</EVENT> a lot worse from the already unbearable level," the analysts <EVENT eid="e409" class="REPORTING">said</EVENT>, <EVENT eid="e410" class="OCCURRENCE">calling</EVENT> for drastic policy <EVENT eid="e411" class="OCCURRENCE">changes</EVENT> and "a strong government will to <EVENT eid="e412" class="I_ACTION">overcome</EVENT> the opposition from interest groups."
+
+The report <EVENT eid="e413" class="REPORTING">estimated</EVENT> that the number of passenger cars in China was on track to <EVENT eid="e414" class="OCCURRENCE">hit</EVENT> 400 million by <TIMEX3 tid="t71" type="DATE" value="2030">2030</TIMEX3>, up from 90 million now.
+
+</TEXT>
+
+</TimeML>

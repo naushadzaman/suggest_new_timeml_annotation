@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130322_1003</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>New York man admits faking his death</TITLE>
+
+<TEXT>
+
+ A New York man who was <EVENT eid="e1" class="STATE">accused</EVENT> of faking his <EVENT eid="e2" class="OCCURRENCE">death</EVENT> last summer pleaded guilty to a conspiracy charge Thursday, Nassau County District Attorney Kathleen Rice <EVENT eid="e3" class="REPORTING">announced</EVENT>.
+
+Raymond Roth, 48, of Massapequa, New York, was first <EVENT eid="e4" class="REPORTING">reported</EVENT> missing in the waters off Jones Beach late last July by his 22-year-old son, Jonathan Roth. Several days into an extensive <EVENT eid="e5" class="OCCURRENCE">search</EVENT> <EVENT eid="e6" class="OCCURRENCE">involving</EVENT> multiple agencies, New York State Park Police <EVENT eid="e7" class="REPORTING">said</EVENT>, authorities <EVENT eid="e8" class="OCCURRENCE">learned</EVENT> the missing man was in South Carolina, where he had been pulled over for speeding.
+
+The day before Raymond Roth was <EVENT eid="e9" class="OCCURRENCE">pulled</EVENT> over, his wife, Evana, <EVENT eid="e10" class="I_STATE">showed</EVENT> authorities e-mails she had discovered that appeared to detail a plan between him and his son to fake his death. Raymond Roth <EVENT eid="e11" class="I_STATE">wanted</EVENT> his wife and son to <EVENT eid="e12" class="OCCURRENCE">collect</EVENT> at least $410,000 in life insurance benefits while he <EVENT eid="e13" class="I_STATE">started</EVENT> a new life in Florida, Rice <EVENT eid="e14" class="REPORTING">said</EVENT>.
+
+State police <EVENT eid="e15" class="OCCURRENCE">arrested</EVENT> both men in early August on <EVENT eid="e16" class="OCCURRENCE">charges</EVENT> of insurance fraud, conspiracy and <EVENT eid="e17" class="OCCURRENCE">filing</EVENT> a false report. Raymond Roth on Thursday <EVENT eid="e18" class="I_STATE">agreed</EVENT> to <EVENT eid="e19" class="I_ACTION">plead</EVENT> guilty to the conspiracy charge in exchange for a sentence of 90 days in jail and five years' probation, the district attorney's office <EVENT eid="e20" class="REPORTING">said</EVENT>. He also must <EVENT eid="e21" class="OCCURRENCE">pay</EVENT> restitution for the cost of the <EVENT eid="e22" class="OCCURRENCE">search</EVENT> -- $27,445 to the U.S. Coast Guard and $9,109 to the Nassau County Police Department.
+
+Evana Roth <EVENT eid="e23" class="REPORTING">told</EVENT> CNN in August she <EVENT eid="e24" class="I_STATE">thought</EVENT> her husband devised the plan after he was <EVENT eid="e25" class="OCCURRENCE">fired</EVENT> from his job in July. Her attorney, Lenard Leeds, said she had been unaware of the ruse before she <EVENT eid="e26" class="OCCURRENCE">uncovered</EVENT> the e-mail correspondence.
+
+"There needs to be a way for me to <EVENT eid="e27" class="OCCURRENCE">find</EVENT> out how things are going. Call me Sunday night at 8 PM at the resort," Raymond Roth <EVENT eid="e28" class="REPORTING">wrote</EVENT> in an e-mail to his son the day before the son <EVENT eid="e29" class="REPORTING">reported</EVENT> him <EVENT eid="e30" class="OCCURRENCE">missing</EVENT>.
+
+The son's case is still pending, the district attorney <EVENT eid="e31" class="REPORTING">said</EVENT>. Jonathan Roth's attorney, Joey Jackson, <EVENT eid="e32" class="OCCURRENCE">defended</EVENT> his client after his arrest, saying, "There was abuse here, manipulation here, coercion here" from the father.
+
+Raymond Roth's attorney, Brian Davis, <EVENT eid="e33" class="OCCURRENCE">denied</EVENT> in August that Roth had involved his son in the scheme.
+
+"We had issues concerning the facts people had whether (Roth) had an agreement with his son," Davis <EVENT eid="e34" class="REPORTING">told</EVENT> CNN on Thursday. "He's admitted it now. He's accepted responsibility."
+
+Davis <EVENT eid="e35" class="OCCURRENCE">added</EVENT> that his client has been under <EVENT eid="e36" class="STATE">treatment</EVENT> for bipolar <EVENT eid="e37" class="OCCURRENCE">disorder</EVENT> in recent weeks.
+
+During plea <EVENT eid="e38" class="OCCURRENCE">negotiations</EVENT>, Raymond Roth <EVENT eid="e39" class="I_ACTION">asked</EVENT> the district attorney's office not to give his son jail time, Davis <EVENT eid="e40" class="REPORTING">said</EVENT>.
+
+On the advice of both their attorneys, father and son have not been in contact since their <EVENT eid="e41" class="OCCURRENCE">arrests</EVENT>, Davis <EVENT eid="e42" class="REPORTING">said</EVENT>.
+
+"He would like to straighten things out with (Jonathan) when the time <EVENT eid="e43" class="OCCURRENCE">comes</EVENT>," he <EVENT eid="e44" class="REPORTING">said</EVENT>.
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,283 @@
+event	<EVENT eid="e19" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="would">do</EVENT>	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+event	<EVENT eid="e18" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">dealing</EVENT>	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+event	<EVENT eid="e22" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">get</EVENT>	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+event	<EVENT eid="e11" class="OCCURRENCE" tense="PRESPART" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="none">biting</EVENT>	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+event	<EVENT eid="e15" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">entertain</EVENT>	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+event	<EVENT eid="e14" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">do</EVENT>	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+event	<EVENT eid="e17" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">delivered</EVENT>	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+event	<EVENT eid="e8" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">take</EVENT>	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+event	<EVENT eid="e3" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">jokes</EVENT>	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+event	<EVENT eid="e2" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">uses</EVENT>	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei13	ei14	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei14	ei13	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei20	ei22	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei22	ei20	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei15	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	t0	ei15	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei8	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	t0	ei8	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei14	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	t0	ei14	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei19	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	t0	ei19	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei21	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	t0	ei21	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei11	t0	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	t0	ei11	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei5	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	t0	ei5	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei7	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	t0	ei7	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei5	ei7	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei7	ei5	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei7	ei10	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei10	ei7	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	t0	t1	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	t1	t0	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei10	t1	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	t1	ei10	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei10	ei13	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei13	ei10	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+event	<EVENT eid="e19" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="would">do</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+event	<EVENT eid="e18" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">dealing</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+event	<EVENT eid="e26" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">dominating</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+event	<EVENT eid="e22" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">get</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+event	<EVENT eid="e11" class="OCCURRENCE" tense="PRESPART" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" modality="none">biting</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+event	<EVENT eid="e15" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">entertain</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+event	<EVENT eid="e14" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">do</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+event	<EVENT eid="e17" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">delivered</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+event	<EVENT eid="e8" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">take</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+event	<EVENT eid="e3" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">jokes</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+event	<EVENT eid="e2" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">uses</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei1	ei2	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei2	ei1	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei7	ei8	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei8	ei7	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei13	ei14	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei14	ei13	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei20	ei22	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei22	ei20	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei14	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t0	ei14	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei21	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t0	ei21	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei11	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t0	ei11	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei8	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t0	ei8	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei18	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t0	ei18	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei17	t0	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t0	ei17	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei15	t0	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t0	ei15	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei26	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t0	ei26	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei3	t0	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t0	ei3	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei21	ei22	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei22	ei21	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei10	ei11	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei11	ei10	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei2	t0	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t0	ei2	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei22	t0	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t0	ei22	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei1	ei3	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei3	ei1	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei5	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t0	ei5	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei5	ei7	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei7	ei5	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei7	ei10	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei10	ei7	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t0	t1	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t1	t0	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei10	t1	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	t1	ei10	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+event	<EVENT eid="e19" tense="PRESENT" aspect="NONE" class="OCCURRENCE">do</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+event	<EVENT eid="e25" tense="PRESENT" aspect="NONE" class="OCCURRENCE">laugh</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+event	<EVENT eid="e26" tense="PRESPART" aspect="NONE" class="OCCURRENCE">dominating</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+event	<EVENT eid="e22" tense="PRESENT" aspect="NONE" class="OCCURRENCE">get</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+event	<EVENT eid="e11" tense="PRESPART" aspect="NONE" class="I_ACTION">biting</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+event	<EVENT eid="e14" tense="INFINITIVE" aspect="NONE" class="OCCURRENCE">do</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+event	<EVENT eid="e17" tense="PRESENT" aspect="NONE" class="OCCURRENCE">delivered</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+event	<EVENT eid="e16" tense="PRESENT" aspect="NONE" class="STATE">have</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+event	<EVENT eid="e4" tense="PRESENT" aspect="NONE" class="OCCURRENCE">do</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+event	<EVENT eid="e2" tense="PRESENT" aspect="NONE" class="OCCURRENCE">uses</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei13	ei14	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei14	ei13	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei17	ei19	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei19	ei17	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei16	t0	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	t0	ei16	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei1	ei2	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei2	ei1	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei17	ei20	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei20	ei17	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei16	ei17	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei17	ei16	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei23	ei25	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei25	ei23	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei20	ei26	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei26	ei20	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei13	ei16	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei16	ei13	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei5	t0	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	t0	ei5	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei5	ei7	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei7	ei5	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	t0	t1	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	t1	t0	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei10	t1	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	t1	ei10	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei20	ei21	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei21	ei20	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+event	<EVENT eid="e19" class="OCCURRENCE">do</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e18" class="OCCURRENCE">dealing</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e26" class="OCCURRENCE">dominating</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e22" class="PERCEPTION">get</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e11" class="OCCURRENCE">biting</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e12" class="OCCURRENCE">jokes</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e15" class="OCCURRENCE">entertain</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e14" class="OCCURRENCE">do</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e17" class="REPORTING">delivered</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e16" class="I_STATE">have</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e8" class="I_STATE">take</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e24" class="I_STATE">having</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e6" class="STATE">self-deprecating</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e2" class="OCCURRENCE">uses</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei2	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei2	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei6	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei6	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei8	t0	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei8	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei11	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei11	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei12	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei12	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei14	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei14	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei15	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei15	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei16	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei16	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei17	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei17	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei18	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei18	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei19	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei19	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei22	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei22	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei24	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei24	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei26	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei26	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei12	ei13	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei13	ei12	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei12	ei14	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei14	ei12	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei12	ei15	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei15	ei12	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei14	ei15	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei15	ei14	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei17	ei18	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei18	ei17	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei17	ei19	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei19	ei17	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei20	ei22	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei22	ei20	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei23	ei24	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei24	ei23	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei23	ei26	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei26	ei23	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei6	ei7	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei7	ei6	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei12	ei16	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei16	ei12	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei16	ei17	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei17	ei16	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei17	ei20	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei20	ei17	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei20	ei23	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei23	ei20	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei10	ei11	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei11	ei10	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei13	ei15	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei15	ei13	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei18	ei19	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei19	ei18	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei21	ei22	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei22	ei21	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei1	ei6	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei6	ei1	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei10	ei12	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei12	ei10	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei5	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	ei5	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei5	ei7	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei7	ei5	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t0	t1	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t1	t0	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei10	t1	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	t1	ei10	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+event	<EVENT eid="e19" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">do</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+event	<EVENT eid="e18" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">dealing</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+event	<EVENT eid="e26" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">dominating</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+event	<EVENT eid="e22" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">get</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+event	<EVENT eid="e11" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">biting</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+event	<EVENT eid="e15" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">entertain</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+event	<EVENT eid="e14" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">do</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+event	<EVENT eid="e17" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">delivered</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+event	<EVENT eid="e9" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">jabs</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+event	<EVENT eid="e8" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">take</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+event	<EVENT eid="e4" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">do</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+event	<EVENT eid="e2" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">uses</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei2	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei2	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei4	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei4	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei8	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei8	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei9	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei9	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei11	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei11	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei13	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei13	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei14	t0	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei14	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei15	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei15	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei17	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei17	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei18	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei18	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei19	t0	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei19	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei21	t0	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei21	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei22	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei22	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei26	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei26	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei15	ei18	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei18	ei15	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei23	ei26	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei26	ei23	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei5	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	ei5	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei5	ei7	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei7	ei5	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei7	ei10	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei10	ei7	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t0	t1	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t1	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei10	t1	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	t1	ei10	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei10	ei13	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei13	ei10	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei20	ei21	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei21	ei20	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized

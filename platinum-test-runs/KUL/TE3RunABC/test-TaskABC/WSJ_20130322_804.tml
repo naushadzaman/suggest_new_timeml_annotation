@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>WSJ_20130322_804</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>Health Insurers Warn on Premiums</TITLE>
+
+
+
+<TEXT>
+
+Health insurers are privately <EVENT eid="e12706" class="I_ACTION" tense="PRESENT" aspect="NONE" pos="VERB">warning</EVENT> brokers that premiums for many individuals and small businesses could <EVENT eid="e12707" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">increase</EVENT> sharply <TIMEX3 tid="t12705" type="DATE" value="2014">next year</TIMEX3> because of the health-care overhaul law, with the nation's biggest firm <EVENT eid="e12708" class="REPORTING" tense="PRESENT" aspect="NONE" pos="VERB">projecting</EVENT> that rates could more than <EVENT eid="e12709" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">double</EVENT> for some consumers <EVENT eid="e12710" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">buying</EVENT> their own plans.
+
+The projections, <EVENT eid="e12712" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">made</EVENT> in sessions with brokers and agents, <EVENT eid="e12713" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">provide</EVENT> some of the most concrete evidence yet of how much insurance companies might <EVENT eid="e12714" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">increase</EVENT> prices when major provisions of the law kick in <TIMEX3 tid="t12711" type="DATE" value="2014">next year</TIMEX3> - a subject of rigorous <EVENT eid="e12715" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">debate</EVENT>.
+
+The projected <EVENT eid="e12716" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">increases</EVENT> are at odds with what the Obama Administration <EVENT eid="e12717" class="REPORTING" tense="PRESENT" aspect="NONE" pos="VERB">says</EVENT> consumers should be <EVENT eid="e12718" class="I_STATE" tense="FUTURE" aspect="NONE" pos="VERB">expecting</EVENT> overall in terms of cost. The Department of Health and Human Services <EVENT eid="e12720" class="REPORTING" tense="PRESENT" aspect="NONE" pos="VERB">says</EVENT> that the law will "<EVENT eid="e12721" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">make</EVENT> health-care coverage more affordable and accessible," <EVENT eid="e12722" class="I_ACTION" tense="PRESENT" aspect="NONE" pos="VERB">pointing</EVENT> to a <TIMEX3 tid="t12719" type="DATE" value="2009">2009</TIMEX3> analysis by the Congressional Budget Office that <EVENT eid="e12723" class="REPORTING" tense="PRESENT" aspect="NONE" pos="VERB">says</EVENT> average individual premiums, on an apples-to-apples basis, would be lower.
+
+The gulf between the pricing <EVENT eid="e12724" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">talk</EVENT> from some insurers and the government projections <EVENT eid="e12725" class="I_ACTION" tense="PRESENT" aspect="NONE" pos="VERB">suggests</EVENT> how complicated the law's effects will be. Carriers will be <EVENT eid="e12727" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">filing</EVENT> proposed prices with regulators over <TIMEX3 tid="t12726" type="DURATION" value="PXM">the next few months</TIMEX3>.
+
+Part of the murkiness <EVENT eid="e12728" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">stems</EVENT> from the role of government subsidies. Federal subsidies under the health law will <EVENT eid="e12729" class="I_ACTION" tense="FUTURE" aspect="NONE" pos="VERB">help</EVENT> lower-income consumers defray costs, but they are generally not included in insurers' premium projections. Many consumers will be <EVENT eid="e12730" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">getting</EVENT> more generous plans because of new requirements in the law. The effects of the law will <EVENT eid="e12731" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">vary</EVENT> widely, and insurers and other analysts <EVENT eid="e12732" class="I_ACTION" tense="PRESENT" aspect="NONE" pos="VERB">agree</EVENT> that some consumers and small businesses will likely <EVENT eid="e12733" class="PERCEPTION" tense="FUTURE" aspect="NONE" pos="VERB">see</EVENT> premiums <EVENT eid="e12734" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">go</EVENT> down.
+
+<EVENT eid="e12736" class="ASPECTUAL" tense="NONE" aspect="NONE" pos="NOUN">Starting</EVENT> <TIMEX3 tid="t12735" type="DATE" value="2014">next year</TIMEX3>, the law will <EVENT eid="e12737" class="I_ACTION" tense="FUTURE" aspect="NONE" pos="VERB">block</EVENT> insurers from <EVENT eid="e12738" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">refusing</EVENT> to <EVENT eid="e12739" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">sell</EVENT> coverage or <EVENT eid="e12740" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">setting</EVENT> premiums based on people's health histories, and will <EVENT eid="e12741" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">reduce</EVENT> their ability to <EVENT eid="e12742" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">set</EVENT> rates based on age. That can <EVENT eid="e12743" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">raise</EVENT> coverage prices for younger, healthier consumers, while <EVENT eid="e12744" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">reining</EVENT> them in for older, sicker ones. The rules can also <EVENT eid="e12745" class="STATE" tense="FUTURE" aspect="NONE" pos="VERB">affect</EVENT> small businesses, which sometimes <EVENT eid="e12746" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">pay</EVENT> premiums <EVENT eid="e12747" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">tied</EVENT> to employees' health status and claims history.
+
+</TEXT>
+<MAKEINSTANCE eventID="e12706" eiid="ei12748" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12707" eiid="ei12750" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12708" eiid="ei12752" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12709" eiid="ei12754" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12710" eiid="ei12756" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12712" eiid="ei12758" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12713" eiid="ei12760" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12714" eiid="ei12762" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12715" eiid="ei12764" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e12716" eiid="ei12766" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e12717" eiid="ei12768" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12718" eiid="ei12770" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12720" eiid="ei12772" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12721" eiid="ei12774" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12722" eiid="ei12776" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12723" eiid="ei12778" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12724" eiid="ei12780" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e12725" eiid="ei12782" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12727" eiid="ei12784" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12728" eiid="ei12786" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12729" eiid="ei12788" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12730" eiid="ei12790" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12731" eiid="ei12792" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12732" eiid="ei12794" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12733" eiid="ei12796" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12734" eiid="ei12798" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12736" eiid="ei12800" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e12737" eiid="ei12802" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12738" eiid="ei12804" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12739" eiid="ei12806" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12740" eiid="ei12808" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12741" eiid="ei12810" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12742" eiid="ei12812" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12743" eiid="ei12814" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12744" eiid="ei12816" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12745" eiid="ei12818" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12746" eiid="ei12820" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12747" eiid="ei12822" tense="PAST" aspect="NONE" pos="VERB"/>
+<TLINK lid="l12749" relType="BEFORE" eventInstanceID="ei12748" relatedToTime="t0"/>
+<TLINK lid="l12751" relType="INCLUDES" eventInstanceID="ei12750" relatedToTime="t0"/>
+<TLINK lid="l12753" relType="BEFORE" eventInstanceID="ei12752" relatedToTime="t0"/>
+<TLINK lid="l12755" relType="AFTER" eventInstanceID="ei12754" relatedToTime="t0"/>
+<TLINK lid="l12757" relType="INCLUDES" eventInstanceID="ei12756" relatedToTime="t0"/>
+<TLINK lid="l12759" relType="BEFORE" eventInstanceID="ei12758" relatedToTime="t0"/>
+<TLINK lid="l12761" relType="BEFORE" eventInstanceID="ei12760" relatedToTime="t0"/>
+<TLINK lid="l12763" relType="INCLUDES" eventInstanceID="ei12762" relatedToTime="t0"/>
+<TLINK lid="l12765" relType="BEFORE" eventInstanceID="ei12764" relatedToTime="t0"/>
+<TLINK lid="l12767" relType="INCLUDES" eventInstanceID="ei12766" relatedToTime="t0"/>
+<TLINK lid="l12769" relType="IS_INCLUDED" eventInstanceID="ei12768" relatedToTime="t0"/>
+<TLINK lid="l12771" relType="INCLUDES" eventInstanceID="ei12770" relatedToTime="t0"/>
+<TLINK lid="l12773" relType="IS_INCLUDED" eventInstanceID="ei12772" relatedToTime="t0"/>
+<TLINK lid="l12775" relType="AFTER" eventInstanceID="ei12774" relatedToTime="t0"/>
+<TLINK lid="l12777" relType="INCLUDES" eventInstanceID="ei12776" relatedToTime="t0"/>
+<TLINK lid="l12779" relType="IS_INCLUDED" eventInstanceID="ei12778" relatedToTime="t0"/>
+<TLINK lid="l12781" relType="IS_INCLUDED" eventInstanceID="ei12780" relatedToTime="t0"/>
+<TLINK lid="l12783" relType="IS_INCLUDED" eventInstanceID="ei12782" relatedToTime="t0"/>
+<TLINK lid="l12785" relType="AFTER" eventInstanceID="ei12784" relatedToTime="t0"/>
+<TLINK lid="l12787" relType="INCLUDES" eventInstanceID="ei12786" relatedToTime="t0"/>
+<TLINK lid="l12789" relType="AFTER" eventInstanceID="ei12788" relatedToTime="t0"/>
+<TLINK lid="l12791" relType="INCLUDES" eventInstanceID="ei12790" relatedToTime="t0"/>
+<TLINK lid="l12793" relType="AFTER" eventInstanceID="ei12792" relatedToTime="t0"/>
+<TLINK lid="l12795" relType="INCLUDES" eventInstanceID="ei12794" relatedToTime="t0"/>
+<TLINK lid="l12797" relType="AFTER" eventInstanceID="ei12796" relatedToTime="t0"/>
+<TLINK lid="l12799" relType="AFTER" eventInstanceID="ei12798" relatedToTime="t0"/>
+<TLINK lid="l12801" relType="BEFORE" eventInstanceID="ei12800" relatedToTime="t0"/>
+<TLINK lid="l12803" relType="AFTER" eventInstanceID="ei12802" relatedToTime="t0"/>
+<TLINK lid="l12805" relType="INCLUDES" eventInstanceID="ei12804" relatedToTime="t0"/>
+<TLINK lid="l12807" relType="INCLUDES" eventInstanceID="ei12806" relatedToTime="t0"/>
+<TLINK lid="l12809" relType="BEFORE" eventInstanceID="ei12808" relatedToTime="t0"/>
+<TLINK lid="l12811" relType="AFTER" eventInstanceID="ei12810" relatedToTime="t0"/>
+<TLINK lid="l12813" relType="BEFORE" eventInstanceID="ei12812" relatedToTime="t0"/>
+<TLINK lid="l12815" relType="INCLUDES" eventInstanceID="ei12814" relatedToTime="t0"/>
+<TLINK lid="l12817" relType="INCLUDES" eventInstanceID="ei12816" relatedToTime="t0"/>
+<TLINK lid="l12819" relType="AFTER" eventInstanceID="ei12818" relatedToTime="t0"/>
+<TLINK lid="l12821" relType="INCLUDES" eventInstanceID="ei12820" relatedToTime="t0"/>
+<TLINK lid="l12823" relType="BEFORE" eventInstanceID="ei12822" relatedToTime="t0"/>
+<TLINK lid="l12824" relType="DURING" eventInstanceID="ei12750" relatedToTime="t12705"/>
+<TLINK lid="l12825" relType="DURING" eventInstanceID="ei12748" relatedToEventInstance="ei12752"/>
+<TLINK lid="l12826" relType="BEFORE" eventInstanceID="ei12748" relatedToEventInstance="ei12754"/>
+<TLINK lid="l12827" relType="DURING" eventInstanceID="ei12748" relatedToEventInstance="ei12756"/>
+<TLINK lid="l12828" relType="DURING" eventInstanceID="ei12748" relatedToEventInstance="ei12758"/>
+<TLINK lid="l12829" relType="DURING" eventInstanceID="ei12758" relatedToEventInstance="ei12760"/>
+<TLINK lid="l12830" relType="DURING" eventInstanceID="ei12762" relatedToTime="t12711"/>
+<TLINK lid="l12831" relType="BEFORE" eventInstanceID="ei12748" relatedToEventInstance="ei12768"/>
+<TLINK lid="l12832" relType="BEFORE" eventInstanceID="ei12748" relatedToEventInstance="ei12772"/>
+<TLINK lid="l12833" relType="BEFORE" eventInstanceID="ei12772" relatedToEventInstance="ei12774"/>
+<TLINK lid="l12834" relType="BEFORE" eventInstanceID="ei12758" relatedToEventInstance="ei12778"/>
+<TLINK lid="l12835" relType="BEFORE" eventInstanceID="ei12748" relatedToEventInstance="ei12780"/>
+<TLINK lid="l12836" relType="BEFORE" eventInstanceID="ei12748" relatedToEventInstance="ei12782"/>
+<TLINK lid="l12837" relType="BEFORE" eventInstanceID="ei12748" relatedToEventInstance="ei12784"/>
+<TLINK lid="l12838" relType="DURING" eventInstanceID="ei12784" relatedToTime="t12726"/>
+<TLINK lid="l12839" relType="BEFORE" eventInstanceID="ei12760" relatedToEventInstance="ei12788"/>
+<TLINK lid="l12840" relType="BEFORE" eventInstanceID="ei12748" relatedToEventInstance="ei12792"/>
+<TLINK lid="l12841" relType="DURING" eventInstanceID="ei12768" relatedToEventInstance="ei12794"/>
+<TLINK lid="l12842" relType="BEFORE" eventInstanceID="ei12792" relatedToEventInstance="ei12796"/>
+<TLINK lid="l12843" relType="BEFORE" eventInstanceID="ei12796" relatedToEventInstance="ei12798"/>
+<TLINK lid="l12844" relType="AFTER" eventInstanceID="ei12782" relatedToEventInstance="ei12800"/>
+<TLINK lid="l12845" relType="DURING" eventInstanceID="ei12800" relatedToTime="t12735"/>
+<TLINK lid="l12846" relType="BEFORE" eventInstanceID="ei12800" relatedToEventInstance="ei12802"/>
+<TLINK lid="l12847" relType="DURING" eventInstanceID="ei12780" relatedToEventInstance="ei12804"/>
+<TLINK lid="l12848" relType="AFTER" eventInstanceID="ei12782" relatedToEventInstance="ei12808"/>
+<TLINK lid="l12849" relType="BEFORE" eventInstanceID="ei12808" relatedToEventInstance="ei12810"/>
+<TLINK lid="l12850" relType="BEFORE" eventInstanceID="ei12810" relatedToEventInstance="ei12812"/>
+<TLINK lid="l12851" relType="DURING" eventInstanceID="ei12816" relatedToEventInstance="ei12814"/>
+<TLINK lid="l12852" relType="BEFORE" eventInstanceID="ei12748" relatedToEventInstance="ei12818"/>
+<TLINK lid="l12853" relType="AFTER" eventInstanceID="ei12818" relatedToEventInstance="ei12820"/>
+<TLINK lid="l12854" relType="AFTER" eventInstanceID="ei12818" relatedToEventInstance="ei12822"/>
+
+</TimeML>

@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>WSJ_20130322_804</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>Health Insurers Warn on Premiums</TITLE>
+
+
+
+<TEXT>
+
+Health insurers are privately <EVENT eid="e1" class="REPORTING">warning</EVENT> brokers that premiums for many individuals and small businesses could <EVENT eid="e2" class="OCCURRENCE">increase</EVENT> sharply <TIMEX3 tid="t1" type="DATE" value="2014">next year</TIMEX3> because of the health-care overhaul law, with the nation's biggest firm projecting that rates could more than double for some consumers <EVENT eid="e5" class="OCCURRENCE">buying</EVENT> their own plans.
+
+The projections, made in sessions with brokers and agents, provide some of the most concrete evidence yet of how much insurance companies might <EVENT eid="e9" class="OCCURRENCE">increase</EVENT> prices when major provisions of the law kick in <TIMEX3 tid="t2" type="DATE" value="2014">next year</TIMEX3> - a subject of rigorous debate.
+
+The projected increases are at odds with what the Obama Administration <EVENT eid="e13" class="REPORTING">says</EVENT> consumers should be <EVENT eid="e14" class="OCCURRENCE">expecting</EVENT> overall in terms of cost. The Department of Health and Human Services <EVENT eid="e15" class="REPORTING">says</EVENT> that the law will "<EVENT eid="e16" class="OCCURRENCE">make</EVENT> health-care coverage more affordable and accessible," <EVENT eid="e19" class="REPORTING">pointing</EVENT> to a <TIMEX3 tid="t3" type="DATE" value="2009">2009</TIMEX3> <EVENT eid="e20" class="OCCURRENCE">analysis</EVENT> by the Congressional Budget Office that <EVENT eid="e21" class="REPORTING">says</EVENT> average individual premiums, on an apples-to-apples basis, would be <EVENT eid="e22" class="OCCURRENCE">lower</EVENT>.
+
+The gulf between the pricing <EVENT eid="e23" class="OCCURRENCE">talk</EVENT> from some insurers and the government projections suggests how <EVENT eid="e25" class="OCCURRENCE">complicated</EVENT> the law's effects will be. Carriers will be <EVENT eid="e26" class="OCCURRENCE">filing</EVENT> proposed prices with regulators over <TIMEX3 tid="t4" type="DURATION" value="PXM">the next few months</TIMEX3>.
+
+Part of the murkiness <EVENT eid="e27" class="OCCURRENCE">stems</EVENT> from the role of government subsidies. Federal subsidies under the health law will <EVENT eid="e28" class="OCCURRENCE">help</EVENT> lower-income consumers defray costs, but they are generally not included in insurers' premium projections. Many consumers will be <EVENT eid="e30" class="PERCEPTION">getting</EVENT> more generous plans because of new requirements in the law. The effects of the law will <EVENT eid="e31" class="OCCURRENCE">vary</EVENT> widely, and insurers and other analysts <EVENT eid="e32" class="OCCURRENCE">agree</EVENT> that some consumers and small businesses will likely <EVENT eid="e33" class="PERCEPTION">see</EVENT> premiums <EVENT eid="e34" class="ASPECTUAL">go</EVENT> down.
+
+<EVENT eid="e36" class="ASPECTUAL">Starting</EVENT> <TIMEX3 tid="t5" type="DATE" value="2014">next year</TIMEX3>, the law will <EVENT eid="e37" class="I_ACTION">block</EVENT> insurers from <EVENT eid="e38" class="OCCURRENCE">refusing</EVENT> to <EVENT eid="e39" class="OCCURRENCE">sell</EVENT> coverage or setting premiums based on people's health histories, and will <EVENT eid="e41" class="OCCURRENCE">reduce</EVENT> their ability to <EVENT eid="e42" class="ASPECTUAL">set</EVENT> rates based on age. That can raise coverage prices for younger, healthier consumers, while <EVENT eid="e44" class="ASPECTUAL">reining</EVENT> them in for older, sicker ones. The rules can also <EVENT eid="e45" class="OCCURRENCE">affect</EVENT> small businesses, which sometimes pay premiums tied to employees' health status and <EVENT eid="e48" class="I_ACTION">claims</EVENT> history.
+
+</TEXT>
+
+
+<MAKEINSTANCE eventID="e1" eiid="ei1" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e2" eiid="ei2" tense="NONE" aspect="NONE" polarity="POS" pos="VERB" modality="could" />
+<MAKEINSTANCE eventID="e5" eiid="ei5" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e9" eiid="ei9" tense="NONE" aspect="NONE" polarity="POS" pos="VERB" modality="might" />
+<MAKEINSTANCE eventID="e13" eiid="ei13" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e14" eiid="ei14" tense="NONE" aspect="PROGRESSIVE" polarity="POS" pos="VERB" modality="should" />
+<MAKEINSTANCE eventID="e15" eiid="ei15" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e16" eiid="ei16" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e19" eiid="ei19" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e20" eiid="ei20" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN" />
+<MAKEINSTANCE eventID="e21" eiid="ei21" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e22" eiid="ei22" tense="NONE" aspect="NONE" polarity="POS" pos="ADJECTIVE" />
+<MAKEINSTANCE eventID="e23" eiid="ei23" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN" />
+<MAKEINSTANCE eventID="e25" eiid="ei25" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e26" eiid="ei26" tense="FUTURE" aspect="PROGRESSIVE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e27" eiid="ei27" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e28" eiid="ei28" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e30" eiid="ei30" tense="FUTURE" aspect="PROGRESSIVE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e31" eiid="ei31" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e32" eiid="ei32" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e33" eiid="ei33" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e34" eiid="ei34" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e36" eiid="ei36" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e37" eiid="ei37" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e38" eiid="ei38" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e39" eiid="ei39" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e41" eiid="ei41" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e42" eiid="ei42" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e44" eiid="ei44" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB" />
+<MAKEINSTANCE eventID="e45" eiid="ei45" tense="NONE" aspect="NONE" polarity="POS" pos="VERB" modality="can" />
+<MAKEINSTANCE eventID="e48" eiid="ei48" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB" />
+
+<TLINK lid="l1" relType="INCLUDES" eventInstanceID="ei1" relatedToTime="t0" />
+<TLINK lid="l2" relType="AFTER" eventInstanceID="ei2" relatedToTime="t0" />
+<TLINK lid="l3" relType="IS_INCLUDED" eventInstanceID="ei5" relatedToTime="t0" />
+<TLINK lid="l4" relType="IS_INCLUDED" eventInstanceID="ei9" relatedToTime="t0" />
+<TLINK lid="l5" relType="IS_INCLUDED" eventInstanceID="ei13" relatedToTime="t0" />
+<TLINK lid="l6" relType="IS_INCLUDED" eventInstanceID="ei14" relatedToTime="t0" />
+<TLINK lid="l7" relType="IS_INCLUDED" eventInstanceID="ei15" relatedToTime="t0" />
+<TLINK lid="l8" relType="IS_INCLUDED" eventInstanceID="ei16" relatedToTime="t0" />
+<TLINK lid="l9" relType="IS_INCLUDED" eventInstanceID="ei19" relatedToTime="t0" />
+<TLINK lid="l10" relType="IS_INCLUDED" eventInstanceID="ei20" relatedToTime="t0" />
+<TLINK lid="l11" relType="IS_INCLUDED" eventInstanceID="ei21" relatedToTime="t0" />
+<TLINK lid="l12" relType="IS_INCLUDED" eventInstanceID="ei22" relatedToTime="t0" />
+<TLINK lid="l13" relType="BEFORE" eventInstanceID="ei23" relatedToTime="t0" />
+<TLINK lid="l14" relType="BEFORE" eventInstanceID="ei25" relatedToTime="t0" />
+<TLINK lid="l15" relType="AFTER" eventInstanceID="ei26" relatedToTime="t0" />
+<TLINK lid="l16" relType="IS_INCLUDED" eventInstanceID="ei27" relatedToTime="t0" />
+<TLINK lid="l17" relType="AFTER" eventInstanceID="ei28" relatedToTime="t0" />
+<TLINK lid="l18" relType="AFTER" eventInstanceID="ei30" relatedToTime="t0" />
+<TLINK lid="l19" relType="AFTER" eventInstanceID="ei31" relatedToTime="t0" />
+<TLINK lid="l20" relType="IS_INCLUDED" eventInstanceID="ei32" relatedToTime="t0" />
+<TLINK lid="l21" relType="AFTER" eventInstanceID="ei33" relatedToTime="t0" />
+<TLINK lid="l22" relType="IS_INCLUDED" eventInstanceID="ei34" relatedToTime="t0" />
+<TLINK lid="l23" relType="IS_INCLUDED" eventInstanceID="ei36" relatedToTime="t0" />
+<TLINK lid="l24" relType="AFTER" eventInstanceID="ei37" relatedToTime="t0" />
+<TLINK lid="l25" relType="IS_INCLUDED" eventInstanceID="ei38" relatedToTime="t0" />
+<TLINK lid="l26" relType="AFTER" eventInstanceID="ei39" relatedToTime="t0" />
+<TLINK lid="l27" relType="AFTER" eventInstanceID="ei41" relatedToTime="t0" />
+<TLINK lid="l28" relType="AFTER" eventInstanceID="ei42" relatedToTime="t0" />
+<TLINK lid="l29" relType="IS_INCLUDED" eventInstanceID="ei44" relatedToTime="t0" />
+<TLINK lid="l30" relType="IS_INCLUDED" eventInstanceID="ei45" relatedToTime="t0" />
+<TLINK lid="l31" relType="IS_INCLUDED" eventInstanceID="ei48" relatedToTime="t0" />
+<TLINK lid="l32" relType="IS_INCLUDED" eventInstanceID="ei1" relatedToTime="t1" />
+<TLINK lid="l33" relType="IS_INCLUDED" eventInstanceID="ei2" relatedToTime="t1" />
+<TLINK lid="l34" relType="IS_INCLUDED" eventInstanceID="ei5" relatedToTime="t1" />
+<TLINK lid="l35" relType="IS_INCLUDED" eventInstanceID="ei9" relatedToTime="t2" />
+<TLINK lid="l36" relType="IS_INCLUDED" eventInstanceID="ei15" relatedToTime="t3" />
+<TLINK lid="l37" relType="IS_INCLUDED" eventInstanceID="ei16" relatedToTime="t3" />
+<TLINK lid="l38" relType="IS_INCLUDED" eventInstanceID="ei19" relatedToTime="t3" />
+<TLINK lid="l39" relType="IS_INCLUDED" eventInstanceID="ei20" relatedToTime="t3" />
+<TLINK lid="l40" relType="IS_INCLUDED" eventInstanceID="ei21" relatedToTime="t3" />
+<TLINK lid="l41" relType="IS_INCLUDED" eventInstanceID="ei22" relatedToTime="t3" />
+<TLINK lid="l42" relType="IS_INCLUDED" eventInstanceID="ei26" relatedToTime="t4" />
+<TLINK lid="l43" relType="IS_INCLUDED" eventInstanceID="ei36" relatedToTime="t5" />
+<TLINK lid="l44" relType="IS_INCLUDED" eventInstanceID="ei37" relatedToTime="t5" />
+<TLINK lid="l45" relType="IS_INCLUDED" eventInstanceID="ei38" relatedToTime="t5" />
+<TLINK lid="l46" relType="IS_INCLUDED" eventInstanceID="ei39" relatedToTime="t5" />
+<TLINK lid="l47" relType="IS_INCLUDED" eventInstanceID="ei41" relatedToTime="t5" />
+<TLINK lid="l48" relType="IS_INCLUDED" eventInstanceID="ei42" relatedToTime="t5" />
+<TLINK lid="l49" relType="SIMULTANEOUS" eventInstanceID="ei1" relatedToEventInstance="ei2" />
+<TLINK lid="l50" relType="SIMULTANEOUS" eventInstanceID="ei1" relatedToEventInstance="ei5" />
+<TLINK lid="l51" relType="SIMULTANEOUS" eventInstanceID="ei2" relatedToEventInstance="ei5" />
+<TLINK lid="l52" relType="SIMULTANEOUS" eventInstanceID="ei13" relatedToEventInstance="ei14" />
+<TLINK lid="l53" relType="SIMULTANEOUS" eventInstanceID="ei15" relatedToEventInstance="ei16" />
+<TLINK lid="l54" relType="AFTER" eventInstanceID="ei15" relatedToEventInstance="ei19" />
+<TLINK lid="l55" relType="SIMULTANEOUS" eventInstanceID="ei15" relatedToEventInstance="ei20" />
+<TLINK lid="l56" relType="SIMULTANEOUS" eventInstanceID="ei15" relatedToEventInstance="ei21" />
+<TLINK lid="l57" relType="BEFORE" eventInstanceID="ei15" relatedToEventInstance="ei22" />
+<TLINK lid="l58" relType="SIMULTANEOUS" eventInstanceID="ei16" relatedToEventInstance="ei19" />
+<TLINK lid="l59" relType="SIMULTANEOUS" eventInstanceID="ei16" relatedToEventInstance="ei20" />
+<TLINK lid="l60" relType="SIMULTANEOUS" eventInstanceID="ei16" relatedToEventInstance="ei21" />
+<TLINK lid="l61" relType="BEFORE" eventInstanceID="ei16" relatedToEventInstance="ei22" />
+<TLINK lid="l62" relType="AFTER" eventInstanceID="ei19" relatedToEventInstance="ei20" />
+<TLINK lid="l63" relType="BEFORE" eventInstanceID="ei19" relatedToEventInstance="ei21" />
+<TLINK lid="l64" relType="BEFORE" eventInstanceID="ei19" relatedToEventInstance="ei22" />
+<TLINK lid="l65" relType="BEFORE" eventInstanceID="ei20" relatedToEventInstance="ei21" />
+<TLINK lid="l66" relType="BEFORE" eventInstanceID="ei20" relatedToEventInstance="ei22" />
+<TLINK lid="l67" relType="BEFORE" eventInstanceID="ei21" relatedToEventInstance="ei22" />
+<TLINK lid="l68" relType="BEFORE" eventInstanceID="ei23" relatedToEventInstance="ei25" />
+<TLINK lid="l69" relType="AFTER" eventInstanceID="ei31" relatedToEventInstance="ei32" />
+<TLINK lid="l70" relType="AFTER" eventInstanceID="ei31" relatedToEventInstance="ei33" />
+<TLINK lid="l71" relType="AFTER" eventInstanceID="ei31" relatedToEventInstance="ei34" />
+<TLINK lid="l72" relType="BEFORE" eventInstanceID="ei32" relatedToEventInstance="ei33" />
+<TLINK lid="l73" relType="SIMULTANEOUS" eventInstanceID="ei32" relatedToEventInstance="ei34" />
+<TLINK lid="l74" relType="AFTER" eventInstanceID="ei33" relatedToEventInstance="ei34" />
+<TLINK lid="l75" relType="SIMULTANEOUS" eventInstanceID="ei36" relatedToEventInstance="ei37" />
+<TLINK lid="l76" relType="SIMULTANEOUS" eventInstanceID="ei36" relatedToEventInstance="ei38" />
+<TLINK lid="l77" relType="BEFORE" eventInstanceID="ei36" relatedToEventInstance="ei39" />
+<TLINK lid="l78" relType="BEFORE" eventInstanceID="ei36" relatedToEventInstance="ei41" />
+<TLINK lid="l79" relType="BEFORE" eventInstanceID="ei36" relatedToEventInstance="ei42" />
+<TLINK lid="l80" relType="BEFORE" eventInstanceID="ei37" relatedToEventInstance="ei38" />
+<TLINK lid="l81" relType="BEFORE" eventInstanceID="ei37" relatedToEventInstance="ei39" />
+<TLINK lid="l82" relType="SIMULTANEOUS" eventInstanceID="ei37" relatedToEventInstance="ei41" />
+<TLINK lid="l83" relType="BEFORE" eventInstanceID="ei37" relatedToEventInstance="ei42" />
+<TLINK lid="l84" relType="BEFORE" eventInstanceID="ei38" relatedToEventInstance="ei39" />
+<TLINK lid="l85" relType="BEFORE" eventInstanceID="ei38" relatedToEventInstance="ei41" />
+<TLINK lid="l86" relType="BEFORE" eventInstanceID="ei38" relatedToEventInstance="ei42" />
+<TLINK lid="l87" relType="BEFORE" eventInstanceID="ei39" relatedToEventInstance="ei41" />
+<TLINK lid="l88" relType="BEFORE" eventInstanceID="ei39" relatedToEventInstance="ei42" />
+<TLINK lid="l89" relType="BEFORE" eventInstanceID="ei41" relatedToEventInstance="ei42" />
+<TLINK lid="l90" relType="AFTER" eventInstanceID="ei45" relatedToEventInstance="ei48" />
+<TLINK lid="l91" relType="SIMULTANEOUS" eventInstanceID="ei1" relatedToEventInstance="ei9" />
+<TLINK lid="l92" relType="AFTER" eventInstanceID="ei9" relatedToEventInstance="ei13" />
+<TLINK lid="l93" relType="SIMULTANEOUS" eventInstanceID="ei13" relatedToEventInstance="ei15" />
+<TLINK lid="l94" relType="BEFORE" eventInstanceID="ei15" relatedToEventInstance="ei23" />
+<TLINK lid="l95" relType="BEFORE" eventInstanceID="ei23" relatedToEventInstance="ei26" />
+<TLINK lid="l96" relType="BEFORE" eventInstanceID="ei26" relatedToEventInstance="ei27" />
+<TLINK lid="l97" relType="BEFORE" eventInstanceID="ei27" relatedToEventInstance="ei28" />
+<TLINK lid="l98" relType="SIMULTANEOUS" eventInstanceID="ei28" relatedToEventInstance="ei30" />
+<TLINK lid="l99" relType="SIMULTANEOUS" eventInstanceID="ei30" relatedToEventInstance="ei31" />
+<TLINK lid="l100" relType="SIMULTANEOUS" eventInstanceID="ei31" relatedToEventInstance="ei36" />
+<TLINK lid="l101" relType="SIMULTANEOUS" eventInstanceID="ei36" relatedToEventInstance="ei44" />
+<TLINK lid="l102" relType="AFTER" eventInstanceID="ei44" relatedToEventInstance="ei45" />
+</TimeML>

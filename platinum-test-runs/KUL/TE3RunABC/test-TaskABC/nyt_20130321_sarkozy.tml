@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>nyt_20130321_sarcozy</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-21</TIMEX3></DCT>
+
+<TITLE>France: Sarkozy Faces Investigation</TITLE>
+
+<TEXT>
+
+Former President Nicolas Sarkozy was <EVENT eid="e11879" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">informed</EVENT> <TIMEX3 tid="t11877" type="DATE" value="2013-03-21">Thursday</TIMEX3> that he would <EVENT eid="e11880" class="I_ACTION" tense="FUTURE" aspect="NONE" pos="VERB">face</EVENT> a formal <EVENT eid="e11881" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="NOUN">investigation</EVENT> into whether he <EVENT eid="e11882" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">abused</EVENT> the frailty of Liliane Bettencourt, 90, the heiress to the L'Oreal fortune and France's richest woman, to <EVENT eid="e11883" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">get</EVENT> funds for his <TIMEX3 tid="t11878" type="DATE" value="2007">2007</TIMEX3> presidential campaign. Mr. Sarkozy has <EVENT eid="e11884" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">denied</EVENT> <EVENT eid="e11885" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">accepting</EVENT> illegal campaign funds from Ms. Bettencourt, either personally or through his party treasurer at the time, Eric Woerth, as <EVENT eid="e11886" class="I_ACTION" tense="PAST" aspect="NONE" pos="VERB">alleged</EVENT> by her former butler. Mr. Sarkozy's lawyer, Thierry Herzog, <EVENT eid="e11887" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">called</EVENT> the judge's <EVENT eid="e11888" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">decision</EVENT>, which <EVENT eid="e11889" class="I_ACTION" tense="PRESENT" aspect="NONE" pos="VERB">indicates</EVENT> that the judge <EVENT eid="e11890" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">believes</EVENT> that Mr. Sarkozy probably <EVENT eid="e11891" class="I_STATE" tense="PAST" aspect="NONE" pos="VERB">committed</EVENT> a crime, "incoherent" and "unjust." The lawyer <EVENT eid="e11892" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT> he would <EVENT eid="e11893" class="I_ACTION" tense="FUTURE" aspect="NONE" pos="VERB">appeal</EVENT>. The <EVENT eid="e11895" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">ruling</EVENT> does not necessarily <EVENT eid="e11896" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">mean</EVENT> that Mr. Sarkozy, who <EVENT eid="e11897" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">lost</EVENT> his re-election bid <TIMEX3 tid="t11894" type="DATE" value="2012-05">last May</TIMEX3> and with it his presidential immunity from prosecution, will <EVENT eid="e11898" class="I_STATE" tense="FUTURE" aspect="NONE" pos="VERB">stand</EVENT> <EVENT eid="e11899" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="NOUN">trial</EVENT>.
+
+</TEXT>
+<MAKEINSTANCE eventID="e11879" eiid="ei11900" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11880" eiid="ei11902" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11881" eiid="ei11904" tense="FUTURE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e11882" eiid="ei11906" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11883" eiid="ei11908" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11884" eiid="ei11910" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11885" eiid="ei11912" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11886" eiid="ei11914" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11887" eiid="ei11916" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11888" eiid="ei11918" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e11889" eiid="ei11920" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11890" eiid="ei11922" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11891" eiid="ei11924" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11892" eiid="ei11926" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11893" eiid="ei11928" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11895" eiid="ei11930" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e11896" eiid="ei11932" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11897" eiid="ei11934" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11898" eiid="ei11936" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11899" eiid="ei11938" tense="FUTURE" aspect="NONE" pos="NOUN"/>
+<TLINK lid="l11901" relType="BEFORE" eventInstanceID="ei11900" relatedToTime="t0"/>
+<TLINK lid="l11903" relType="INCLUDES" eventInstanceID="ei11902" relatedToTime="t0"/>
+<TLINK lid="l11905" relType="BEFORE" eventInstanceID="ei11904" relatedToTime="t0"/>
+<TLINK lid="l11907" relType="BEFORE" eventInstanceID="ei11906" relatedToTime="t0"/>
+<TLINK lid="l11909" relType="IS_INCLUDED" eventInstanceID="ei11908" relatedToTime="t0"/>
+<TLINK lid="l11911" relType="BEFORE" eventInstanceID="ei11910" relatedToTime="t0"/>
+<TLINK lid="l11913" relType="INCLUDES" eventInstanceID="ei11912" relatedToTime="t0"/>
+<TLINK lid="l11915" relType="BEFORE" eventInstanceID="ei11914" relatedToTime="t0"/>
+<TLINK lid="l11917" relType="BEFORE" eventInstanceID="ei11916" relatedToTime="t0"/>
+<TLINK lid="l11919" relType="IS_INCLUDED" eventInstanceID="ei11918" relatedToTime="t0"/>
+<TLINK lid="l11921" relType="INCLUDES" eventInstanceID="ei11920" relatedToTime="t0"/>
+<TLINK lid="l11923" relType="INCLUDES" eventInstanceID="ei11922" relatedToTime="t0"/>
+<TLINK lid="l11925" relType="BEFORE" eventInstanceID="ei11924" relatedToTime="t0"/>
+<TLINK lid="l11927" relType="BEFORE" eventInstanceID="ei11926" relatedToTime="t0"/>
+<TLINK lid="l11929" relType="AFTER" eventInstanceID="ei11928" relatedToTime="t0"/>
+<TLINK lid="l11931" relType="BEFORE" eventInstanceID="ei11930" relatedToTime="t0"/>
+<TLINK lid="l11933" relType="INCLUDES" eventInstanceID="ei11932" relatedToTime="t0"/>
+<TLINK lid="l11935" relType="BEFORE" eventInstanceID="ei11934" relatedToTime="t0"/>
+<TLINK lid="l11937" relType="BEFORE" eventInstanceID="ei11936" relatedToTime="t0"/>
+<TLINK lid="l11939" relType="BEFORE" eventInstanceID="ei11938" relatedToTime="t0"/>
+<TLINK lid="l11940" relType="AFTER" eventInstanceID="ei11918" relatedToEventInstance="ei11900"/>
+<TLINK lid="l11941" relType="BEFORE" eventInstanceID="ei11906" relatedToEventInstance="ei11904"/>
+<TLINK lid="l11942" relType="DURING" eventInstanceID="ei11916" relatedToEventInstance="ei11906"/>
+<TLINK lid="l11943" relType="BEFORE" eventInstanceID="ei11914" relatedToEventInstance="ei11910"/>
+<TLINK lid="l11944" relType="DURING" eventInstanceID="ei11920" relatedToEventInstance="ei11916"/>
+<TLINK lid="l11945" relType="BEFORE" eventInstanceID="ei11926" relatedToEventInstance="ei11928"/>
+<TLINK lid="l11946" relType="AFTER" eventInstanceID="ei11928" relatedToEventInstance="ei11930"/>
+<TLINK lid="l11947" relType="DURING" eventInstanceID="ei11934" relatedToTime="t11894"/>
+<TLINK lid="l11948" relType="AFTER" eventInstanceID="ei11928" relatedToEventInstance="ei11938"/>
+
+</TimeML>

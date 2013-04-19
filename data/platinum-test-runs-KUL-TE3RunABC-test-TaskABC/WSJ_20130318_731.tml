@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>WSJ_20130318_731</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-18" temporalFunction="false" functionInDocument="CREATION_TIME">March 18, 2013</TIMEX3></DCT>
+
+<TITLE>A New Game for Microsoft's Kinect</TITLE>
+
+
+
+<TEXT>
+
+Microsoft Corp. <EVENT eid="e12275" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">broke</EVENT> sales records in <TIMEX3 tid="t12274" type="DATE" value="2010">2010</TIMEX3> when it <EVENT eid="e12276" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">released</EVENT> its Kinect - a movement-tracking device that <EVENT eid="e12277" class="I_STATE" tense="PAST" aspect="NONE" pos="VERB">enabled</EVENT> Xbox users to <EVENT eid="e12278" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">play</EVENT> their favorite games through <EVENT eid="e12279" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">gestures</EVENT> alone, without need of a controller.
+
+Now, with the help of outside developers, the software giant is <EVENT eid="e12280" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">hoping</EVENT> to <EVENT eid="e12281" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">move</EVENT> the Kinect beyond gaming.
+
+Microsoft is <EVENT eid="e12282" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">expanding</EVENT> into China with a company-funded incubator program for outside developers to <EVENT eid="e12283" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">build</EVENT> products based on Kinect technology for a range of industries including health care and retail.
+
+In the U.S., 11 companies were <EVENT eid="e12286" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">selected</EVENT> <TIMEX3 tid="t12284" type="DATE" value="2012">last year</TIMEX3> for the accelerator's first <TIMEX3 tid="t12285" type="DURATION" value="P3M">three-month</TIMEX3> class in Seattle, out of nearly 500 applicants. Microsoft <EVENT eid="e12288" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT> it has <EVENT eid="e12289" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">identified</EVENT> three companies for the China program to <EVENT eid="e12290" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">run</EVENT> through <TIMEX3 tid="t12287" type="DATE" value="2013-06">June</TIMEX3>.
+
+The company <EVENT eid="e12291" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">gives</EVENT> each participating startup in the Seattle program $20,000 to <EVENT eid="e12292" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">create</EVENT> software that can be <EVENT eid="e12293" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">used</EVENT> with Kinect for Windows, but it is isn't <EVENT eid="e12294" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">asking</EVENT> for any ownership stakes or intellectual property rights. Microsoft also doesn't have any veto power over the ideas.
+
+What Microsoft <EVENT eid="e12295" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">gets</EVENT> are developers around the world <EVENT eid="e12296" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">working</EVENT> on ideas that could potentially <EVENT eid="e12297" class="ASPECTUAL" tense="FUTURE" aspect="NONE" pos="VERB">open</EVENT> up Kinect for Windows' technology to new markets - and <EVENT eid="e12298" class="I_ACTION" tense="PRESENT" aspect="NONE" pos="VERB">convince</EVENT> consumers and businesses to <EVENT eid="e12299" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">buy</EVENT> the company's hardware and <EVENT eid="e12300" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">make</EVENT> <EVENT eid="e12301" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="NOUN">use</EVENT> of the potential apps.
+
+The Windows-ready Kinect sensor, which would be necessary for any business that <EVENT eid="e12302" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">wants</EVENT> to <EVENT eid="e12303" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">use</EVENT> these potential new technologies, is currently <EVENT eid="e12304" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">selling</EVENT> for $250 through Microsoft, more than twice what Microsoft <EVENT eid="e12305" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">charges</EVENT> for the gaming-only Xbox version.
+
+</TEXT>
+<MAKEINSTANCE eventID="e12275" eiid="ei12306" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12276" eiid="ei12308" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12277" eiid="ei12310" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12278" eiid="ei12312" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12279" eiid="ei12314" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e12280" eiid="ei12316" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12281" eiid="ei12318" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12282" eiid="ei12320" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12283" eiid="ei12322" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12286" eiid="ei12324" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12288" eiid="ei12326" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12289" eiid="ei12328" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12290" eiid="ei12330" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12291" eiid="ei12332" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12292" eiid="ei12334" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12293" eiid="ei12336" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12294" eiid="ei12338" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12295" eiid="ei12340" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12296" eiid="ei12342" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12297" eiid="ei12344" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12298" eiid="ei12346" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12299" eiid="ei12348" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12300" eiid="ei12350" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12301" eiid="ei12352" tense="PRESENT" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e12302" eiid="ei12354" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12303" eiid="ei12356" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12304" eiid="ei12358" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12305" eiid="ei12360" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<TLINK lid="l12307" relType="BEFORE" eventInstanceID="ei12306" relatedToTime="t0"/>
+<TLINK lid="l12309" relType="BEFORE" eventInstanceID="ei12308" relatedToTime="t0"/>
+<TLINK lid="l12311" relType="BEFORE" eventInstanceID="ei12310" relatedToTime="t0"/>
+<TLINK lid="l12313" relType="INCLUDES" eventInstanceID="ei12312" relatedToTime="t0"/>
+<TLINK lid="l12315" relType="BEFORE" eventInstanceID="ei12314" relatedToTime="t0"/>
+<TLINK lid="l12317" relType="INCLUDES" eventInstanceID="ei12316" relatedToTime="t0"/>
+<TLINK lid="l12319" relType="BEFORE" eventInstanceID="ei12318" relatedToTime="t0"/>
+<TLINK lid="l12321" relType="BEFORE" eventInstanceID="ei12320" relatedToTime="t0"/>
+<TLINK lid="l12323" relType="BEFORE" eventInstanceID="ei12322" relatedToTime="t0"/>
+<TLINK lid="l12325" relType="BEFORE" eventInstanceID="ei12324" relatedToTime="t0"/>
+<TLINK lid="l12327" relType="IS_INCLUDED" eventInstanceID="ei12326" relatedToTime="t0"/>
+<TLINK lid="l12329" relType="BEFORE" eventInstanceID="ei12328" relatedToTime="t0"/>
+<TLINK lid="l12331" relType="BEFORE" eventInstanceID="ei12330" relatedToTime="t0"/>
+<TLINK lid="l12333" relType="INCLUDES" eventInstanceID="ei12332" relatedToTime="t0"/>
+<TLINK lid="l12335" relType="BEFORE" eventInstanceID="ei12334" relatedToTime="t0"/>
+<TLINK lid="l12337" relType="BEFORE" eventInstanceID="ei12336" relatedToTime="t0"/>
+<TLINK lid="l12339" relType="INCLUDES" eventInstanceID="ei12338" relatedToTime="t0"/>
+<TLINK lid="l12341" relType="INCLUDES" eventInstanceID="ei12340" relatedToTime="t0"/>
+<TLINK lid="l12343" relType="INCLUDES" eventInstanceID="ei12342" relatedToTime="t0"/>
+<TLINK lid="l12345" relType="INCLUDES" eventInstanceID="ei12344" relatedToTime="t0"/>
+<TLINK lid="l12347" relType="INCLUDES" eventInstanceID="ei12346" relatedToTime="t0"/>
+<TLINK lid="l12349" relType="INCLUDES" eventInstanceID="ei12348" relatedToTime="t0"/>
+<TLINK lid="l12351" relType="INCLUDES" eventInstanceID="ei12350" relatedToTime="t0"/>
+<TLINK lid="l12353" relType="INCLUDES" eventInstanceID="ei12352" relatedToTime="t0"/>
+<TLINK lid="l12355" relType="INCLUDES" eventInstanceID="ei12354" relatedToTime="t0"/>
+<TLINK lid="l12357" relType="AFTER" eventInstanceID="ei12356" relatedToTime="t0"/>
+<TLINK lid="l12359" relType="INCLUDES" eventInstanceID="ei12358" relatedToTime="t0"/>
+<TLINK lid="l12361" relType="INCLUDES" eventInstanceID="ei12360" relatedToTime="t0"/>
+<TLINK lid="l12362" relType="DURING" eventInstanceID="ei12306" relatedToTime="t12274"/>
+<TLINK lid="l12363" relType="DURING" eventInstanceID="ei12306" relatedToEventInstance="ei12308"/>
+<TLINK lid="l12364" relType="BEFORE" eventInstanceID="ei12314" relatedToEventInstance="ei12310"/>
+<TLINK lid="l12365" relType="AFTER" eventInstanceID="ei12326" relatedToEventInstance="ei12324"/>
+<TLINK lid="l12366" relType="DURING" eventInstanceID="ei12324" relatedToTime="t12284"/>
+<TLINK lid="l12367" relType="BEFORE" eventInstanceID="ei12306" relatedToEventInstance="ei12326"/>
+<TLINK lid="l12368" relType="AFTER" eventInstanceID="ei12326" relatedToEventInstance="ei12328"/>
+<TLINK lid="l12369" relType="DURING" eventInstanceID="ei12326" relatedToEventInstance="ei12332"/>
+<TLINK lid="l12370" relType="BEFORE" eventInstanceID="ei12336" relatedToEventInstance="ei12334"/>
+<TLINK lid="l12371" relType="AFTER" eventInstanceID="ei12356" relatedToEventInstance="ei12336"/>
+<TLINK lid="l12372" relType="DURING" eventInstanceID="ei12326" relatedToEventInstance="ei12338"/>
+<TLINK lid="l12373" relType="DURING" eventInstanceID="ei12326" relatedToEventInstance="ei12340"/>
+<TLINK lid="l12374" relType="DURING" eventInstanceID="ei12326" relatedToEventInstance="ei12342"/>
+<TLINK lid="l12375" relType="DURING" eventInstanceID="ei12326" relatedToEventInstance="ei12346"/>
+<TLINK lid="l12376" relType="DURING" eventInstanceID="ei12350" relatedToEventInstance="ei12348"/>
+<TLINK lid="l12377" relType="DURING" eventInstanceID="ei12360" relatedToEventInstance="ei12352"/>
+<TLINK lid="l12378" relType="DURING" eventInstanceID="ei12326" relatedToEventInstance="ei12358"/>
+
+
+</TimeML>

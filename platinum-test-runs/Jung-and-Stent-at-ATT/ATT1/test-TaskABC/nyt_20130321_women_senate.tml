@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>nyt_20130321_women_senate</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-21</TIMEX3></DCT>
+
+<TITLE>Once Few, Women Hold More Power in Senate</TITLE>
+
+<TEXT>
+
+An hour before her colleagues <EVENT eid="e1" class="OCCURRENCE">gathered</EVENT> for their first <EVENT eid="e2" class="OCCURRENCE">vote</EVENT> of a new Congress, Senator Kelly Ayotte <EVENT eid="e3" class="OCCURRENCE">slipped</EVENT> into an empty Senate chamber to <EVENT eid="e4" class="OCCURRENCE">savor</EVENT> the grandeur of her legislative home. As Ms. Ayotte, a freshman Republican from New Hampshire, <EVENT eid="e5" class="OCCURRENCE">sat</EVENT> down at the wooden desk where generations of lawmakers from her state had <EVENT eid="e6" class="OCCURRENCE">cast</EVENT> their votes, a doorman <EVENT eid="e7" class="OCCURRENCE">marched</EVENT> toward her with purpose.
+
+The desks, he sternly <EVENT eid="e8" class="REPORTING">told</EVENT> her, were for senators only.
+
+Ms. Ayotte's induction that <TIMEX3 tid="t1" type="DATE" value="2013-01">January</TIMEX3> day in 2011 into the most rarefied ranks of the nation's political class, female senators, had <EVENT eid="e9" class="ASPECTUAL">begun</EVENT>. "The desk thing really <EVENT eid="e10" class="OCCURRENCE">stuck</EVENT> with me," Ms. Ayotte <EVENT eid="e11" class="REPORTING">said</EVENT>. "There still just aren't that many of us."
+
+In <TIMEX3 tid="t2" type="DURATION" value="P90Y">the 90 years</TIMEX3> since Rebecca Felton of Georgia <EVENT eid="e12" class="STATE">became</EVENT> the first woman in the United States Senate - <EVENT eid="e13" class="REPORTING">sworn</EVENT> in for a <TIMEX3 tid="t3" type="DURATION" value="PT24H">mere 24 hours</TIMEX3> - women <EVENT eid="e14" class="STATE">remain</EVENT> an anomaly in the upper chamber. But with 20 female senators <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">now</TIMEX3> in office, an all-time high, women have <EVENT eid="e15" class="OCCURRENCE">morphed</EVENT> from the curiosity they were for much of the <TIMEX3 tid="t5" type="DATE" value="P20C">20th century</TIMEX3> into an important new force on key committees and legislation.
+
+A record nine women <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">now</TIMEX3> lead committees, including some of the most powerful ones. For the first time there is a woman - Senator Barbara A. Mikulski, a Maryland Democrat - in charge of the Senate Appropriations Committee, which <EVENT eid="e16" class="OCCURRENCE">dispenses</EVENT> billions of dollars annually throughout the government and has long been particularly <EVENT eid="e17" class="OCCURRENCE">dominated</EVENT> by men. Senator Patty Murray, a Washington Democrat, is the first chairwoman of the Budget Committee and is <EVENT eid="e18" class="OCCURRENCE">charged</EVENT> with <EVENT eid="e19" class="OCCURRENCE">shaping</EVENT> the Democratic strategy in the fiscal <EVENT eid="e20" class="OCCURRENCE">battle</EVENT> dominating Capitol Hill.
+
+One of the biggest bills to <EVENT eid="e21" class="OCCURRENCE">pass</EVENT> the Senate <TIMEX3 tid="t7" type="DATE" value="2012">last year</TIMEX3> was farm legislation <EVENT eid="e22" class="OCCURRENCE">led</EVENT> by Senator Debbie Stabenow, a Michigan Democrat who <EVENT eid="e23" class="OCCURRENCE">presides</EVENT> over the agriculture committee. Senator Barbara Boxer, the California Democrat who is chairwoman of the Environment and Public Works Committee, <EVENT eid="e24" class="OCCURRENCE">shepherded</EVENT> the highway bill.
+
+"We are <EVENT eid="e25" class="OCCURRENCE">growing</EVENT> in number," <EVENT eid="e26" class="REPORTING">said</EVENT> Senator Amy Klobuchar, Democrat of Minnesota. "But more importantly, we are <EVENT eid="e27" class="OCCURRENCE">growing</EVENT> in our power. When I first <EVENT eid="e28" class="ASPECTUAL">started</EVENT> just <TIMEX3 tid="t8" type="DATE" value="2007">six years ago</TIMEX3>, it was unusual to <EVENT eid="e29" class="STATE">have</EVENT> a woman managing a bill."
+
+Just as important, even male senators <EVENT eid="e30" class="REPORTING">say</EVENT>, is the potential the women <EVENT eid="e31" class="OCCURRENCE">hold</EVENT> for <EVENT eid="e32" class="OCCURRENCE">changing</EVENT> the tenor of the Senate and <EVENT eid="e33" class="OCCURRENCE">pushing</EVENT> for compromise in the highly partisan atmosphere on Capitol Hill.
+
+"I don't <EVENT eid="e34" class="I_STATE">want</EVENT> to <EVENT eid="e35" class="OCCURRENCE">generalize</EVENT>, because this isn't true of all of them, but they <EVENT eid="e36" class="OCCURRENCE">tend</EVENT> to be interested in <EVENT eid="e37" class="OCCURRENCE">finding</EVENT> common ground," <EVENT eid="e38" class="REPORTING">said</EVENT> Senator Rob Portman, Republican of Ohio. "So I <EVENT eid="e39" class="I_STATE">think</EVENT> it's going to <EVENT eid="e40" class="STATE">have</EVENT>, and is having, a positive <EVENT eid="e41" class="OCCURRENCE">impact</EVENT> on the Senate."
+
+While partisan division is the central characteristic of the modern Congress, women have <EVENT eid="e42" class="ASPECTUAL">begun</EVENT> to <EVENT eid="e43" class="OCCURRENCE">crack</EVENT> away at the gridlock by <EVENT eid="e44" class="OCCURRENCE">forming</EVENT> coalitions that have <EVENT eid="e45" class="OCCURRENCE">surprised</EVENT> leaders of both parties. Senator Kirsten E. Gillibrand, Democrat of New York, and Senator Susan Collins, Republican of Maine, <EVENT eid="e46" class="OCCURRENCE">led</EVENT> the repeal in the Senate of "don't <EVENT eid="e47" class="OCCURRENCE">ask</EVENT>, don't <EVENT eid="e48" class="REPORTING">tell</EVENT>" in <TIMEX3 tid="t9" type="DATE" value="2010">2010</TIMEX3>, <EVENT eid="e49" class="OCCURRENCE">allowing</EVENT> gay men and women to <EVENT eid="e50" class="OCCURRENCE">serve</EVENT> openly in the military.
+
+<TIMEX3 tid="t10" type="DATE" value="2013">This year</TIMEX3>, all four of the female Senate Republicans <EVENT eid="e51" class="OCCURRENCE">split</EVENT> with their party and <EVENT eid="e52" class="OCCURRENCE">voted</EVENT> with Senate Democrats to <EVENT eid="e53" class="OCCURRENCE">reauthorize</EVENT> the <EVENT eid="e54" class="OCCURRENCE">Violence</EVENT> Against Women Act, which had <EVENT eid="e55" class="OCCURRENCE">lapsed</EVENT> during the last Congress.
+
+</TEXT>
+
+<MAKEINSTANCE eventID="e1" eiid="ei1" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e2" eiid="ei2" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e3" eiid="ei3" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e4" eiid="ei4" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e5" eiid="ei5" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e6" eiid="ei6" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e7" eiid="ei7" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e8" eiid="ei8" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e9" eiid="ei9" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e10" eiid="ei10" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e11" eiid="ei11" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e12" eiid="ei12" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e13" eiid="ei13" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e14" eiid="ei14" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e15" eiid="ei15" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e16" eiid="ei16" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e17" eiid="ei17" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e18" eiid="ei18" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e19" eiid="ei19" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e20" eiid="ei20" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e21" eiid="ei21" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e22" eiid="ei22" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e23" eiid="ei23" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e24" eiid="ei24" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e25" eiid="ei25" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e26" eiid="ei26" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e27" eiid="ei27" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e28" eiid="ei28" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e29" eiid="ei29" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e30" eiid="ei30" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e31" eiid="ei31" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e32" eiid="ei32" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e33" eiid="ei33" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e34" eiid="ei34" tense="PRESENT" aspect="NONE" polarity="NEG" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e35" eiid="ei35" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e36" eiid="ei36" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e37" eiid="ei37" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e38" eiid="ei38" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e39" eiid="ei39" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e40" eiid="ei40" tense="FUTURE" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e41" eiid="ei41" tense="FUTURE" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e42" eiid="ei42" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e43" eiid="ei43" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e44" eiid="ei44" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e45" eiid="ei45" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e46" eiid="ei46" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e47" eiid="ei47" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e48" eiid="ei48" tense="PRESENT" aspect="NONE" polarity="NEG" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e49" eiid="ei49" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e50" eiid="ei50" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e51" eiid="ei51" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e52" eiid="ei52" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e53" eiid="ei53" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e54" eiid="ei54" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e55" eiid="ei55" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="NONE" pos="VERB" />
+
+</TimeML>

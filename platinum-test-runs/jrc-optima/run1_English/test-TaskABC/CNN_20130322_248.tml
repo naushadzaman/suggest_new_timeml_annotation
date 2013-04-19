@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeML><DOCID>CNN_20130322_248</DOCID><DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-22</TIMEX3></DCT><TEXT>
+
+The FAA <TIMEX3 tid="t1" type="DATE" value="2013-03-22">on Friday</TIMEX3> <EVENT eid="e0" class="OCCURRENCE">announced</EVENT> it will <EVENT eid="e1" class="OCCURRENCE">close</EVENT> 149 regional airport <EVENT eid="e2" class="OCCURRENCE">control</EVENT> <EVENT eid="e3" class="OCCURRENCE">towers</EVENT> because of forced spending cuts -- <EVENT eid="e4" class="OCCURRENCE">sparing</EVENT> 40 others that the FAA had been <EVENT eid="e5" class="I_ACTION">expected</EVENT> to shutter.
+
+A <TIMEX3 tid="t2" type="DURATION" value="P4W">four-week</TIMEX3>, <EVENT eid="e7" class="OCCURRENCE">phased</EVENT> closure of the 149 <EVENT eid="e8" class="OCCURRENCE">control</EVENT> <EVENT eid="e9" class="OCCURRENCE">towers</EVENT> will <EVENT eid="e10" class="ASPECTUAL">begin</EVENT> <TIMEX3 tid="t3" type="DATE" value="2013-04-07">on April 7</TIMEX3>, the FAA <EVENT eid="e11" class="OCCURRENCE">said</EVENT>.
+
+The FAA had been <EVENT eid="e12" class="I_ACTION">expected</EVENT> to <EVENT eid="e14" class="OCCURRENCE">announce</EVENT> the closure of 189 <EVENT eid="e15" class="OCCURRENCE">low</EVENT>- or moderate-volume <EVENT eid="e16" class="OCCURRENCE">towers</EVENT> <EVENT eid="e17" class="OCCURRENCE">staffed</EVENT> by contractors. Before <TIMEX3 tid="t4" type="DATE" value="2013-03-22">Friday</TIMEX3>'s announcement, it <EVENT eid="e18" class="OCCURRENCE">said</EVENT> it would <EVENT eid="e19" class="OCCURRENCE">consider</EVENT> <EVENT eid="e20" class="ASPECTUAL">keeping</EVENT> a tower open if the airport <EVENT eid="e21" class="I_ACTION">convinces</EVENT> the agency it is in the "national interest" to <EVENT eid="e22" class="OCCURRENCE">do</EVENT> so.
+
+By congressional mandate, the FAA must <EVENT eid="e23" class="OCCURRENCE">cut</EVENT> nearly $600 million from its nearly $48 billion <EVENT eid="e25" class="OCCURRENCE">budget</EVENT> this fiscal <TIMEX3 tid="t5" type="DURATION" value="P1Y">year</TIMEX3>. Because the majority of its 47,000 employees are air <EVENT eid="e26" class="OCCURRENCE">traffic</EVENT> controllers, it is impossible to <EVENT eid="e27" class="OCCURRENCE">cut</EVENT> its budget without <EVENT eid="e28" class="OCCURRENCE">affecting</EVENT> controllers, the agency <EVENT eid="e29" class="REPORTING">says</EVENT>.
+
+</TEXT></TimeML>

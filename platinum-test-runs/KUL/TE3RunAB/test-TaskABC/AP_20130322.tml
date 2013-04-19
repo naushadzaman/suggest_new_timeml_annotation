@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>AP_20130322</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>105 U.S. Kids Died From Flu, CDC Says</TITLE>
+
+
+
+<TEXT>
+
+The flu season is <EVENT eid="e1" class="OCCURRENCE">winding</EVENT> down, and it has <EVENT eid="e2" class="OCCURRENCE">killed</EVENT> 105 children so far - about the average toll.
+
+The season <EVENT eid="e3" class="ASPECTUAL">started</EVENT> about <TIMEX3 tid="t1" type="DURATION" value="P1M">a month</TIMEX3> earlier than usual, sparking concerns it might <EVENT eid="e4" class="OCCURRENCE">turn</EVENT> into the worst in <TIMEX3 tid="t2" type="DURATION" value="P1E">a decade.</TIMEX3> It <EVENT eid="e5" class="ASPECTUAL">ended</EVENT> up being very hard on the elderly, but was moderately severe overall, <EVENT eid="e6" class="REPORTING">according</EVENT> to the Centers for Disease Control and Prevention.
+
+Six of the pediatric deaths were <EVENT eid="e7" class="REPORTING">reported</EVENT> in the last week, and it's possible there will be more, <EVENT eid="e8" class="REPORTING">said</EVENT> the CDC's Dr. Michael Jhung <EVENT eid="e9" class="REPORTING">said</EVENT> <TIMEX3 tid="t3" type="DATE" value="2013-03-22">Friday</TIMEX3>.
+
+Roughly 100 children <EVENT eid="e10" class="OCCURRENCE">die</EVENT> in an average flu season. One exception was the swine flu pandemic of 2009-2010, when 348 children <EVENT eid="e11" class="OCCURRENCE">died</EVENT>.
+
+The CDC <EVENT eid="e12" class="I_ACTION">recommends</EVENT> that all children ages <TIMEX3 tid="t4" type="DURATION" value="P6M">6 months</TIMEX3> and older be <EVENT eid="e13" class="OCCURRENCE">vaccinated</EVENT> against flu each season, though only about half <EVENT eid="e14" class="OCCURRENCE">get</EVENT> a flu <EVENT eid="e15" class="OCCURRENCE">shot</EVENT> or nasal spray.
+
+All but four of the children who <EVENT eid="e16" class="OCCURRENCE">died</EVENT> were old enough to be <EVENT eid="e17" class="OCCURRENCE">vaccinated</EVENT>, but 90 percent of them did not <EVENT eid="e18" class="OCCURRENCE">get vaccinated</EVENT>, CDC officials <EVENT eid="e19" class="REPORTING">said</EVENT>.
+
+<TIMEX3 tid="t5" type="DATE" value="2013">This year</TIMEX3>'s vaccine was <EVENT eid="e20" class="I_STATE">considered</EVENT> effective in children, though it didn't work very well in older people. And the dominant flu strain early in the season was one that tends to <EVENT eid="e21" class="OCCURRENCE">cause</EVENT> more severe illness.
+
+The government only does a national flu death count for children. But it does <EVENT eid="e22" class="OCCURRENCE">track</EVENT> hospitalization rates for people 65 and older, and those statistics have been grim.
+
+In that group, 177 out of every 100,000 were <EVENT eid="e23" class="OCCURRENCE">hospitalized</EVENT> with flu-related illness in <TIMEX3 tid="t6" type="DURATION" value="PXM">the past several months.</TIMEX3> That's more than 2 1/2 times higher than any other recent season.
+
+This flu season <EVENT eid="e24" class="ASPECTUAL">started</EVENT> in <TIMEX3 tid="t7" type="DATE" value="2013-12">early December</TIMEX3>, <TIMEX3 tid="t8" type="DURATION" value="P1M">a month</TIMEX3> earlier than usual, and <EVENT eid="e25" class="OCCURRENCE">peaked</EVENT> by the end of <TIMEX3 tid="t9" type="DATE" value="2013">year.</TIMEX3> Since then, flu reports have been <EVENT eid="e26" class="OCCURRENCE">dropping</EVENT> off throughout the country.
+
+"We <EVENT eid="e27" class="OCCURRENCE">appear</EVENT> to be <EVENT eid="e28" class="OCCURRENCE">getting</EVENT> close to the end of flu season," Jhung <EVENT eid="e29" class="REPORTING">said</EVENT>.
+
+</TEXT>
+
+
+</TimeML>

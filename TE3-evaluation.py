@@ -145,7 +145,7 @@ def evaluate(source_dir, dest_dir):
 	command = 'python evaluation-entities/evaluate_entities.py ' + source_dir + ' ' + dest_dir + ' ' + str(tmp_debug) + ' ' + sys.argv[4]
 	os.system(command) 
 	evaluation_method = ''
-	command = 'python evaluation-relations/temporal_evaluation.py ' + source_dir + ' ' + dest_dir + ' ' +str(tmp_debug) +  evaluation_method 
+	command = 'python evaluation-relations/temporal_evaluation.py ' + source_dir + ' ' + dest_dir + ' ' +str(tmp_debug) +  evaluation_method + ' ' + sys.argv[4]
 	os.system(command) 
 
 

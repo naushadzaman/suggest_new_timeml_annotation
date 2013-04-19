@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeML><DOCID>bbc_20130322_721</DOCID><DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-22</TIMEX3></DCT><TEXT>
+
+Russian police and <EVENT eid="e0" class="OCCURRENCE">tax</EVENT> inspectors <EVENT eid="e1" class="OCCURRENCE">have raided</EVENT> the offices of the human rights group Memorial and other civil society <EVENT eid="e3" class="OCCURRENCE">groups</EVENT> which get foreign funding.
+
+Memorial is famous for <EVENT eid="e4" class="OCCURRENCE">documenting</EVENT> human rights abuses in Russia.
+
+The US embassy in Moscow has <EVENT eid="e5" class="OCCURRENCE">voiced</EVENT> <EVENT eid="e6" class="OCCURRENCE">concern</EVENT> and <EVENT eid="e7" class="I_ACTION">asked</EVENT> the Russian government for an explanation.
+
+A new Russian law <EVENT eid="e8" class="REPORTING">says</EVENT> foreign-funded non-governmental <EVENT eid="e9" class="OCCURRENCE">groups</EVENT> (NGOs) <EVENT eid="e10" class="OCCURRENCE">linked</EVENT> to politics must <EVENT eid="e11" class="OCCURRENCE">register</EVENT> as "foreign agents" - a term which suggests spying.
+
+In the worst repressions of the Soviet period the label "foreign agents" was <EVENT eid="e12" class="OCCURRENCE">used</EVENT> to <EVENT eid="e13" class="OCCURRENCE">denounce</EVENT> dissidents - or simply political rivals of Joseph Stalin - and could <EVENT eid="e14" class="OCCURRENCE">lead</EVENT> to execution.
+
+Memorial <EVENT eid="e15" class="REPORTING">says</EVENT> inspectors <EVENT eid="e16" class="OCCURRENCE">returned</EVENT> to its Moscow offices <TIMEX3 tid="t1" type="DATE" value="2013-03-22">on Friday</TIMEX3>, having already <EVENT eid="e17" class="OCCURRENCE">seized</EVENT> 600 <EVENT eid="e19" class="OCCURRENCE">documents</EVENT> including accounts <TIMEX3 tid="t2" type="DATE" value="2013-03-28">on Thursday</TIMEX3>.
+
+A statement on the Memorial website <EVENT eid="e20" class="OCCURRENCE">said</EVENT> the inspections were directly <EVENT eid="e21" class="OCCURRENCE">linked</EVENT> to the new law on NGOs and the targeted groups' compliance with it.
+
+Memorial director Arseny Roginsky, <EVENT eid="e22" class="OCCURRENCE">quoted</EVENT> by the Russian news website Vesti, <EVENT eid="e23" class="OCCURRENCE">said</EVENT> it was "a complete check on everything <EVENT eid="e24" class="OCCURRENCE">concerned</EVENT> with our sources of <EVENT eid="e25" class="OCCURRENCE">funding</EVENT>".
+
+He <EVENT eid="e26" class="ASPECTUAL">insisted</EVENT> that the NGO law "<EVENT eid="e28" class="OCCURRENCE">will</EVENT> not <EVENT eid="e29" class="OCCURRENCE">change</EVENT> our position at all". "We won't <EVENT eid="e30" class="OCCURRENCE">refuse</EVENT> foreign donations, nor <EVENT eid="e31" class="OCCURRENCE">will</EVENT> we <EVENT eid="e32" class="OCCURRENCE">register</EVENT> as a 'foreign agent'," he <EVENT eid="e33" class="OCCURRENCE">said</EVENT>.
+
+</TEXT></TimeML>

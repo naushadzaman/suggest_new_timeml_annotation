@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME"></TIMEX3></DCT>
+
+<TEXT>
+
+The last surviving member of the team which first <EVENT eid="e1" tense="PAST" aspect="NONE" class="OCCURRENCE">conquered</EVENT> Everest in <TIMEX3 tid="t1" type="DATE" value="1953" temporalFunction="false" functionInDocument="NONE">1953</TIMEX3> has <EVENT eid="e2" tense="PRESENT" aspect="PERFECTIVE" class="OCCURRENCE">died</EVENT> in a Derbyshire nursing home.
+
+George Lowe, 89, <EVENT eid="e3" tense="PAST" aspect="NONE" class="OCCURRENCE">died</EVENT> in Ripley on <TIMEX3 tid="t2" type="DATE" value="2013-03-20" temporalFunction="false" functionInDocument="NONE">Wednesday</TIMEX3> after a long-term illness, with his wife Mary by his side.
+
+New Zealand-born Mr Lowe was part of the team that <EVENT eid="e4" tense="PAST" aspect="NONE" class="OCCURRENCE">helped</EVENT> Sir Edmund Hillary and Tenzing Norgay to the summit in <TIMEX3 tid="t3" type="DATE" value="1953" temporalFunction="false" functionInDocument="NONE">1953</TIMEX3>.
+
+Family friend and historian Dr Huw Lewis-Jones <EVENT eid="e5" tense="PAST" aspect="NONE" class="OCCURRENCE">paid</EVENT> <EVENT eid="e6" tense="NONE" aspect="NONE" class="OCCURRENCE">tribute</EVENT> to a "gentle soul and fine climber" who <EVENT eid="e7" tense="PAST" aspect="NONE" class="OCCURRENCE">shunned</EVENT> the limelight.
+
+Mr Lowe also <EVENT eid="e8" tense="PAST" aspect="NONE" class="OCCURRENCE">took</EVENT> part in the trans-Antarctic expedition of 1957-58, which <EVENT eid="e9" tense="PAST" aspect="NONE" class="OCCURRENCE">made</EVENT> the first successful overland crossing of Antarctica via the South Pole.
+
+He later <EVENT eid="e10" tense="PAST" aspect="NONE" class="OCCURRENCE">made</EVENT> expeditions to Greenland, Greece and Ethiopia.
+
+<EVENT eid="e11" tense="PRESPART" aspect="NONE" class="OCCURRENCE">Speaking</EVENT> to the BBC in <TIMEX3 tid="t4" type="DATE" value="1995" temporalFunction="false" functionInDocument="NONE">1995</TIMEX3>, Mr Lowe <EVENT eid="e12" tense="PAST" aspect="NONE" class="REPORTING">said</EVENT> of his Antarctic adventure: "We <EVENT eid="e13" tense="PAST" aspect="NONE" class="I_STATE">estimated</EVENT> we could do it in <TIMEX3 tid="t5" type="DURATION" value="P100D" temporalFunction="false" functionInDocument="NONE">100 days</TIMEX3>, and we <EVENT eid="e14" tense="PAST" aspect="NONE" class="OCCURRENCE">got</EVENT> across on the 99th <TIMEX3 tid="t6" type="DURATION" value="P1D" temporalFunction="false" functionInDocument="NONE">day</TIMEX3>.
+
+"There was a great feeling of euphoria from everyone. It had a multiplying effect.
+
+"We were <EVENT eid="e15" tense="PAST" aspect="NONE" class="I_STATE">pleased</EVENT> that England and New Zealand <EVENT eid="e16" tense="PAST" aspect="NONE" class="OCCURRENCE">knew</EVENT> about it, and we <EVENT eid="e17" tense="PAST" aspect="NONE" class="I_ACTION">thought</EVENT> that's where it would <EVENT eid="e18" tense="NONE" aspect="NONE" class="ASPECTUAL">stop</EVENT>."
+
+He also <EVENT eid="e19" tense="PAST" aspect="NONE" class="OCCURRENCE">talked</EVENT> about his "second job" as the group's cameraman, and having to <EVENT eid="e20" tense="INFINITIVE" aspect="NONE" class="OCCURRENCE">wear</EVENT> four pairs of gloves to <EVENT eid="e21" tense="INFINITIVE" aspect="NONE" class="OCCURRENCE">work</EVENT> the clockwork camera.
+
+"When there were <EVENT eid="e22" tense="NONE" aspect="NONE" class="OCCURRENCE">dramas</EVENT>, there was a split problem. Do you <EVENT eid="e23" tense="INFINITIVE" aspect="NONE" class="OCCURRENCE">take</EVENT> part in the urgency - or <EVENT eid="e24" tense="NONE" aspect="NONE" class="OCCURRENCE">do</EVENT> you <EVENT eid="e25" tense="PRESENT" aspect="NONE" class="OCCURRENCE">record</EVENT> it?" he <EVENT eid="e26" tense="PAST" aspect="NONE" class="REPORTING">said</EVENT>.
+
+Dr Lewis-Jones, the former curator at the Scott Polar Research Institute at the University of Cambridge, who first <EVENT eid="e27" tense="PAST" aspect="NONE" class="OCCURRENCE">met</EVENT> Mr Lowe in <TIMEX3 tid="t7" type="DATE" value="2005" temporalFunction="false" functionInDocument="NONE">2005</TIMEX3>, <EVENT eid="e28" tense="PAST" aspect="NONE" class="I_ACTION">called</EVENT> him a "hero".
+
+"I don't often <EVENT eid="e29" tense="NONE" aspect="NONE" class="OCCURRENCE">use</EVENT> that word but then it is not very often that you <EVENT eid="e30" tense="PRESENT" aspect="NONE" class="I_STATE">get</EVENT> to <EVENT eid="e31" tense="INFINITIVE" aspect="NONE" class="OCCURRENCE">meet</EVENT> one," he <EVENT eid="e32" tense="PAST" aspect="NONE" class="REPORTING">said</EVENT>.
+
+A book of memoirs and photographs from the <EVENT eid="e33" tense="NONE" aspect="NONE" class="OCCURRENCE">climb</EVENT> by Mr Lowe, which he <EVENT eid="e34" tense="PAST" aspect="NONE" class="OCCURRENCE">worked</EVENT> on with Dr Lewis-Jones, is <EVENT eid="e35" tense="PRESENT" aspect="NONE" class="I_STATE">due</EVENT> to be <EVENT eid="e36" tense="INFINITIVE" aspect="NONE" class="OCCURRENCE">published</EVENT> in <TIMEX3 tid="t8" type="DATE" value="2013-05" temporalFunction="false" functionInDocument="NONE">May</TIMEX3>.
+
+He <EVENT eid="e37" tense="PAST" aspect="NONE" class="REPORTING">said</EVENT>: "Lowe was a brilliant, kind fellow who never <EVENT eid="e38" tense="PAST" aspect="NONE" class="I_ACTION">sought</EVENT> the limelight... and <TIMEX3 tid="t9" type="DURATION" value="P60Y" temporalFunction="false" functionInDocument="NONE">60 years</TIMEX3> on from Everest his achievements <EVENT eid="e39" tense="PRESENT" aspect="NONE" class="OCCURRENCE">deserve</EVENT> wider recognition.
+
+"He was <EVENT eid="e40" tense="PAST" aspect="NONE" class="OCCURRENCE">involved</EVENT> in two of the most important explorations of <TIMEX3 tid="t10" type="DATE" value="19XX" temporalFunction="false" functionInDocument="NONE">the 20th Century</TIMEX3>... yet <EVENT eid="e41" tense="PAST" aspect="NONE" class="I_STATE">remained</EVENT> a humble, happy man right to the end... an inspirational lesson to us all."
+
+Before <EVENT eid="e42" tense="PRESPART" aspect="NONE" class="OCCURRENCE">retiring</EVENT> in <TIMEX3 tid="t11" type="DATE" value="1984" temporalFunction="false" functionInDocument="NONE">1984</TIMEX3>, Mr Lowe <EVENT eid="e43" tense="PAST" aspect="NONE" class="OCCURRENCE">worked</EVENT> as an Inspector of Schools with the Department of Education and Sciences, and he <EVENT eid="e44" tense="PRESENT" aspect="NONE" class="OCCURRENCE">leaves</EVENT> three sons from a previous marriage.
+
+The last British climbing member of the <TIMEX3 tid="t12" type="DATE" value="1953" temporalFunction="false" functionInDocument="NONE">1953</TIMEX3> team, Mike Westmacott, <EVENT eid="e45" tense="PAST" aspect="NONE" class="OCCURRENCE">died</EVENT> <TIMEX3 tid="t13" type="DATE" value="2012-06" temporalFunction="false" functionInDocument="NONE">last June</TIMEX3>.
+
+</TEXT>
+
+<MAKEINSTANCE eventID="e1" eiid="ei1" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e2" eiid="ei2" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" />
+<MAKEINSTANCE eventID="e3" eiid="ei3" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e4" eiid="ei4" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e5" eiid="ei5" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e6" eiid="ei6" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e7" eiid="ei7" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e8" eiid="ei8" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e9" eiid="ei9" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e10" eiid="ei10" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e11" eiid="ei11" tense="PRESPART" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e12" eiid="ei12" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e13" eiid="ei13" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e14" eiid="ei14" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e15" eiid="ei15" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e16" eiid="ei16" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e17" eiid="ei17" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e18" eiid="ei18" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e19" eiid="ei19" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e20" eiid="ei20" tense="INFINITIVE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e21" eiid="ei21" tense="INFINITIVE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e22" eiid="ei22" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e23" eiid="ei23" tense="INFINITIVE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e24" eiid="ei24" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e25" eiid="ei25" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e26" eiid="ei26" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e27" eiid="ei27" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e28" eiid="ei28" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e29" eiid="ei29" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e30" eiid="ei30" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e31" eiid="ei31" tense="INFINITIVE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e32" eiid="ei32" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e33" eiid="ei33" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e34" eiid="ei34" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e35" eiid="ei35" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e36" eiid="ei36" tense="INFINITIVE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e37" eiid="ei37" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e38" eiid="ei38" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e39" eiid="ei39" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e40" eiid="ei40" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e41" eiid="ei41" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e42" eiid="ei42" tense="PRESPART" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e43" eiid="ei43" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e44" eiid="ei44" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e45" eiid="ei45" tense="PAST" aspect="NONE" polarity="POS" />
+<TLINK lid="l1" relType="BEFORE" eventInstanceID="ei34" relatedToTime="t0" />
+<TLINK lid="l2" relType="BEFORE" eventInstanceID="ei12" relatedToTime="t0" />
+<TLINK lid="l3" relType="BEFORE" eventInstanceID="ei43" relatedToTime="t0" />
+<TLINK lid="l4" relType="IS_INCLUDED" eventInstanceID="ei45" relatedToTime="t13" />
+<TLINK lid="l5" relType="IS_INCLUDED" eventInstanceID="ei4" relatedToTime="t3" />
+<TLINK lid="l6" relType="IS_INCLUDED" eventInstanceID="ei42" relatedToTime="t11" />
+<TLINK lid="l7" relType="IS_INCLUDED" eventInstanceID="ei36" relatedToTime="t8" />
+<TLINK lid="l8" relType="IS_INCLUDED" eventInstanceID="ei27" relatedToTime="t7" />
+<TLINK lid="l9" relType="IS_INCLUDED" eventInstanceID="ei3" relatedToTime="t2" />
+<TLINK lid="l10" relType="SIMULTANEOUS" eventInstanceID="ei8" relatedToEventInstance="ei9" />
+<TLINK lid="l11" relType="SIMULTANEOUS" eventInstanceID="ei19" relatedToEventInstance="ei22" />
+<TLINK lid="l12" relType="IS_INCLUDED" eventInstanceID="ei1" relatedToTime="t1" />
+<TLINK lid="l13" relType="SIMULTANEOUS" eventInstanceID="ei35" relatedToEventInstance="ei37" />
+<TLINK lid="l14" relType="IS_INCLUDED" eventInstanceID="ei43" relatedToTime="t11" />
+<TLINK lid="l15" relType="IS_INCLUDED" eventInstanceID="ei14" relatedToTime="t6" />
+<TLINK lid="l16" relType="SIMULTANEOUS" eventInstanceID="ei4" relatedToEventInstance="ei5" />
+<TLINK lid="l17" relType="IS_INCLUDED" eventInstanceID="ei38" relatedToTime="t9" />
+<TLINK lid="l18" relType="IS_INCLUDED" eventInstanceID="ei12" relatedToTime="t4" />
+<TLINK lid="l19" relType="AFTER" eventInstanceID="ei12" relatedToEventInstance="ei13" />
+<TLINK lid="l20" relType="IS_INCLUDED" eventInstanceID="ei40" relatedToTime="t10" />
+<TLINK lid="l21" relType="SIMULTANEOUS" eventInstanceID="ei22" relatedToEventInstance="ei23" />
+<TLINK lid="l22" relType="SIMULTANEOUS" eventInstanceID="ei10" relatedToEventInstance="ei12" />
+<TLINK lid="l23" relType="SIMULTANEOUS" eventInstanceID="ei28" relatedToEventInstance="ei32" />
+<TLINK lid="l24" relType="IS_INCLUDED" eventInstanceID="ei28" relatedToTime="t7" />
+<TLINK lid="l25" relType="BEFORE" eventInstanceID="ei3" relatedToEventInstance="ei4" />
+<TLINK lid="l26" relType="SIMULTANEOUS" eventInstanceID="ei40" relatedToEventInstance="ei41" />
+<TLINK lid="l27" relType="SIMULTANEOUS" eventInstanceID="ei5" relatedToEventInstance="ei8" />
+<TLINK lid="l28" relType="SIMULTANEOUS" eventInstanceID="ei11" relatedToEventInstance="ei12" />
+<TLINK lid="l29" relType="IS_INCLUDED" eventInstanceID="ei11" relatedToTime="t4" />
+<TLINK lid="l30" relType="IS_INCLUDED" eventInstanceID="ei45" relatedToTime="t12" />
+<TLINK lid="l31" relType="AFTER" eventInstanceID="ei8" relatedToEventInstance="ei10" />
+<TLINK lid="l32" relType="SIMULTANEOUS" eventInstanceID="ei32" relatedToEventInstance="ei35" />
+<TLINK lid="l33" relType="SIMULTANEOUS" eventInstanceID="ei23" relatedToEventInstance="ei26" />
+<TLINK lid="l34" relType="SIMULTANEOUS" eventInstanceID="ei26" relatedToEventInstance="ei28" />
+<TLINK lid="l35" relType="IS_INCLUDED" eventInstanceID="ei13" relatedToTime="t5" />
+<TLINK lid="l36" relType="SIMULTANEOUS" eventInstanceID="ei14" relatedToTime="t5" />
+<TLINK lid="l37" relType="IS_INCLUDED" eventInstanceID="ei2" relatedToTime="t1" />
+<TLINK lid="l38" relType="IS_INCLUDED" eventInstanceID="ei39" relatedToTime="t9" />
+<TLINK lid="l39" relType="BEFORE" eventInstanceID="ei2" relatedToEventInstance="ei3" />
+
+</TimeML>

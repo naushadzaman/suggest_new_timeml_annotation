@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130322_314</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>Obama gets diplomatic coup before heading to refugee-flooded Jordan</TITLE>
+
+
+
+<TEXT>
+
+President Barack Obama <EVENT eid="e1" class="OCCURRENCE">arrived</EVENT> in refugee-flooded Jordan on Friday after <EVENT eid="e2" class="OCCURRENCE">scoring</EVENT> a diplomatic <EVENT eid="e3" class="OCCURRENCE">coup</EVENT> just before <EVENT eid="e4" class="OCCURRENCE">leaving</EVENT> Israel when Prime Minister Benjamin Netanyahu apologized to Turkey for a 2010 commando <EVENT eid="e5" class="OCCURRENCE">raid</EVENT> that <EVENT eid="e6" class="OCCURRENCE">killed</EVENT> nine activists on a Turkish vessel in a Gaza-bound flotilla.
+
+The apology, long sought by Turkish Prime Minister Recep Erdogan, <EVENT eid="e7" class="OCCURRENCE">eased</EVENT> strained feelings between Turkey and Israel, two vital U.S. allies in the Middle East.
+
+It <EVENT eid="e8" class="OCCURRENCE">happened</EVENT> in a phone <EVENT eid="e9" class="OCCURRENCE">call</EVENT> to Erdogan during a final <EVENT eid="e10" class="OCCURRENCE">meeting</EVENT> between Obama and Netanyahu at Ben Gurion International Airport in Tel Aviv minutes before Air Force One <EVENT eid="e11" class="OCCURRENCE">departed</EVENT> for Jordan to <EVENT eid="e12" class="OCCURRENCE">complete</EVENT> the president's Middle East swing. It is the first foreign trip of his second term.
+
+A statement from Netanyahu's office <EVENT eid="e13" class="REPORTING">said</EVENT> the apology included an <EVENT eid="e14" class="OCCURRENCE">offer</EVENT> of compensation. However, there was confusion later when the Israeli government <EVENT eid="e15" class="OCCURRENCE">dropped</EVENT> a reference in its original statement to normalized relations between the countries with a <EVENT eid="e16" class="OCCURRENCE">return</EVENT> of ambassadors.
+
+There also was no word on whether the once-close nations would <EVENT eid="e17" class="ASPECTUAL">resume</EVENT> the joint military <EVENT eid="e18" class="OCCURRENCE">exercises</EVENT> that were <EVENT eid="e19" class="OCCURRENCE">suspended</EVENT> after the flotilla raid.
+
+Turkey had been prosecuting four Israeli soldiers in absentia and Israel initially <EVENT eid="e20" class="REPORTING">said</EVENT> the two leaders <EVENT eid="e21" class="I_ACTION">agreed</EVENT> to the cancellation of legal steps against the troops. Later, however, its <EVENT eid="e22" class="STATE">amended</EVENT> statement <EVENT eid="e23" class="OCCURRENCE">omitted</EVENT> that action as well.
+
+</TEXT>
+
+
+
+</TimeML>

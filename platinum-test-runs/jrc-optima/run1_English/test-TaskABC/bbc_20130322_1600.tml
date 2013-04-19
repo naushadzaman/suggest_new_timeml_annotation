@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeML><DOCID>bbc_20130322_1600</DOCID><DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-22</TIMEX3></DCT><TEXT>
+
+Heavy snow is <EVENT eid="e0" class="OCCURRENCE">causing</EVENT> disruption to <EVENT eid="e1" class="OCCURRENCE">transport</EVENT> across the UK, with heavy rainfall <EVENT eid="e2" class="OCCURRENCE">bringing</EVENT> <EVENT eid="e3" class="OCCURRENCE">flooding</EVENT> to the south-west of England.
+
+Rescuers <EVENT eid="e4" class="OCCURRENCE">searching</EVENT> for a woman <EVENT eid="e5" class="OCCURRENCE">trapped</EVENT> in a landslide at her home in Looe, Cornwall, <EVENT eid="e6" class="OCCURRENCE">said</EVENT> they had <EVENT eid="e7" class="OCCURRENCE">found</EVENT> a body.
+
+Over 200,000 Belfast customers were <EVENT eid="e8" class="OCCURRENCE">affected</EVENT> by a blackout but power is <EVENT eid="e9" class="ASPECTUAL">starting</EVENT> to be <EVENT eid="e10" class="ASPECTUAL">restored</EVENT>.
+
+Northern Ireland's World Cup qualifier with Russia has been <EVENT eid="e11" class="I_ACTION">postponed</EVENT> until 15:00 GMT <TIMEX3 tid="t1" type="DATE" value="2013-03-16">Saturday</TIMEX3> due to heavy snow.
+
+There are 12 <EVENT eid="e12" class="OCCURRENCE">flood</EVENT> warnings in the South West, with Met Office warnings for snow <EVENT eid="e13" class="OCCURRENCE">covering</EVENT> much of the UK.
+
+This <EVENT eid="e14" class="OCCURRENCE">comes</EVENT> just <TIMEX3 tid="t2" type="DATE" value="2013-W11">over a week before</TIMEX3> the start of British <TIMEX3 tid="t3" type="DATE" value="2013-SU">Summer</TIMEX3> Time.
+
+BBC forecasters <EVENT eid="e15" class="OCCURRENCE">said</EVENT> the snow would <EVENT eid="e16" class="OCCURRENCE">cause</EVENT> <EVENT eid="e17" class="OCCURRENCE">travel</EVENT> disruption across northern parts of the UK <TIMEX3 tid="t4" type="DATE" value="2013-03-29">on Friday</TIMEX3>, with some 20cm-40cm (8in-16in) <EVENT eid="e18" class="OCCURRENCE">falling</EVENT> in places. Atrocious <EVENT eid="e19" class="OCCURRENCE">conditions</EVENT> could be <EVENT eid="e20" class="I_ACTION">expected</EVENT> on high ground, they <EVENT eid="e22" class="OCCURRENCE">said</EVENT>.
+
+Roads in northern parts of Wales, the Midlands into the Pennines, southern Scotland and Northern Ireland would be the worst affected, while gale <EVENT eid="e23" class="I_ACTION">force</EVENT> <EVENT eid="e24" class="OCCURRENCE">winds</EVENT> would <EVENT eid="e25" class="OCCURRENCE">blow</EVENT> <EVENT eid="e26" class="OCCURRENCE">snow</EVENT> and <EVENT eid="e27" class="OCCURRENCE">drifts</EVENT> across trans-Pennine routes, they <EVENT eid="e28" class="OCCURRENCE">added</EVENT>.
+
+</TEXT></TimeML>

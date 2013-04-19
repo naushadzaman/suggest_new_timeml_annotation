@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>bbc_20130322_1600</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-22</TIMEX3></DCT>
+
+<TITLE>Landslip body found as weather bites</TITLE>
+
+<TEXT>
+
+Heavy snow is <EVENT eid="e1" class="OCCURRENCE">causing</EVENT> disruption to <EVENT eid="e2" class="OCCURRENCE">transport</EVENT> across the UK, with heavy rainfall <EVENT eid="e3" class="OCCURRENCE">bringing</EVENT> <EVENT eid="e4" class="OCCURRENCE">flooding</EVENT> to the south-west of England.
+
+Rescuers <EVENT eid="e5" class="OCCURRENCE">searching</EVENT> for a woman trapped in a landslide at her home in Looe, Cornwall, <EVENT eid="e6" class="REPORTING">said</EVENT> they had <EVENT eid="e7" class="OCCURRENCE">found</EVENT> a body.
+
+Over 200,000 Belfast customers were <EVENT eid="e8" class="OCCURRENCE">affected</EVENT> by a blackout but power is <EVENT eid="e9" class="ASPECTUAL">starting</EVENT> to be <EVENT eid="e10" class="OCCURRENCE">restored</EVENT>.
+
+Northern Ireland's World Cup qualifier with Russia has been <EVENT eid="e11" class="OCCURRENCE">postponed</EVENT> until 15:00 GMT <TIMEX3 tid="t1" type="DATE" value="2013-03-23">Saturday</TIMEX3> due to heavy snow.
+
+There are 12 flood warnings in the South West, with <EVENT eid="e12" class="OCCURRENCE">Met</EVENT> Office warnings for snow covering much of the UK.
+
+This <EVENT eid="e13" class="OCCURRENCE">comes</EVENT> just over <TIMEX3 tid="t2" type="DURATION" value="P1W">a week</TIMEX3> before the <EVENT eid="e14" class="ASPECTUAL">start</EVENT> of British Summer Time.
+
+BBC forecasters <EVENT eid="e15" class="REPORTING">said</EVENT> the snow would <EVENT eid="e16" class="OCCURRENCE">cause</EVENT> travel disruption across northern parts of the UK on <TIMEX3 tid="t3" type="DATE" value="2013-03-22">Friday</TIMEX3>, with some 20cm-40cm (8in-16in) <EVENT eid="e17" class="OCCURRENCE">falling</EVENT> in places. Atrocious conditions could be <EVENT eid="e18" class="I_STATE">expected</EVENT> on high ground, they <EVENT eid="e19" class="REPORTING">said</EVENT>.
+
+Roads in northern parts of Wales, the Midlands into the Pennines, southern Scotland and Northern Ireland would be the worst affected, while gale force winds would <EVENT eid="e20" class="OCCURRENCE">blow</EVENT> snow and drifts across trans-Pennine routes, they <EVENT eid="e21" class="OCCURRENCE">added</EVENT>.
+
+</TEXT>
+
+<MAKEINSTANCE eventID="e1" eiid="ei1" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e2" eiid="ei2" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e3" eiid="ei3" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e4" eiid="ei4" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e5" eiid="ei5" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e6" eiid="ei6" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e7" eiid="ei7" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e8" eiid="ei8" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e9" eiid="ei9" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e10" eiid="ei10" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e11" eiid="ei11" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e12" eiid="ei12" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e13" eiid="ei13" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e14" eiid="ei14" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e15" eiid="ei15" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e16" eiid="ei16" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" pos="VERB" />
+<MAKEINSTANCE eventID="e17" eiid="ei17" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e18" eiid="ei18" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e19" eiid="ei19" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e20" eiid="ei20" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" pos="VERB" />
+<MAKEINSTANCE eventID="e21" eiid="ei21" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+
+</TimeML>

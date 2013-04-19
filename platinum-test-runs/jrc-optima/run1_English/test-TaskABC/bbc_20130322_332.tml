@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeML><DOCID>bbc_20130322_332</DOCID><DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-22</TIMEX3></DCT><TEXT>
+
+Oil giant BP has <EVENT eid="e0" class="OCCURRENCE">said</EVENT> it will <EVENT eid="e1" class="OCCURRENCE">buy</EVENT> <EVENT eid="e2" class="OCCURRENCE">back</EVENT> $8bn of shares, <EVENT eid="e3" class="OCCURRENCE">returning</EVENT> to shareholders the money they had <EVENT eid="e4" class="OCCURRENCE">put</EVENT> into a complicated Russian venture.
+
+It <EVENT eid="e5" class="OCCURRENCE">said</EVENT> it "<EVENT eid="e6" class="I_ACTION">expected</EVENT> to <EVENT eid="e8" class="OCCURRENCE">return</EVENT> to BP shareholders an amount equivalent to the value of the company's original investment in TNK-BP".
+
+BP <EVENT eid="e9" class="I_ACTION">agreed</EVENT> to <EVENT eid="e10" class="OCCURRENCE">sell</EVENT> <EVENT eid="e11" class="OCCURRENCE">back</EVENT> its 50% <EVENT eid="e12" class="OCCURRENCE">stake</EVENT> in TNK-BP to Russia's Rosneft <TIMEX3 tid="t1" type="DATE" value="2013-10">in October</TIMEX3> in return for $17.1bn in cash and <EVENT eid="e13" class="OCCURRENCE">shares</EVENT>.
+
+It <EVENT eid="e14" class="OCCURRENCE">invested</EVENT> in TNK-BP in <TIMEX3 tid="t2" type="DATE" value="2003">2003</TIMEX3>.
+
+BP chairman Carl-Henric Svanberg <EVENT eid="e15" class="OCCURRENCE">said</EVENT>: "We <EVENT eid="e16" class="I_ACTION">expect</EVENT> our stake in Rosneft will <EVENT eid="e18" class="OCCURRENCE">generate</EVENT> long-term value for BP and its shareholders. But this buyback <EVENT eid="e19" class="OCCURRENCE">programme</EVENT> should also <EVENT eid="e20" class="OCCURRENCE">allow</EVENT> our shareholders to <EVENT eid="e21" class="PERCEPTION">see</EVENT> <EVENT eid="e22" class="OCCURRENCE">benefits</EVENT> in the near-term from the value we have <EVENT eid="e23" class="PERCEPTION">realised</EVENT> by <EVENT eid="e24" class="OCCURRENCE">reshaping</EVENT> our Russian business."
+
+BP <EVENT eid="e25" class="I_ACTION">expects</EVENT> the share buyback <EVENT eid="e27" class="OCCURRENCE">programme</EVENT> could <EVENT eid="e28" class="OCCURRENCE">take</EVENT> between 12 and <TIMEX3 tid="t3" type="DURATION" value="P18M">18 months</TIMEX3> to <EVENT eid="e29" class="ASPECTUAL">complete</EVENT>.
+
+"In <TIMEX3 tid="t4" type="DATE" value="2003">2003</TIMEX3> BP <EVENT eid="e30" class="OCCURRENCE">invested</EVENT> around $8bn in cash, <EVENT eid="e31" class="OCCURRENCE">shares</EVENT> and assets in the formation of TNK-BP," the oil giant said. "<TIMEX3 tid="t5" type="DURATION" value="P1DE">Over the following decade</TIMEX3> BP <EVENT eid="e32" class="OCCURRENCE">received</EVENT> a total of $19bn in dividends from the joint venture."
+
+Although BP's involvement in the Russian joint venture has been lucrative, relations with its partners have often been fraught with disagreement. In <TIMEX3 tid="t6" type="DATE" value="2011">2011</TIMEX3>, the AAR consortium <EVENT eid="e33" class="I_ACTION">attempted</EVENT> to <EVENT eid="e34" class="ASPECTUAL">block</EVENT> a drilling joint venture in the Arctic between BP and Rosneft through the courts and the plan was eventually <EVENT eid="e35" class="OCCURRENCE">dropped</EVENT>.
+
+As <EVENT eid="e36" class="OCCURRENCE">well</EVENT> as internal wrangles, BP employees at TNK-BP have <EVENT eid="e37" class="OCCURRENCE">fallen</EVENT> <EVENT eid="e38" class="OCCURRENCE">foul</EVENT> of Russian authorities.
+
+While <EVENT eid="e39" class="OCCURRENCE">serving</EVENT> as <EVENT eid="e40" class="OCCURRENCE">head</EVENT> of TNK-BP, Bob Dudley - now the head of BP as a whole - had his office <EVENT eid="e41" class="OCCURRENCE">bugged</EVENT> and <EVENT eid="e42" class="OCCURRENCE">raided by</EVENT> the police and <EVENT eid="e43" class="OCCURRENCE">met</EVENT> with onerous back-tax <EVENT eid="e44" class="I_ACTION">demands</EVENT>, legal action and visa problems.
+
+He eventually <EVENT eid="e46" class="OCCURRENCE">fled</EVENT> the country in <TIMEX3 tid="t7" type="DATE" value="2008">2008</TIMEX3>.
+
+But the tie-up with Rosneft will <EVENT eid="e48" class="ASPECTUAL">keep</EVENT> BP in Russia, <EVENT eid="e49" class="OCCURRENCE">allowing</EVENT> it to <EVENT eid="e50" class="ASPECTUAL">continue</EVENT> to <EVENT eid="e51" class="I_ACTION">explore</EVENT> and <EVENT eid="e52" class="OCCURRENCE">exploit</EVENT> the country's vast energy resources, <EVENT eid="e53" class="OCCURRENCE">including</EVENT> in the Arctic region. And Rosneft <EVENT eid="e54" class="OCCURRENCE">benefits</EVENT> from BP's expertise in <EVENT eid="e55" class="I_ACTION">exploring</EVENT> in difficult and potentially hazardous conditions.
+
+</TEXT></TimeML>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>WSJ_20130322_804</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>Health Insurers Warn on Premiums</TITLE>
+
+
+
+<TEXT>
+
+Health insurers are privately <EVENT eid="e1" class="I_ACTION">warning</EVENT> brokers that premiums for many individuals and small businesses could <EVENT eid="e2" class="OCCURRENCE">increase</EVENT> sharply next year because of the health-care overhaul law, with the nation's biggest firm projecting that rates could more than <EVENT eid="e3" class="OCCURRENCE">double</EVENT> for some consumers buying their own plans.
+
+The projections, made in sessions with brokers and agents, <EVENT eid="e4" class="OCCURRENCE">provide</EVENT> some of the most concrete evidence yet of how much insurance companies might <EVENT eid="e5" class="OCCURRENCE">increase</EVENT> prices when major provisions of the law kick in next year - a subject of rigorous debate.
+
+The projected <EVENT eid="e6" class="OCCURRENCE">increases</EVENT> are at odds with what the Obama Administration <EVENT eid="e7" class="REPORTING">says</EVENT> consumers should be expecting overall in terms of cost. The Department of Health and Human Services <EVENT eid="e8" class="REPORTING">says</EVENT> that the law will "<EVENT eid="e9" class="OCCURRENCE">make</EVENT> health-care coverage more affordable and accessible," <EVENT eid="e10" class="OCCURRENCE">pointing</EVENT> to a 2009 analysis by the Congressional Budget Office that <EVENT eid="e11" class="REPORTING">says</EVENT> average individual premiums, on an apples-to-apples basis, would be lower.
+
+The gulf between the pricing <EVENT eid="e12" class="OCCURRENCE">talk</EVENT> from some insurers and the government projections <EVENT eid="e13" class="I_ACTION">suggests</EVENT> how complicated the law's effects will be. Carriers will be filing proposed prices with regulators over the next few months.
+
+Part of the murkiness <EVENT eid="e14" class="OCCURRENCE">stems</EVENT> from the role of government subsidies. Federal subsidies under the health law will <EVENT eid="e15" class="I_ACTION">help</EVENT> lower-income consumers <EVENT eid="e16" class="OCCURRENCE">defray</EVENT> costs, but they are generally not included in insurers' premium projections. Many consumers will be <EVENT eid="e17" class="OCCURRENCE">getting</EVENT> more generous plans because of new requirements in the law. The effects of the law will vary widely, and insurers and other analysts <EVENT eid="e18" class="STATE">agree</EVENT> that some consumers and small businesses will likely see premiums <EVENT eid="e19" class="OCCURRENCE">go</EVENT> down.
+
+Starting next year, the law will block insurers from <EVENT eid="e20" class="OCCURRENCE">refusing</EVENT> to <EVENT eid="e21" class="OCCURRENCE">sell</EVENT> coverage or <EVENT eid="e22" class="OCCURRENCE">setting</EVENT> premiums based on people's health histories, and will <EVENT eid="e23" class="OCCURRENCE">reduce</EVENT> their ability to set rates based on age. That can raise coverage prices for younger, healthier consumers, while reining them in for older, sicker ones. The rules can also affect small businesses, which sometimes <EVENT eid="e24" class="OCCURRENCE">pay</EVENT> premiums tied to employees' health status and claims history.
+
+</TEXT>
+
+</TimeML>

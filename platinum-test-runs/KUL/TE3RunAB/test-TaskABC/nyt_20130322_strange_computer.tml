@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>nyt_20130322_strange_computer</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-22</TIMEX3></DCT>
+
+<TITLE>A Strange Computer Promises Great Speed</TITLE>
+
+<TEXT>
+
+Our digital age is all about bits, those precise ones and zeros that are the stuff of modern computer code.
+
+But a powerful new type of computer that is about to be commercially <EVENT eid="e543" class="OCCURRENCE">deployed</EVENT> by a major American military contractor is <EVENT eid="e544" class="OCCURRENCE">taking</EVENT> computing into the strange, subatomic realm of quantum mechanics. In that infinitesimal neighborhood, common sense logic no longer <EVENT eid="e545" class="I_STATE">seems</EVENT> to <EVENT eid="e546" class="OCCURRENCE">apply.</EVENT> A one can be a one, or it can be a one and a zero and everything in between  all at the same time.
+
+It <EVENT eid="e547" class="OCCURRENCE">sounds</EVENT> preposterous, particularly to those familiar with the yes/no world of conventional computing. But academic researchers and scientists at companies like Microsoft, I.B.M. and Hewlett-Packard have been <EVENT eid="e548" class="OCCURRENCE">working</EVENT> to <EVENT eid="e549" class="OCCURRENCE">develop</EVENT> quantum computers.
+
+Now, Lockheed Martin  which <EVENT eid="e550" class="OCCURRENCE">bought</EVENT> an early version of such a computer from the Canadian company D-Wave Systems <TIMEX3 tid="t89" type="DATE" value="2011">two years ago</TIMEX3>  is confident enough in the technology to <EVENT eid="e551" class="OCCURRENCE">upgrade</EVENT> it to commercial scale, <EVENT eid="e552" class="OCCURRENCE">becoming</EVENT> the first company to <EVENT eid="e553" class="OCCURRENCE">use</EVENT> quantum computing as part of its business.
+
+Skeptics <EVENT eid="e554" class="REPORTING">say</EVENT> that D-Wave has yet to <EVENT eid="e555" class="OCCURRENCE">prove</EVENT> to outside scientists that it has <EVENT eid="e556" class="OCCURRENCE">solved</EVENT> the myriad challenges <EVENT eid="e557" class="OCCURRENCE">involved</EVENT> in quantum computation.
+
+But if it <EVENT eid="e558" class="OCCURRENCE">performs</EVENT> as Lockheed and D-Wave <EVENT eid="e559" class="I_STATE">expect</EVENT>, the design could be <EVENT eid="e560" class="OCCURRENCE">used</EVENT> to <EVENT eid="e561" class="OCCURRENCE">supercharge</EVENT> even the most powerful systems, <EVENT eid="e562" class="OCCURRENCE">solving</EVENT> some science and business problems millions of times <TIMEX3 tid="t90" type="DATE" value="2013-03-22">faster than can be done today</TIMEX3>.
+
+Ray Johnson, Lockheeds chief technical officer, <EVENT eid="e563" class="REPORTING">said</EVENT> his company would <EVENT eid="e564" class="OCCURRENCE">use</EVENT> the quantum computer to <EVENT eid="e565" class="OCCURRENCE">create</EVENT> and <EVENT eid="e566" class="OCCURRENCE">test</EVENT> complex radar, space and aircraft systems. It could be possible, for example, to <EVENT eid="e567" class="REPORTING">tell</EVENT> instantly how the millions of lines of software <EVENT eid="e568" class="OCCURRENCE">running</EVENT> a network of satellites would <EVENT eid="e569" class="OCCURRENCE">react</EVENT> to a solar burst or a pulse from a nuclear <EVENT eid="e570" class="OCCURRENCE">explosion</EVENT>  something that can now <EVENT eid="e571" class="OCCURRENCE">take</EVENT> <TIMEX3 tid="t91" type="DURATION" value="PXW">weeks</TIMEX3>, if ever, to <EVENT eid="e572" class="I_ACTION">determine</EVENT>.
+
+</TEXT>
+
+</TimeML>

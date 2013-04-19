@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130322_1003</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>New York man admits faking his death</TITLE>
+
+<TEXT>
+
+ A New York man who was <EVENT class="I_ACTION" eid="e1">accused</EVENT> of <EVENT class="OCCURRENCE" eid="e2">faking</EVENT> his <EVENT class="OCCURRENCE" eid="e3">death</EVENT> <TIMEX3 type="DATE" value="2012-SU" tid="t1">last summer</TIMEX3> <EVENT class="I_ACTION" eid="e4">pleaded</EVENT> guilty to a conspiracy charge <TIMEX3 type="DATE" value="2013-03-21" tid="t2">Thursday</TIMEX3>, Nassau County District Attorney Kathleen Rice <EVENT class="REPORTING" eid="e6">announced</EVENT>.
+
+Raymond Roth, 48, of Massapequa, New York, was first <EVENT class="REPORTING" eid="e7">reported</EVENT> <EVENT class="OCCURRENCE" eid="e8">missing</EVENT> in the waters off Jones Beach <TIMEX3 type="DATE" value="2012-07" mod="END" tid="t3">late last July</TIMEX3> by his 22-year-old son, Jonathan Roth. <TIMEX3 type="DURATION" value="PXD" tid="t5">Several days</TIMEX3> into an extensive <EVENT class="OCCURRENCE" eid="e9">search</EVENT> involving multiple agencies, New York State Park Police <EVENT class="REPORTING" eid="e11">said</EVENT>, authorities <EVENT class="OCCURRENCE" eid="e12">learned</EVENT> the missing man was in South Carolina, where he had been <EVENT class="OCCURRENCE" eid="e13">pulled</EVENT> over for <EVENT class="OCCURRENCE" eid="e14">speeding</EVENT>.
+
+<TIMEX3 tid="t6" type="DATE" value="2012-XX-XX">The day</TIMEX3> before Raymond Roth was <EVENT class="OCCURRENCE" eid="e15">pulled</EVENT> over, his wife, Evana, <EVENT class="OCCURRENCE" eid="e16">showed</EVENT> authorities e-mails she had <EVENT class="OCCURRENCE" eid="e18">discovered</EVENT> that <EVENT class="OCCURRENCE" eid="e19">appeared</EVENT> to detail a plan between him and his son to <EVENT class="OCCURRENCE" eid="e22">fake</EVENT> his <EVENT class="OCCURRENCE" eid="e23">death</EVENT>. Raymond Roth <EVENT class="I_STATE" eid="e24">wanted</EVENT> his wife and son to <EVENT class="OCCURRENCE" eid="e25">collect</EVENT> at least $410,000 in life insurance benefits while he <EVENT class="ASPECTUAL" eid="e26">started</EVENT> a new life in Florida, Rice <EVENT class="REPORTING" eid="e27">said</EVENT>.
+
+State police <EVENT class="OCCURRENCE" eid="e28">arrested</EVENT> both men in <TIMEX3 type="DATE" value="2012-08" tid="t7" mod="START">early August</TIMEX3> on charges of insurance fraud, conspiracy and filing a false report. Raymond Roth on <TIMEX3 type="DATE" value="2013-03-21" tid="t8">Thursday</TIMEX3> <EVENT class="I_ACTION" eid="e31">agreed</EVENT> to <EVENT class="I_ACTION" eid="e32">plead</EVENT> guilty to the conspiracy <EVENT class="OCCURRENCE" eid="e33">charge</EVENT> in exchange for a <EVENT class="OCCURRENCE" eid="e34">sentence</EVENT> of <TIMEX3 tid="t9" type="DURATION" value="P90D">90 days</TIMEX3> in jail and <TIMEX3 tid="t10" type="DURATION" value="P5Y">five years'</TIMEX3> probation, the district attorney's office <EVENT class="REPORTING" eid="e35">said</EVENT>. He also must <EVENT class="OCCURRENCE" eid="e36">pay</EVENT> restitution for the cost of the <EVENT class="OCCURRENCE" eid="e37">search</EVENT> -- $27,445 to the U.S. Coast Guard and $9,109 to the Nassau County Police Department.
+
+Evana Roth <EVENT class="REPORTING" eid="e38">told</EVENT> CNN in <TIMEX3 type="DATE" value="2012-08" tid="t11">August</TIMEX3> she <EVENT class="I_STATE" eid="e39">thought</EVENT> her husband <EVENT class="OCCURRENCE" eid="e40">devised</EVENT> the plan after he was <EVENT class="OCCURRENCE" eid="e41">fired</EVENT> from his job in <TIMEX3 type="DATE" value="2012-07" tid="t12">July</TIMEX3>. Her attorney, Lenard Leeds, <EVENT class="REPORTING" eid="e42">said</EVENT> she had been <EVENT class="STATE" eid="e43">unaware</EVENT> of the <EVENT class="OCCURRENCE" eid="e44">ruse</EVENT> before she <EVENT class="OCCURRENCE" eid="e45">uncovered</EVENT> the e-mail <EVENT eid="e46" class="OCCURRENCE">correspondence</EVENT>.
+
+"There needs to be a way for me to <EVENT class="OCCURRENCE" eid="e48">find</EVENT> out how things are <EVENT class="ASPECTUAL" eid="e49">going</EVENT>. <EVENT class="OCCURRENCE" eid="e50">Call</EVENT> me <TIMEX3 type="TIME" value="2012-WXX-7TNI" tid="t13">Sunday night</TIMEX3> at <TIMEX3 type="TIME" value="2012-XX-XXT20" tid="t14" anchorTimeID="t13">8 PM</TIMEX3> at the resort," Raymond Roth <EVENT class="REPORTING" eid="e51">wrote</EVENT> in an e-mail to his son <TIMEX3 type="DATE" value="2012-XX-XX" tid="t15">the day</TIMEX3> before the son <EVENT class="REPORTING" eid="e52">reported</EVENT> him <EVENT class="STATE" eid="e53">missing</EVENT>.
+
+The son's case is still <EVENT class="STATE" eid="e54">pending</EVENT>, the district attorney <EVENT class="REPORTING" eid="e55">said</EVENT>. Jonathan Roth's attorney, Joey Jackson, <EVENT class="REPORTING" eid="e56">defended</EVENT> his client after his <EVENT class="OCCURRENCE" eid="e57">arrest</EVENT>, <EVENT class="REPORTING" eid="e58">saying</EVENT>, "There was <EVENT class="OCCURRENCE" eid="e59">abuse</EVENT> here, <EVENT class="OCCURRENCE" eid="e60">manipulation</EVENT> here, <EVENT class="OCCURRENCE" eid="e61">coercion</EVENT> here" from the father.
+
+Raymond Roth's attorney, Brian Davis, <EVENT class="OCCURRENCE" eid="e62">denied</EVENT> in <TIMEX3 type="DATE" value="2012-08" tid="t16">August</TIMEX3> that Roth had <EVENT class="OCCURRENCE" eid="e63">involved</EVENT> his son in the scheme.
+
+"We had <EVENT class="STATE" eid="e65">issues</EVENT> concerning the facts people had whether (Roth) had an <EVENT class="OCCURRENCE" eid="e68">agreement</EVENT> with his son," Davis <EVENT class="REPORTING" eid="e69">told</EVENT> CNN on <TIMEX3 type="DATE" value="2013-03-21" tid="t17">Thursday</TIMEX3>. "He's <EVENT class="OCCURRENCE" eid="e71">admitted</EVENT> it <TIMEX3 type="DATE" value="PRESENT_REF" tid="t18">now</TIMEX3>. He's <EVENT class="OCCURRENCE" eid="e72">accepted</EVENT> responsibility."
+
+Davis <EVENT class="OCCURRENCE" eid="e73">added</EVENT> that his client has been under <EVENT class="STATE" eid="e74">treatment</EVENT> for bipolar disorder in <TIMEX3 type="DURATION" value="PXW" tid="t19">recent weeks</TIMEX3>.
+
+During plea <EVENT class="OCCURRENCE" eid="e76">negotiations</EVENT>, Raymond Roth <EVENT class="I_ACTION" eid="e77">asked</EVENT> the district attorney's office not to <EVENT class="OCCURRENCE" eid="e78">give</EVENT> his son jail time, Davis <EVENT class="REPORTING" eid="e79">said</EVENT>.
+
+On the advice of both their attorneys, father and son have not been in <EVENT class="STATE" eid="e80">contact</EVENT> since their <EVENT class="OCCURRENCE" eid="e81">arrests</EVENT>, Davis <EVENT class="REPORTING" eid="e82">said</EVENT>.
+
+"He would <EVENT class="I_STATE" eid="e83">like</EVENT> to <EVENT class="OCCURRENCE" eid="e84">straighten</EVENT> things out with (Jonathan) when the time <EVENT class="OCCURRENCE" eid="e85">comes</EVENT>," he <EVENT class="REPORTING" eid="e86">said</EVENT>.
+
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ei1"  eventID="e1" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei2"  eventID="e2" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei3"  eventID="e3" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei4"  eventID="e4" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei6"  eventID="e6" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei7"  eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei8"  eventID="e8" pos="VERB" tense="PRESPART" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei9"  eventID="e9" pos="NOUN" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei11"  eventID="e11" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei12"  eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei13"  eventID="e13" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei15"  eventID="e15" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei16"  eventID="e16" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei18"  eventID="e18" pos="VERB" tense="PAST" aspect="PERFECTIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei19"  eventID="e19" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei22"  eventID="e22" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei23"  eventID="e23" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei24"  eventID="e24" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei25"  eventID="e25" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei26"  eventID="e26" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei27"  eventID="e27" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei28"  eventID="e28" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei31"  eventID="e31" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei32"  eventID="e32" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei33"  eventID="e33" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei34"  eventID="e34" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei35"  eventID="e35" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei36"  eventID="e36" pos="VERB" tense="PRESENT" aspect="NONE" modality="MUST" polarity="POS" />
+<MAKEINSTANCE eiid="ei37"  eventID="e37" pos="NOUN" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei38"  eventID="e38" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei39"  eventID="e39" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei40"  eventID="e40" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei41"  eventID="e41" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei42"  eventID="e42" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei43"  eventID="e43" pos="ADJECTIVE" tense="PAST" aspect="PERFECTIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei44"  eventID="e44" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei45"  eventID="e45" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei48"  eventID="e48" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei49"  eventID="e49" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei50"  eventID="e50" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei51"  eventID="e51" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei52"  eventID="e52" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei53"  eventID="e53" pos="VERB" modality="reported" tense="PRESPART" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei54"  eventID="e54" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei55"  eventID="e55" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei56"  eventID="e56" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei57"  eventID="e57" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei58"  eventID="e58" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei59"  eventID="e59" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei60"  eventID="e60" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei61"  eventID="e61" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei62"  eventID="e62" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei63"  eventID="e63" pos="VERB" tense="PAST" modality="denied" aspect="PERFECTIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei65"  eventID="e65" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei68"  eventID="e68" pos="NOUN" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei69"  eventID="e69" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei71"  eventID="e71" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei72"  eventID="e72" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei73"  eventID="e73" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei74"  eventID="e74" pos="NOUN" tense="PAST" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei76"  eventID="e76" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei77"  eventID="e77" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei78"  eventID="e78" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="NEG" />
+<MAKEINSTANCE eiid="ei79"  eventID="e79" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei80"  eventID="e80" pos="PREPOSITION" tense="NONE" aspect="NONE" polarity="NEG" />
+<MAKEINSTANCE eiid="ei81"  eventID="e81" pos="NOUN" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei82"  eventID="e82" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei83"  eventID="e83" pos="VERB" tense="NONE" aspect="NONE" polarity="POS" modality="would" />
+<MAKEINSTANCE eiid="ei84"  eventID="e84" pos="VERB" tense="INFINITIVE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei85"  eventID="e85" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei86"  eventID="e86" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei14"  eventID="e14" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei46"  eventID="e46" pos="NOUN" tense="PAST" aspect="NONE" polarity="POS" />
+
+<TLINK lid="l1" relType="IS_INCLUDED" eventInstanceID="ei2" relatedToTime="t1" />
+<TLINK lid="l4" relType="BEFORE" eventInstanceID="ei1" relatedToEventInstance="ei6" />
+<TLINK lid="l5" relType="BEFORE" eventInstanceID="ei2" relatedToEventInstance="ei6" />
+<TLINK lid="l6" relType="BEFORE" eventInstanceID="ei4" relatedToEventInstance="ei6" />
+<TLINK lid="l200" relType="IS_INCLUDED" eventInstanceID="ei4" relatedToTime="t2" />
+<TLINK lid="l201" relType="IS_INCLUDED" eventInstanceID="ei7" relatedToTime="t3" />
+<TLINK lid="l8" relType="IS_INCLUDED" eventInstanceID="ei8" relatedToTime="t3" />
+<TLINK lid="l9" relType="BEFORE" eventInstanceID="ei7" relatedToTime="t0" />
+<TLINK lid="l10" relType="SIMULTANEOUS" eventInstanceID="ei6" relatedToEventInstance="ei7" />
+<TLINK lid="l11" relType="AFTER" eventInstanceID="ei7" relatedToEventInstance="ei8" />
+<TLINK lid="l12" relType="IS_INCLUDED" eventInstanceID="ei9" relatedToTime="t5" />
+<TLINK lid="l202" relType="ENDS" eventInstanceID="ei11" relatedToTime="t5" />
+<TLINK lid="l14" relType="BEFORE" eventInstanceID="ei12" relatedToTime="t0" />
+<TLINK lid="l15" relType="AFTER" eventInstanceID="ei7" relatedToEventInstance="ei12" />
+<TLINK lid="l16" relType="BEFORE" eventInstanceID="ei9" relatedToEventInstance="ei12" />
+<TLINK lid="l18" relType="AFTER" eventInstanceID="ei12" relatedToEventInstance="ei13" />
+<TLINK lid="l19" relType="BEFORE" eventInstanceID="ei16" relatedToTime="t0" />
+<TLINK lid="l20" relType="BEFORE" eventInstanceID="ei12" relatedToEventInstance="ei16" />
+<TLINK lid="l21" relType="BEFORE" eventInstanceID="ei15" relatedToEventInstance="ei16" />
+<TLINK lid="l22" relType="AFTER" eventInstanceID="ei16" relatedToEventInstance="ei18" />
+<TLINK lid="l23" relType="AFTER" eventInstanceID="ei16" relatedToEventInstance="ei19" />
+<TLINK lid="l24" relType="AFTER" eventInstanceID="ei16" relatedToEventInstance="ei23" />
+<TLINK lid="l26" relType="BEFORE" eventInstanceID="ei16" relatedToEventInstance="ei27" />
+<TLINK lid="l27" relType="BEFORE" eventInstanceID="ei24" relatedToEventInstance="ei27" />
+<TLINK lid="l29" relType="BEFORE" eventInstanceID="ei26" relatedToEventInstance="ei27" />
+<TLINK lid="l30" relType="IS_INCLUDED" eventInstanceID="ei28" relatedToTime="t7" />
+<TLINK lid="l31" relType="BEFORE" eventInstanceID="ei28" relatedToTime="t0" />
+<TLINK lid="l32" relType="AFTER" eventInstanceID="ei27" relatedToEventInstance="ei28" />
+<TLINK lid="l34" relType="IS_INCLUDED" eventInstanceID="ei31" relatedToTime="t8" />
+<TLINK lid="l36" relType="SIMULTANEOUS" eventInstanceID="ei27" relatedToEventInstance="ei35" />
+<TLINK lid="l37" relType="BEFORE" eventInstanceID="ei31" relatedToEventInstance="ei35" />
+<TLINK lid="l38" relType="BEFORE" eventInstanceID="ei32" relatedToEventInstance="ei35" />
+<TLINK lid="l39" relType="BEFORE" eventInstanceID="ei33" relatedToEventInstance="ei35" />
+<TLINK lid="l40" relType="BEFORE" eventInstanceID="ei34" relatedToEventInstance="ei35" />
+<TLINK lid="l41" relType="AFTER" eventInstanceID="ei36" relatedToTime="t0" />
+<TLINK lid="l43" relType="AFTER" eventInstanceID="ei36" relatedToEventInstance="ei37" />
+<TLINK lid="l44" relType="IS_INCLUDED" eventInstanceID="ei38" relatedToTime="t11" />
+<TLINK lid="l45" relType="IS_INCLUDED" eventInstanceID="ei41" relatedToTime="t12" />
+<TLINK lid="l46" relType="BEFORE" eventInstanceID="ei38" relatedToTime="t0" />
+<TLINK lid="l47" relType="AFTER" eventInstanceID="ei36" relatedToEventInstance="ei38" />
+<TLINK lid="l48" relType="BEFORE" eventInstanceID="ei38" relatedToEventInstance="ei39" />
+<TLINK lid="l49" relType="BEFORE" eventInstanceID="ei38" relatedToEventInstance="ei40" />
+<TLINK lid="l50" relType="BEFORE" eventInstanceID="ei38" relatedToEventInstance="ei41" />
+<TLINK lid="l52" relType="SIMULTANEOUS" eventInstanceID="ei38" relatedToEventInstance="ei42" />
+<TLINK lid="l52012" relType="AFTER" eventInstanceID="ei42" relatedToEventInstance="ei43" />
+<TLINK lid="l526" relType="AFTER" eventInstanceID="ei43" relatedToEventInstance="ei44" />
+<TLINK lid="l53" relType="AFTER" eventInstanceID="ei42" relatedToEventInstance="ei44" />
+<TLINK lid="l54" relType="AFTER" eventInstanceID="ei42" relatedToEventInstance="ei45" />
+<TLINK lid="l56" relType="BEFORE" eventInstanceID="ei42" relatedToEventInstance="ei48" />
+<TLINK lid="l57" relType="AFTER" eventInstanceID="ei48" relatedToEventInstance="ei49" />
+<TLINK lid="l58" relType="IS_INCLUDED" eventInstanceID="ei50" relatedToTime="t13" />
+<TLINK lid="l60" relType="BEFORE" eventInstanceID="ei52" relatedToTime="t0" />
+<TLINK lid="l61" relType="BEFORE" eventInstanceID="ei51" relatedToTime="t0" />
+<TLINK lid="l62" relType="BEFORE" eventInstanceID="ei48" relatedToEventInstance="ei51" />
+<TLINK lid="l63" relType="BEFORE" eventInstanceID="ei50" relatedToEventInstance="ei51" />
+<TLINK lid="l67" relType="BEFORE" eventInstanceID="ei51" relatedToEventInstance="ei55" />
+<TLINK lid="l68" relType="INCLUDES" eventInstanceID="ei54" relatedToEventInstance="ei55" />
+<TLINK lid="l70" relType="IS_INCLUDED" eventInstanceID="ei56" relatedToTime="t0" />
+<TLINK lid="l71" relType="AFTER" eventInstanceID="ei55" relatedToEventInstance="ei56" />
+<TLINK lid="l72" relType="AFTER" eventInstanceID="ei56" relatedToEventInstance="ei57" />
+<TLINK lid="l73" relType="SIMULTANEOUS" eventInstanceID="ei56" relatedToEventInstance="ei58" />
+<TLINK lid="l735" relType="AFTER" eventInstanceID="ei58" relatedToEventInstance="ei59" />
+<TLINK lid="l736" relType="AFTER" eventInstanceID="ei58" relatedToEventInstance="ei60" />
+<TLINK lid="l737" relType="AFTER" eventInstanceID="ei58" relatedToEventInstance="ei61" />
+<TLINK lid="l74" relType="IS_INCLUDED" eventInstanceID="ei62" relatedToTime="t16" />
+<TLINK lid="l75" relType="BEFORE" eventInstanceID="ei62" relatedToTime="t0" />
+<TLINK lid="l77" relType="AFTER" eventInstanceID="ei62" relatedToEventInstance="ei63" />
+<TLINK lid="l775" relType="AFTER" eventInstanceID="ei63" relatedToEventInstance="ei65" />
+<TLINK lid="l78" relType="IS_INCLUDED" eventInstanceID="ei69" relatedToTime="t17" />
+<TLINK lid="l79" relType="BEFORE" eventInstanceID="ei69" relatedToTime="t0" />
+<TLINK lid="l80" relType="BEFORE" eventInstanceID="ei62" relatedToEventInstance="ei69" />
+<TLINK lid="l83" relType="AFTER" eventInstanceID="ei69" relatedToEventInstance="ei71" />
+<TLINK lid="l84" relType="IS_INCLUDED" eventInstanceID="ei72" relatedToTime="t0" />
+<TLINK lid="l86" relType="IS_INCLUDED" eventInstanceID="ei73" relatedToTime="t19" />
+<TLINK lid="l865" relType="AFTER" eventInstanceID="ei73" relatedToEventInstance="ei74" />
+<TLINK lid="l90" relType="SIMULTANEOUS" eventInstanceID="ei73" relatedToEventInstance="ei79" />
+<TLINK lid="l91" relType="BEFORE" eventInstanceID="ei76" relatedToEventInstance="ei79" />
+<TLINK lid="l92" relType="BEFORE" eventInstanceID="ei77" relatedToEventInstance="ei79" />
+<TLINK lid="l93" relType="AFTER" eventInstanceID="ei78" relatedToEventInstance="ei79" />
+<TLINK lid="l95" relType="SIMULTANEOUS" eventInstanceID="ei79" relatedToEventInstance="ei82" />
+<TLINK lid="l96" relType="BEFORE" eventInstanceID="ei81" relatedToEventInstance="ei82" />
+<TLINK lid="l98" relType="SIMULTANEOUS" eventInstanceID="ei82" relatedToEventInstance="ei86" />
+<TLINK lid="l99" relType="AFTER" eventInstanceID="ei83" relatedToEventInstance="ei86" />
+
+<TLINK lid="l100" relType="BEFORE" eventInstanceID="ei84" relatedToEventInstance="ei86" />
+<TLINK lid="l101" relType="BEFORE" eventInstanceID="ei85" relatedToEventInstance="ei86" />
+<TLINK lid="l204" relType="AFTER" eventInstanceID="ei15" relatedToTime="t6" />
+<TLINK lid="l205" relType="SIMULTANEOUS" eventInstanceID="ei13" relatedToEventInstance="ei15" />
+<TLINK lid="l206" relType="IBEFORE" timeID="t9" relatedToTime="t10" />
+<TLINK lid="l207" relType="SIMULTANEOUS" eventInstanceID="ei22" relatedToEventInstance="ei44" />
+<TLINK lid="l208" relType="AFTER" eventInstanceID="ei45" relatedToEventInstance="ei46" />
+<TLINK lid="l209" relType="IBEFORE" eventInstanceID="ei43" relatedToEventInstance="ei45" />
+<TLINK lid="l210" relType="INCLUDES" timeID="t13" relatedToTime="t14" />
+<TLINK lid="l211" relType="IS_INCLUDED" eventInstanceID="ei50" relatedToTime="t13" />
+<TLINK lid="l212" relType="IS_INCLUDED" eventInstanceID="ei51" relatedToTime="t15" />
+<TLINK lid="l213" relType="AFTER" eventInstanceID="ei52" relatedToTime="t15" />
+<TLINK lid="l214" relType="BEFORE" eventInstanceID="ei59" relatedToTime="t0" />
+<TLINK lid="l215" relType="BEFORE" eventInstanceID="ei60" relatedToTime="t0" />
+<TLINK lid="l216" relType="BEFORE" eventInstanceID="ei61" relatedToTime="t0" />
+<TLINK lid="l217" relType="IAFTER" timeID="t0" relatedToTime="t17" />
+<TLINK lid="l218" relType="IS_INCLUDED" eventInstanceID="ei74" relatedToTime="t19" />
+<TLINK lid="l219" relType="SIMULTANEOUS" eventInstanceID="ei69" relatedToEventInstance="ei73" />
+<TLINK lid="l220" relType="SIMULTANEOUS" eventInstanceID="ei6" relatedToEventInstance="ei27" />
+</TimeML>

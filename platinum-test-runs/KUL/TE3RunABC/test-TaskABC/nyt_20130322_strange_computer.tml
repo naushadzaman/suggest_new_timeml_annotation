@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>nyt_20130322_strange_computer</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-22</TIMEX3></DCT>
+
+<TITLE>A Strange Computer Promises Great Speed</TITLE>
+
+<TEXT>
+
+Our digital age is all about bits, those precise ones and zeros that are the stuff of modern computer code.
+
+But a powerful new type of computer that is about to be commercially <EVENT eid="e12164" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">deployed</EVENT> by a major American military contractor is <EVENT eid="e12165" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">taking</EVENT> computing into the strange, subatomic realm of quantum mechanics. In that infinitesimal neighborhood, common sense logic no longer <EVENT eid="e12166" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">seems</EVENT> to <EVENT eid="e12167" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">apply</EVENT>. A one can be a one, or it can be a one and a zero and everything in between  all at the same time.
+
+It <EVENT eid="e12168" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">sounds</EVENT> preposterous, particularly to those familiar with the yes/no world of conventional computing. But academic researchers and scientists at companies like Microsoft, I.B.M. and Hewlett-Packard have been <EVENT eid="e12169" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">working</EVENT> to <EVENT eid="e12170" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">develop</EVENT> quantum computers.
+
+Now, Lockheed Martin  which <EVENT eid="e12172" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">bought</EVENT> an early version of such a computer from the Canadian company D-Wave Systems <TIMEX3 tid="t12171" type="DATE" value="2011">two years ago</TIMEX3>  is confident enough in the technology to <EVENT eid="e12173" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">upgrade</EVENT> it to commercial scale, <EVENT eid="e12174" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">becoming</EVENT> the first company to <EVENT eid="e12175" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">use</EVENT> quantum computing as part of its business.
+
+Skeptics <EVENT eid="e12176" class="REPORTING" tense="PRESENT" aspect="NONE" pos="VERB">say</EVENT> that D-Wave has yet to <EVENT eid="e12177" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">prove</EVENT> to outside scientists that it has <EVENT eid="e12178" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">solved</EVENT> the myriad challenges <EVENT eid="e12179" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">involved</EVENT> in quantum computation.
+
+But if it <EVENT eid="e12181" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">performs</EVENT> as Lockheed and D-Wave <EVENT eid="e12182" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">expect</EVENT>, the design could be <EVENT eid="e12183" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">used</EVENT> to <EVENT eid="e12184" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">supercharge</EVENT> even the most powerful systems, <EVENT eid="e12185" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">solving</EVENT> some science and business problems millions of times <TIMEX3 tid="t12180" type="DATE" value="2013-03-22">faster than can be done today</TIMEX3>.
+
+Ray Johnson, Lockheeds chief technical officer, <EVENT eid="e12186" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT> his company would <EVENT eid="e12187" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">use</EVENT> the quantum computer to <EVENT eid="e12188" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">create</EVENT> and <EVENT eid="e12189" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">test</EVENT> complex radar, space and aircraft systems. It could be possible, for example, to <EVENT eid="e12191" class="REPORTING" tense="NONE" aspect="NONE" pos="VERB">tell</EVENT> instantly how the millions of lines of software <EVENT eid="e12192" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">running</EVENT> a network of satellites would <EVENT eid="e12193" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">react</EVENT> to a solar burst or a pulse from a nuclear <EVENT eid="e12194" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="NOUN">explosion</EVENT>  something that can now <EVENT eid="e12195" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">take</EVENT> <TIMEX3 tid="t12190" type="DURATION" value="PXW">weeks</TIMEX3>, if ever, to <EVENT eid="e12196" class="I_ACTION" tense="NONE" aspect="NONE" pos="VERB">determine</EVENT>.
+
+</TEXT>
+<MAKEINSTANCE eventID="e12164" eiid="ei12197" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12165" eiid="ei12199" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12166" eiid="ei12201" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12167" eiid="ei12203" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12168" eiid="ei12205" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12169" eiid="ei12207" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12170" eiid="ei12209" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12172" eiid="ei12211" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12173" eiid="ei12213" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12174" eiid="ei12215" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12175" eiid="ei12217" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12176" eiid="ei12219" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12177" eiid="ei12221" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12178" eiid="ei12223" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12179" eiid="ei12225" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12181" eiid="ei12227" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12182" eiid="ei12229" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12183" eiid="ei12231" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12184" eiid="ei12233" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12185" eiid="ei12235" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12186" eiid="ei12237" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12187" eiid="ei12239" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12188" eiid="ei12241" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12189" eiid="ei12243" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12191" eiid="ei12245" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12192" eiid="ei12247" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12193" eiid="ei12249" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12194" eiid="ei12251" tense="FUTURE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e12195" eiid="ei12253" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12196" eiid="ei12255" tense="NONE" aspect="NONE" pos="VERB"/>
+<TLINK lid="l12198" relType="BEFORE" eventInstanceID="ei12197" relatedToTime="t0"/>
+<TLINK lid="l12200" relType="INCLUDES" eventInstanceID="ei12199" relatedToTime="t0"/>
+<TLINK lid="l12202" relType="INCLUDES" eventInstanceID="ei12201" relatedToTime="t0"/>
+<TLINK lid="l12204" relType="BEFORE" eventInstanceID="ei12203" relatedToTime="t0"/>
+<TLINK lid="l12206" relType="INCLUDES" eventInstanceID="ei12205" relatedToTime="t0"/>
+<TLINK lid="l12208" relType="INCLUDES" eventInstanceID="ei12207" relatedToTime="t0"/>
+<TLINK lid="l12210" relType="INCLUDES" eventInstanceID="ei12209" relatedToTime="t0"/>
+<TLINK lid="l12212" relType="BEFORE" eventInstanceID="ei12211" relatedToTime="t0"/>
+<TLINK lid="l12214" relType="IS_INCLUDED" eventInstanceID="ei12213" relatedToTime="t0"/>
+<TLINK lid="l12216" relType="INCLUDES" eventInstanceID="ei12215" relatedToTime="t0"/>
+<TLINK lid="l12218" relType="IS_INCLUDED" eventInstanceID="ei12217" relatedToTime="t0"/>
+<TLINK lid="l12220" relType="IS_INCLUDED" eventInstanceID="ei12219" relatedToTime="t0"/>
+<TLINK lid="l12222" relType="INCLUDES" eventInstanceID="ei12221" relatedToTime="t0"/>
+<TLINK lid="l12224" relType="BEFORE" eventInstanceID="ei12223" relatedToTime="t0"/>
+<TLINK lid="l12226" relType="BEFORE" eventInstanceID="ei12225" relatedToTime="t0"/>
+<TLINK lid="l12228" relType="INCLUDES" eventInstanceID="ei12227" relatedToTime="t0"/>
+<TLINK lid="l12230" relType="INCLUDES" eventInstanceID="ei12229" relatedToTime="t0"/>
+<TLINK lid="l12232" relType="BEFORE" eventInstanceID="ei12231" relatedToTime="t0"/>
+<TLINK lid="l12234" relType="BEFORE" eventInstanceID="ei12233" relatedToTime="t0"/>
+<TLINK lid="l12236" relType="INCLUDES" eventInstanceID="ei12235" relatedToTime="t0"/>
+<TLINK lid="l12238" relType="IS_INCLUDED" eventInstanceID="ei12237" relatedToTime="t0"/>
+<TLINK lid="l12240" relType="AFTER" eventInstanceID="ei12239" relatedToTime="t0"/>
+<TLINK lid="l12242" relType="IS_INCLUDED" eventInstanceID="ei12241" relatedToTime="t0"/>
+<TLINK lid="l12244" relType="INCLUDES" eventInstanceID="ei12243" relatedToTime="t0"/>
+<TLINK lid="l12246" relType="INCLUDES" eventInstanceID="ei12245" relatedToTime="t0"/>
+<TLINK lid="l12248" relType="INCLUDES" eventInstanceID="ei12247" relatedToTime="t0"/>
+<TLINK lid="l12250" relType="BEFORE" eventInstanceID="ei12249" relatedToTime="t0"/>
+<TLINK lid="l12252" relType="BEFORE" eventInstanceID="ei12251" relatedToTime="t0"/>
+<TLINK lid="l12254" relType="AFTER" eventInstanceID="ei12253" relatedToTime="t0"/>
+<TLINK lid="l12256" relType="AFTER" eventInstanceID="ei12255" relatedToTime="t0"/>
+<TLINK lid="l12257" relType="DURING_INV" eventInstanceID="ei12213" relatedToEventInstance="ei12199"/>
+<TLINK lid="l12258" relType="AFTER" eventInstanceID="ei12213" relatedToEventInstance="ei12211"/>
+<TLINK lid="l12259" relType="DURING" eventInstanceID="ei12211" relatedToTime="t12171"/>
+<TLINK lid="l12260" relType="BEFORE" eventInstanceID="ei12223" relatedToEventInstance="ei12213"/>
+<TLINK lid="l12261" relType="BEFORE" eventInstanceID="ei12197" relatedToEventInstance="ei12219"/>
+<TLINK lid="l12262" relType="BEFORE" eventInstanceID="ei12225" relatedToEventInstance="ei12223"/>
+<TLINK lid="l12263" relType="AFTER" eventInstanceID="ei12253" relatedToEventInstance="ei12225"/>
+<TLINK lid="l12264" relType="BEFORE" eventInstanceID="ei12223" relatedToEventInstance="ei12231"/>
+<TLINK lid="l12265" relType="AFTER" eventInstanceID="ei12255" relatedToEventInstance="ei12233"/>
+<TLINK lid="l12266" relType="DURING" eventInstanceID="ei12213" relatedToEventInstance="ei12235"/>
+<TLINK lid="l12267" relType="DURING" eventInstanceID="ei12235" relatedToTime="t12180"/>
+<TLINK lid="l12268" relType="BEFORE" eventInstanceID="ei12223" relatedToEventInstance="ei12237"/>
+<TLINK lid="l12269" relType="BEFORE" eventInstanceID="ei12251" relatedToEventInstance="ei12249"/>
+<TLINK lid="l12270" relType="AFTER" eventInstanceID="ei12253" relatedToEventInstance="ei12251"/>
+<TLINK lid="l12271" relType="BEFORE" eventInstanceID="ei12197" relatedToEventInstance="ei12253"/>
+<TLINK lid="l12272" relType="BEFORE" eventInstanceID="ei12253" relatedToEventInstance="ei12255"/>
+
+</TimeML>

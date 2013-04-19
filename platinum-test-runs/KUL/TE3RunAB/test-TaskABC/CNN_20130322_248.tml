@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130322_248</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>FAA to close 149 regional airport control towers, spare 40 others</TITLE>
+
+
+
+<TEXT>
+
+The FAA on <TIMEX3 tid="t55" type="DATE" value="2013-03-22">Friday</TIMEX3> <EVENT eid="e323" class="REPORTING">announced</EVENT> it will <EVENT eid="e324" class="OCCURRENCE">close</EVENT> 149 regional airport control towers because of forced spending cuts -- <EVENT eid="e325" class="OCCURRENCE">sparing</EVENT> 40 others that the FAA had been <EVENT eid="e326" class="I_STATE">expected</EVENT> to shutter.
+
+A four-week, <EVENT eid="e327" class="OCCURRENCE">phased closure</EVENT> of the 149 control towers will <EVENT eid="e328" class="ASPECTUAL">begin</EVENT> on <TIMEX3 tid="t56" type="DATE" value="2013-04-07">April 7</TIMEX3>, the FAA <EVENT eid="e329" class="REPORTING">said</EVENT>.
+
+The FAA had been <EVENT eid="e330" class="I_STATE">expected</EVENT> to <EVENT eid="e331" class="REPORTING">announce</EVENT> the <EVENT eid="e332" class="OCCURRENCE">closure</EVENT> of 189 low- or moderate-volume towers <EVENT eid="e333" class="OCCURRENCE">staffed</EVENT> by contractors. Before <TIMEX3 tid="t57" type="DATE" value="2013-03-22">Friday</TIMEX3>'s <EVENT eid="e334" class="OCCURRENCE">announcement</EVENT>, it <EVENT eid="e335" class="REPORTING">said</EVENT> it would <EVENT eid="e336" class="OCCURRENCE">consider</EVENT> <EVENT eid="e337" class="OCCURRENCE">keeping</EVENT> a tower open if the airport <EVENT eid="e338" class="I_ACTION">convinces</EVENT> the agency it is in the "national interest" to <EVENT eid="e339" class="OCCURRENCE">do</EVENT> so.
+
+By congressional mandate, the FAA must <EVENT eid="e340" class="OCCURRENCE">cut</EVENT> nearly $600 million from its nearly $48 billion budget <TIMEX3 tid="t58" type="DATE" value="2013">this fiscal year.</TIMEX3> Because the majority of its 47,000 employees are air traffic controllers, it is impossible to <EVENT eid="e341" class="OCCURRENCE">cut</EVENT> its budget without <EVENT eid="e342" class="OCCURRENCE">affecting</EVENT> controllers, the agency <EVENT eid="e343" class="REPORTING">says</EVENT>.
+
+</TEXT>
+
+
+</TimeML>

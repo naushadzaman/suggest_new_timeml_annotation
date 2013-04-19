@@ -752,7 +752,7 @@ def evaluate_two_files(gold_file, system_file):
 	if debug >= 1: 
 		print '\n\nEVALUATE:', system_file, 'AGAINST GOLD ANNOTATION:', gold_file
 	
-	suggest_dir = sys.argv[4] + 'suggest_dir/'
+	suggest_dir = sys.argv[4] + 'raw_suggest_dir/'
 	if not os.path.exists(suggest_dir):
 		command = 'mkdir ' + suggest_dir
 		os.system(command)

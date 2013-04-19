@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130322_1243</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>Google Keep is a note-taking app with great potential</TITLE>
+
+
+
+<TEXT>
+
+Before the <EVENT eid="e1" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">arrival</EVENT> of <EVENT eid="e2" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">Keep</EVENT>, which Google <EVENT eid="e3" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">launched</EVENT> this week, there was no default note-taking app for Android. It was a glaring hole, <EVENT eid="e4" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">considering</EVENT> that Apple's iPhone has built-in Notes and Reminders apps that can be <EVENT eid="e6" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">powered</EVENT> by Siri.
+
+Instead of <EVENT eid="e7" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">settling</EVENT> for a bare bones app to <EVENT eid="e8" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">fill</EVENT> the void, the <EVENT eid="e9" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">search</EVENT> giant <EVENT eid="e10" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">took</EVENT> things one step further.<EVENT eid="e11" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB"> Keep</EVENT> isn't simply just a place to bank whatever random half-thoughts <EVENT eid="e12" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">come</EVENT> to <EVENT eid="e13" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">mind</EVENT>: Users can <EVENT eid="e14" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">construct</EVENT> to-do lists, stash photos, and color code your notes -- all in one well-designed and easy-to-use interface.
+
+The second you <EVENT eid="e15" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">log</EVENT> anything into your phone, it is also accessible from a PC Web browser via Google Drive. Alternatively, you can <EVENT eid="e16" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">save</EVENT> things while <EVENT eid="e17" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">working</EVENT> on your computer, and it will instantly <EVENT eid="e18" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">appear</EVENT> on your phone, ready for use while on the go.
+
+The design may not be as progressive as the to-do app Clear, but <EVENT eid="e20" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">Keep</EVENT> <EVENT eid="e21" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">makes</EVENT> up for that in its simplicity and efficiency.
+
+Everything in <EVENT eid="e22" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">Keep</EVENT> is <EVENT eid="e23" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">presented</EVENT> like a Microsoft (MSFT, Fortune 500) Windows Phone-esque stream of tiles. Swiping <EVENT eid="e24" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">left</EVENT> or right will <EVENT eid="e25" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">archive</EVENT> those notes you no longer <EVENT eid="e26" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">need</EVENT> (but don't <EVENT eid="e27" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">want</EVENT> to <EVENT eid="e28" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">erase</EVENT> entirely). At the top of the app is a text entry field that <EVENT eid="e29" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">serves</EVENT> as your main point of entry for all new notes. And when viewing any specific note, <EVENT eid="e31" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">tapping</EVENT> any part of that note (title, body, etc.) will <EVENT eid="e32" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">allow</EVENT> you to <EVENT eid="e33" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">edit</EVENT> it. The entire experience is frictionless.
+
+That <EVENT eid="e34" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT>, it's not going to <EVENT eid="e35" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">conquer</EVENT> the world quite yet. Organization options are <EVENT eid="e36" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">limited</EVENT> -- color coding is your only choice, and you can't re-order your notes. Sharing with others is mostly <EVENT eid="e39" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">limited</EVENT> to email and Google+, and the desktop features are pretty bare bones.
+
+But that's more a function of it being new, rather than poorly <EVENT eid="e41" class="I_STATE" tense="PAST" aspect="NONE" pos="VERB">thought</EVENT> out. Like most things Google, <EVENT eid="e42" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">expect</EVENT> the company to flesh out <EVENT eid="e44" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">Keep</EVENT> over time and really <EVENT eid="e45" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">turn</EVENT> it into our personal internet junk drawer.
+
+It's easy to <EVENT eid="e46" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">foresee</EVENT> <TIMEX3 tid="t2" type="DATE" value="2013-03-22">the day</TIMEX3> the when users will be able to <EVENT eid="e47" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">send</EVENT> anything from their Web browser or Maps directly to <EVENT eid="e48" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">Keep</EVENT>. The prospect of <EVENT eid="e49" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">Keep</EVENT> incorporating features of services such as Pinterest or Pocket, or even <EVENT eid="e52" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">making</EVENT> it easy to catalog <EVENT eid="e54" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">streaming</EVENT> media, could <EVENT eid="e55" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">turn</EVENT> it into something big. That should <EVENT eid="e56" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">scare</EVENT> Evernote.
+
+<EVENT eid="e57" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">Keep</EVENT> is not the reinvention of the wheel in any aspect -- there are a plethora of third-party apps already available for Android. But it is a well-exectuted refinement.
+
+In <EVENT eid="e61" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">filling</EVENT> a minor, but important gap in its mobile ecosystem, Google <EVENT eid="e63" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">gives</EVENT> the competition one less claim of superiority over Android.  
+
+</TEXT>
+
+<MAKEINSTANCE eventID="e1" eiid="ei1" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e2" eiid="ei2" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e3" eiid="ei3" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e4" eiid="ei4" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e6" eiid="ei6" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e7" eiid="ei7" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e8" eiid="ei8" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e9" eiid="ei9" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e10" eiid="ei10" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11" eiid="ei11" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e12" eiid="ei12" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e13" eiid="ei13" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e14" eiid="ei14" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e15" eiid="ei15" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e16" eiid="ei16" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e17" eiid="ei17" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e18" eiid="ei18" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e20" eiid="ei20" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e21" eiid="ei21" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e22" eiid="ei22" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e23" eiid="ei23" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e24" eiid="ei24" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e25" eiid="ei25" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e26" eiid="ei26" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e27" eiid="ei27" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e28" eiid="ei28" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e29" eiid="ei29" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e31" eiid="ei31" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e32" eiid="ei32" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e33" eiid="ei33" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e34" eiid="ei34" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e35" eiid="ei35" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e36" eiid="ei36" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e39" eiid="ei39" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e41" eiid="ei41" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e42" eiid="ei42" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e44" eiid="ei44" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e45" eiid="ei45" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e46" eiid="ei46" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e47" eiid="ei47" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e48" eiid="ei48" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e49" eiid="ei49" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e52" eiid="ei52" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e54" eiid="ei54" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e55" eiid="ei55" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e56" eiid="ei56" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e57" eiid="ei57" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e61" eiid="ei61" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e63" eiid="ei63" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<TLINK lid="l11178" relType="BEFORE" eventInstanceID="ei1" relatedToTime="t0"/>
+<TLINK lid="l11180" relType="INCLUDES" eventInstanceID="ei2" relatedToTime="t0"/>
+<TLINK lid="l11182" relType="BEFORE" eventInstanceID="ei3" relatedToTime="t0"/>
+<TLINK lid="l11184" relType="INCLUDES" eventInstanceID="ei4" relatedToTime="t0"/>
+<TLINK lid="l11186" relType="BEFORE" eventInstanceID="ei6" relatedToTime="t0"/>
+<TLINK lid="l11188" relType="INCLUDES" eventInstanceID="ei7" relatedToTime="t0"/>
+<TLINK lid="l11190" relType="BEFORE" eventInstanceID="ei8" relatedToTime="t0"/>
+<TLINK lid="l11192" relType="INCLUDES" eventInstanceID="ei9" relatedToTime="t0"/>
+<TLINK lid="l11194" relType="BEFORE" eventInstanceID="ei10" relatedToTime="t0"/>
+<TLINK lid="l11196" relType="INCLUDES" eventInstanceID="ei11" relatedToTime="t0"/>
+<TLINK lid="l11198" relType="IS_INCLUDED" eventInstanceID="ei12" relatedToTime="t0"/>
+<TLINK lid="l11200" relType="AFTER" eventInstanceID="ei13" relatedToTime="t0"/>
+<TLINK lid="l11202" relType="AFTER" eventInstanceID="ei14" relatedToTime="t0"/>
+<TLINK lid="l11204" relType="IS_INCLUDED" eventInstanceID="ei15" relatedToTime="t0"/>
+<TLINK lid="l11206" relType="AFTER" eventInstanceID="ei16" relatedToTime="t0"/>
+<TLINK lid="l11208" relType="INCLUDES" eventInstanceID="ei17" relatedToTime="t0"/>
+<TLINK lid="l11210" relType="IS_INCLUDED" eventInstanceID="ei18" relatedToTime="t0"/>
+<TLINK lid="l11212" relType="INCLUDES" eventInstanceID="ei20" relatedToTime="t0"/>
+<TLINK lid="l11214" relType="INCLUDES" eventInstanceID="ei21" relatedToTime="t0"/>
+<TLINK lid="l11216" relType="INCLUDES" eventInstanceID="ei22" relatedToTime="t0"/>
+<TLINK lid="l11218" relType="BEFORE" eventInstanceID="ei23" relatedToTime="t0"/>
+<TLINK lid="l11220" relType="INCLUDES" eventInstanceID="ei24" relatedToTime="t0"/>
+<TLINK lid="l11222" relType="INCLUDES" eventInstanceID="ei25" relatedToTime="t0"/>
+<TLINK lid="l11224" relType="INCLUDES" eventInstanceID="ei26" relatedToTime="t0"/>
+<TLINK lid="l11226" relType="INCLUDES" eventInstanceID="ei27" relatedToTime="t0"/>
+<TLINK lid="l11228" relType="INCLUDES" eventInstanceID="ei28" relatedToTime="t0"/>
+<TLINK lid="l11230" relType="INCLUDES" eventInstanceID="ei29" relatedToTime="t0"/>
+<TLINK lid="l11232" relType="IS_INCLUDED" eventInstanceID="ei31" relatedToTime="t0"/>
+<TLINK lid="l11234" relType="AFTER" eventInstanceID="ei32" relatedToTime="t0"/>
+<TLINK lid="l11236" relType="INCLUDES" eventInstanceID="ei33" relatedToTime="t0"/>
+<TLINK lid="l11238" relType="BEFORE" eventInstanceID="ei34" relatedToTime="t0"/>
+<TLINK lid="l11240" relType="BEFORE" eventInstanceID="ei35" relatedToTime="t0"/>
+<TLINK lid="l11242" relType="INCLUDES" eventInstanceID="ei36" relatedToTime="t0"/>
+<TLINK lid="l11244" relType="BEFORE" eventInstanceID="ei39" relatedToTime="t0"/>
+<TLINK lid="l11246" relType="INCLUDES" eventInstanceID="ei41" relatedToTime="t0"/>
+<TLINK lid="l11248" relType="INCLUDES" eventInstanceID="ei42" relatedToTime="t0"/>
+<TLINK lid="l11250" relType="INCLUDES" eventInstanceID="ei44" relatedToTime="t0"/>
+<TLINK lid="l11252" relType="INCLUDES" eventInstanceID="ei45" relatedToTime="t0"/>
+<TLINK lid="l11254" relType="BEFORE" eventInstanceID="ei46" relatedToTime="t0"/>
+<TLINK lid="l11256" relType="BEFORE" eventInstanceID="ei47" relatedToTime="t0"/>
+<TLINK lid="l11258" relType="BEFORE" eventInstanceID="ei48" relatedToTime="t0"/>
+<TLINK lid="l11260" relType="INCLUDES" eventInstanceID="ei49" relatedToTime="t0"/>
+<TLINK lid="l11262" relType="INCLUDES" eventInstanceID="ei52" relatedToTime="t0"/>
+<TLINK lid="l11264" relType="INCLUDES" eventInstanceID="ei54" relatedToTime="t0"/>
+<TLINK lid="l11266" relType="AFTER" eventInstanceID="ei55" relatedToTime="t0"/>
+<TLINK lid="l11268" relType="AFTER" eventInstanceID="ei56" relatedToTime="t0"/>
+<TLINK lid="l11270" relType="INCLUDES" eventInstanceID="ei57" relatedToTime="t0"/>
+<TLINK lid="l11272" relType="INCLUDES" eventInstanceID="ei61" relatedToTime="t0"/>
+<TLINK lid="l11274" relType="INCLUDES" eventInstanceID="ei63" relatedToTime="t0"/>
+<TLINK lid="l11275" relType="SIMULTANEOUS" eventInstanceID="ei1" relatedToEventInstance="ei3"/>
+<TLINK lid="l11276" relType="SIMULTANEOUS" eventInstanceID="ei9" relatedToEventInstance="ei10"/>
+<TLINK lid="l11277" relType="BEFORE" eventInstanceID="ei1" relatedToEventInstance="ei12"/>
+<TLINK lid="l11278" relType="BEFORE" eventInstanceID="ei12" relatedToEventInstance="ei13"/>
+<TLINK lid="l11279" relType="BEFORE" eventInstanceID="ei13" relatedToEventInstance="ei14"/>
+<TLINK lid="l11280" relType="BEFORE" eventInstanceID="ei1" relatedToEventInstance="ei15"/>
+<TLINK lid="l11281" relType="BEFORE" eventInstanceID="ei15" relatedToEventInstance="ei16"/>
+<TLINK lid="l11282" relType="BEFORE" eventInstanceID="ei17" relatedToEventInstance="ei18"/>
+<TLINK lid="l11283" relType="BEFORE" eventInstanceID="ei10" relatedToEventInstance="ei18"/>
+<TLINK lid="l11284" relType="AFTER" eventInstanceID="ei18" relatedToEventInstance="ei23"/>
+<TLINK lid="l11285" relType="SIMULTANEOUS" eventInstanceID="ei18" relatedToEventInstance="ei26"/>
+<TLINK lid="l11286" relType="SIMULTANEOUS" eventInstanceID="ei15" relatedToEventInstance="ei27"/>
+<TLINK lid="l11287" relType="SIMULTANEOUS" eventInstanceID="ei12" relatedToEventInstance="ei28"/>
+<TLINK lid="l11288" relType="BEFORE" eventInstanceID="ei1" relatedToEventInstance="ei31"/>
+<TLINK lid="l11289" relType="BEFORE" eventInstanceID="ei31" relatedToEventInstance="ei32"/>
+<TLINK lid="l11290" relType="AFTER" eventInstanceID="ei16" relatedToEventInstance="ei34"/>
+<TLINK lid="l11291" relType="DURING_INV" eventInstanceID="ei48" relatedToTime="t2"/>
+<TLINK lid="l11292" relType="SIMULTANEOUS" eventInstanceID="ei47" relatedToEventInstance="ei48"/>
+<TLINK lid="l11293" relType="BEFORE" eventInstanceID="ei1" relatedToEventInstance="ei55"/>
+<TLINK lid="l11294" relType="BEFORE" eventInstanceID="ei1" relatedToEventInstance="ei56"/>
+<TLINK lid="l11295" relType="SIMULTANEOUS" eventInstanceID="ei61" relatedToEventInstance="ei63"/>
+
+
+</TimeML>

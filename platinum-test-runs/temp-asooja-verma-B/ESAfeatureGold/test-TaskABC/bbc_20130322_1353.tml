@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>bbc_20130322_1353</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-22</TIMEX3></DCT>
+
+<TITLE>Israel PM apologies for Gaza flotilla deaths</TITLE>
+
+<TEXT>
+
+Israel's prime minister has <EVENT eid="e1" class="OCCURRENCE">apologised</EVENT> to Turkey for <EVENT eid="e2" class="OCCURRENCE">"</EVENT>any errors that could have <EVENT eid="e3" class="OCCURRENCE">led</EVENT> to <EVENT eid="e4" class="OCCURRENCE">loss</EVENT> of life" during the 2010 commando raid on an aid flotilla that <EVENT eid="e5" class="I_ACTION">tried</EVENT> to <EVENT eid="e6" class="I_ACTION">breach</EVENT> the Gaza blockade.
+
+Benjamin Netanyahu also <EVENT eid="e7" class="OCCURRENCE">agreed</EVENT> with his Turkish counterpart Recep Tayyip Erdogan to <EVENT eid="e8" class="OCCURRENCE">compensate</EVENT> the families of the nine activists who were <EVENT eid="e9" class="OCCURRENCE">killed</EVENT>.
+
+Mr Netanyahu had previously only <EVENT eid="e10" class="OCCURRENCE">expressed</EVENT> regret for the <EVENT eid="e11" class="OCCURRENCE">deaths</EVENT>.
+
+The <EVENT eid="e12" class="OCCURRENCE">deal</EVENT> was <EVENT eid="e13" class="OCCURRENCE">brokered</EVENT> by US President Barack Obama during a <EVENT eid="e14" class="OCCURRENCE">visit</EVENT> to Israel.
+
+Mr Erdogan's office said he had accepted the apology, "in the name of the Turkish people".
+
+In the past, he has always given two conditions for <EVENT eid="e15" class="OCCURRENCE">restoring</EVENT> bilateral relations with Israel <EVENT eid="e16" class="OCCURRENCE">-</EVENT> an apology and compensation for victims' families.
+
+Nine people were <EVENT eid="e17" class="OCCURRENCE">killed</EVENT> on board the Turkish aid <EVENT eid="e18" class="OCCURRENCE">ship</EVENT>, Mavi Marmara, when it was <EVENT eid="e19" class="OCCURRENCE">boarded</EVENT> by Israeli commandos while <EVENT eid="e20" class="I_ACTION">trying</EVENT> to <EVENT eid="e21" class="OCCURRENCE">transport</EVENT> aid supplies to Gaza in May 2010 in spite of an Israeli naval <EVENT eid="e22" class="STATE">blockade</EVENT>.
+
+The Israeli government <EVENT eid="e23" class="I_ACTION">admitted</EVENT> mistakes were <EVENT eid="e24" class="OCCURRENCE">made</EVENT> in intelligence-gathering and <EVENT eid="e25" class="OCCURRENCE">planning</EVENT>, but <EVENT eid="e26" class="I_ACTION">insisted</EVENT> its commandos used lethal force because activists had <EVENT eid="e27" class="OCCURRENCE">attacked</EVENT> them.
+
+The activists <EVENT eid="e28" class="REPORTING">said</EVENT> the troops had <EVENT eid="e29" class="ASPECTUAL">opened</EVENT> fire as soon as they boarded the vessel, which was in international waters at the time.
+
+The incident <EVENT eid="e30" class="OCCURRENCE">provoked</EVENT> an international outcry and <EVENT eid="e31" class="OCCURRENCE">led</EVENT> to a major deterioration in relations between Turkey and Israel.
+
+Before <EVENT eid="e32" class="I_ACTION">departing</EVENT> for Jordan on Friday afternoon, Mr Obama <EVENT eid="e33" class="REPORTING">revealed</EVENT> that Mr Netanyahu and Mr Erdogan <EVENT eid="e34" class="OCCURRENCE">had</EVENT> just spoken by telephone.
+
+</TEXT>
+
+</TimeML>

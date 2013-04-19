@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130321_821</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">March 21, 2013</TIMEX3></DCT>
+
+<TITLE>How Obama has weaponized wit</TITLE>
+
+
+<TEXT>
+Barack Obama would <EVENT class="OCCURRENCE" eid="e1">make</EVENT> a great stand-up comic, not because he<EVENT class="STATE" eid="e2">'s</EVENT> the funniest president ever but because he <EVENT class="OCCURRENCE" eid="e3">uses</EVENT> jokes the same way many of us comedians do: as a weapon.
+
+Traditionally, the (intentionally) funny lines by our presidents have had one thing in common: They were <EVENT class="OCCURRENCE" eid="e4">self-deprecating</EVENT>. Sure, some presidents have <EVENT class="OCCURRENCE" eid="e5">used</EVENT> jokes to <EVENT class="OCCURRENCE" eid="e6">take</EVENT> jabs at their opponents, but not to the extent of Obama.
+
+During his tenure, he has increasingly <EVENT class="OCCURRENCE" eid="e7">unleashed</EVENT> biting comedic barbs against his critics and political adversaries. These jokes are <EVENT class="I_ACTION" eid="e8">intended</EVENT> to <EVENT class="OCCURRENCE" eid="e9">do</EVENT> more than simply <EVENT class="OCCURRENCE" eid="e10">entertain</EVENT> you. They <EVENT class="STATE" eid="e11">have</EVENT> an agenda.
+
+Obama's humor is often <EVENT class="REPORTING" eid="e12">delivered</EVENT> the way a comedian <EVENT class="OCCURRENCE" eid="e13">dealing</EVENT> with a heckler would <EVENT class="OCCURRENCE" eid="e14">do</EVENT> it. He <EVENT class="I_ACTION" eid="e15">tries</EVENT> to <EVENT class="OCCURRENCE" eid="e16">undermine</EVENT> his opponents with it and <EVENT class="OCCURRENCE" eid="e17">get</EVENT> the crowd -- in this case the public -- on his side. I can <EVENT class="I_ACTION" eid="e18">assure</EVENT> you that having a crowd laugh at your critic/heckler is not only effective in <EVENT class="OCCURRENCE" eid="e19">dominating</EVENT> them, it's also very satisfying.
+
+</TEXT>
+
+
+<MAKEINSTANCE eiid="ei1"  eventID="e1" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="would" />
+<MAKEINSTANCE eiid="ei2"  eventID="e2" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei3"  eventID="e3" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei4"  eventID="e4" pos="VERB" tense="PAST" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei5"  eventID="e5" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei6"  eventID="e6" pos="VERB" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei7"  eventID="e7" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei8"  eventID="e8" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei9"  eventID="e9" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei10"  eventID="e10" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei11"  eventID="e11" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei12"  eventID="e12" pos="VERB" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei13"  eventID="e13" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei14"  eventID="e14" pos="VERB" tense="FUTURE" aspect="NONE" polarity="POS" modality="would" />
+<MAKEINSTANCE eiid="ei15"  eventID="e15" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei16"  eventID="e16" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei17"  eventID="e17" pos="VERB" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eiid="ei18"  eventID="e18" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+<MAKEINSTANCE eiid="ei19"  eventID="e19" pos="VERB" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" />
+
+<TLINK lid="l1" relType="AFTER" eventInstanceID="ei1" relatedToTime="t0" />
+<TLINK lid="l2" relType="BEFORE" eventInstanceID="ei2" relatedToEventInstance="ei1" />
+<TLINK lid="l3" relType="BEFORE" eventInstanceID="ei3" relatedToEventInstance="ei1" />
+<TLINK lid="l4" relType="BEFORE" eventInstanceID="ei4" relatedToTime="t0" />
+<TLINK lid="l5" relType="AFTER" eventInstanceID="ei1" relatedToEventInstance="ei4" />
+<TLINK lid="l6" relType="BEFORE" eventInstanceID="ei5" relatedToTime="t0" />
+<TLINK lid="l7" relType="AFTER" eventInstanceID="ei4" relatedToEventInstance="ei5" />
+<TLINK lid="l8" relType="BEFORE" eventInstanceID="ei6" relatedToEventInstance="ei5" />
+<TLINK lid="l9" relType="IS_INCLUDED" eventInstanceID="ei7" relatedToTime="t0" />
+<TLINK lid="l10" relType="BEFORE" eventInstanceID="ei5" relatedToEventInstance="ei7" />
+<TLINK lid="l11" relType="INCLUDES" eventInstanceID="ei8" relatedToTime="t0" />
+<TLINK lid="l12" relType="BEFORE" eventInstanceID="ei7" relatedToEventInstance="ei8" />
+<TLINK lid="l13" relType="BEFORE" eventInstanceID="ei9" relatedToEventInstance="ei8" />
+<TLINK lid="l14" relType="BEFORE" eventInstanceID="ei10" relatedToEventInstance="ei8" />
+<TLINK lid="l15" relType="INCLUDES" eventInstanceID="ei11" relatedToTime="t0" />
+<TLINK lid="l16" relType="BEFORE" eventInstanceID="ei8" relatedToEventInstance="ei11" />
+<TLINK lid="l17" relType="BEFORE" eventInstanceID="ei12" relatedToTime="t0" />
+<TLINK lid="l18" relType="SIMULTANEOUS" eventInstanceID="ei11" relatedToEventInstance="ei12" />
+<TLINK lid="l19" relType="BEFORE" eventInstanceID="ei13" relatedToEventInstance="ei12" />
+<TLINK lid="l20" relType="AFTER" eventInstanceID="ei14" relatedToEventInstance="ei12" />
+<TLINK lid="l21" relType="INCLUDES" eventInstanceID="ei15" relatedToTime="t0" />
+<TLINK lid="l22" relType="BEFORE" eventInstanceID="ei12" relatedToEventInstance="ei15" />
+<TLINK lid="l23" relType="BEFORE" eventInstanceID="ei16" relatedToEventInstance="ei15" />
+<TLINK lid="l24" relType="BEFORE" eventInstanceID="ei17" relatedToEventInstance="ei15" />
+<TLINK lid="l25" relType="INCLUDES" eventInstanceID="ei18" relatedToTime="t0" />
+<TLINK lid="l26" relType="BEFORE" eventInstanceID="ei15" relatedToEventInstance="ei18" />
+<TLINK lid="l27" relType="INCLUDES" eventInstanceID="ei19" relatedToEventInstance="ei18" />
+
+
+</TimeML>

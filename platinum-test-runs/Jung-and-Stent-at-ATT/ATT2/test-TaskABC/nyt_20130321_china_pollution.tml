@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>nyt_20130321_china_pollution</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-21</TIMEX3></DCT>
+
+<TITLE>As Pollution Worsens in China, Solutions Succumb to Infighting</TITLE>
+
+<TEXT>
+
+China's state leadership <EVENT eid="e1" class="OCCURRENCE">transition</EVENT> has <EVENT eid="e2" class="OCCURRENCE">taken</EVENT> place <TIMEX3 tid="t1" type="DATE" value="2013-03">this month</TIMEX3> against an ominous backdrop. More than 16,000 dead pigs have been <EVENT eid="e3" class="OCCURRENCE">found</EVENT> <EVENT eid="e4" class="OCCURRENCE">floating</EVENT> in rivers that <EVENT eid="e5" class="OCCURRENCE">provide</EVENT> drinking water to Shanghai. A haze akin to volcanic fumes <EVENT eid="e6" class="OCCURRENCE">cloaked</EVENT> the capital, <EVENT eid="e7" class="OCCURRENCE">causing</EVENT> convulsive <EVENT eid="e8" class="OCCURRENCE">coughing</EVENT> and <EVENT eid="e9" class="OCCURRENCE">obscuring</EVENT> the portrait of Mao Zedong on the gate to the Forbidden City.
+
+So severe are China's environmental woes, especially the noxious air, that top government officials have been <EVENT eid="e10" class="OCCURRENCE">forced</EVENT> to openly <EVENT eid="e11" class="REPORTING">acknowledge</EVENT> them. Fu Ying, the spokeswoman for the National People's Congress, <EVENT eid="e12" class="REPORTING">said</EVENT> she <EVENT eid="e13" class="OCCURRENCE">checked</EVENT> for smog every morning after <EVENT eid="e14" class="OCCURRENCE">opening</EVENT> her curtains and <EVENT eid="e15" class="OCCURRENCE">kept</EVENT> at home face masks for her daughter and herself. Li Keqiang, the new prime minister, <EVENT eid="e16" class="REPORTING">said</EVENT> the air pollution had <EVENT eid="e17" class="OCCURRENCE">made</EVENT> him "quite upset" and <EVENT eid="e18" class="I_ACTION">vowed</EVENT> to "<EVENT eid="e19" class="OCCURRENCE">show</EVENT> even greater resolve and <EVENT eid="e20" class="OCCURRENCE">make</EVENT> more vigorous efforts" to <EVENT eid="e21" class="OCCURRENCE">clean</EVENT> it up.
+
+<TIMEX3 tid="t2" type="DATE" value="2013-02">Last month</TIMEX3>, after deadly air pollution hit record levels in northern China, officials <EVENT eid="e22" class="OCCURRENCE">led</EVENT> byWen Jiabao, then the prime minister, <EVENT eid="e23" class="OCCURRENCE">put</EVENT> forward strict new fuel standards that the oil companies had <EVENT eid="e24" class="OCCURRENCE">blocked</EVENT> for <TIMEX3 tid="t3" type="DURATION" value="P1Y">years</TIMEX3>. But there are doubts about whether the oil companies will <EVENT eid="e25" class="I_STATE">comply</EVENT>, especially since oil officials <EVENT eid="e26" class="I_ACTION">resisted</EVENT> a similar government order for higher-grade fuel <TIMEX3 tid="t4" type="DATE" value="2009">four years ago</TIMEX3>. State-owned power companies have been similarly resistant. The companies regularly <EVENT eid="e27" class="OCCURRENCE">ignore</EVENT> government orders to <EVENT eid="e28" class="OCCURRENCE">upgrade</EVENT> coal-burning electricity plants, according to ministry data. And as with the oil companies, the power companies <EVENT eid="e29" class="OCCURRENCE">exert</EVENT> an outsize influence over environmental policy debates.
+
+In <TIMEX3 tid="t5" type="DATE" value="2011">2011</TIMEX3>, during a round of discussions over stricter emissions standards, the China Electricity Council, which <EVENT eid="e30" class="OCCURRENCE">represents</EVENT> the companies, <EVENT eid="e31" class="OCCURRENCE">pushed</EVENT> back hard against the proposals, <EVENT eid="e32" class="REPORTING">saying</EVENT> that the costs of <EVENT eid="e33" class="OCCURRENCE">upgrading</EVENT> the plants would be too high.
+
+On <TIMEX3 tid="t6" type="DATE" value="2013-02-28">Feb. 28</TIMEX3>, Deutsche Bank <EVENT eid="e34" class="OCCURRENCE">released</EVENT> an analysts' note <EVENT eid="e35" class="REPORTING">saying</EVENT> that China's current economic policies would result in an enormous <EVENT eid="e36" class="OCCURRENCE">surge</EVENT> in coal consumption and automobile sales over <TIMEX3 tid="t7" type="DATE" value="2023">the next decade</TIMEX3>. "China's air pollution will <EVENT eid="e37" class="OCCURRENCE">become</EVENT> a lot worse from the already unbearable level," the analysts <EVENT eid="e38" class="REPORTING">said</EVENT>, <EVENT eid="e39" class="OCCURRENCE">calling</EVENT> for drastic policy <EVENT eid="e40" class="OCCURRENCE">changes</EVENT> and "a strong government will to <EVENT eid="e41" class="I_ACTION">overcome</EVENT> the opposition from interest groups."
+
+The report <EVENT eid="e42" class="REPORTING">estimated</EVENT> that the number of passenger cars in China was on track to <EVENT eid="e43" class="OCCURRENCE">hit</EVENT> 400 million by <TIMEX3 tid="t8" type="DATE" value="2030">2030</TIMEX3>, up from 90 million <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">now</TIMEX3>.
+
+</TEXT>
+
+<MAKEINSTANCE eventID="e1" eiid="ei1" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e2" eiid="ei2" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e3" eiid="ei3" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e4" eiid="ei4" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e5" eiid="ei5" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e6" eiid="ei6" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e7" eiid="ei7" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e8" eiid="ei8" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e9" eiid="ei9" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e10" eiid="ei10" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e11" eiid="ei11" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e12" eiid="ei12" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e13" eiid="ei13" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e14" eiid="ei14" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e15" eiid="ei15" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e16" eiid="ei16" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e17" eiid="ei17" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e18" eiid="ei18" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e19" eiid="ei19" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e20" eiid="ei20" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e21" eiid="ei21" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e22" eiid="ei22" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e23" eiid="ei23" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e24" eiid="ei24" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e25" eiid="ei25" tense="FUTURE" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e26" eiid="ei26" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e27" eiid="ei27" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e28" eiid="ei28" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e29" eiid="ei29" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e30" eiid="ei30" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e31" eiid="ei31" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e32" eiid="ei32" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e33" eiid="ei33" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e34" eiid="ei34" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e35" eiid="ei35" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e36" eiid="ei36" tense="NONE" aspect="NONE" polarity="POS" modality="WOULD" pos="NOUN" />
+<MAKEINSTANCE eventID="e37" eiid="ei37" tense="FUTURE" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e38" eiid="ei38" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e39" eiid="ei39" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e40" eiid="ei40" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e41" eiid="ei41" tense="FUTURE" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e42" eiid="ei42" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e43" eiid="ei43" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+
+</TimeML>

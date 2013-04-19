@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>nyt_20130321_cyprus</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-21</TIMEX3></DCT>
+
+<TITLE>For Euro Zone, a Cyprus Exit Would Have Little Impact</TITLE>
+
+<TEXT>
+
+A Cyprus exit from the euro union, if it <EVENT eid="e1" class="OCCURRENCE">comes</EVENT> to that, would <EVENT eid="e2" class="STATE">have</EVENT> a devastating effect on the country's citizens, who are among the most indebted in the euro zone. And for European unity and diplomacy, the Cyprus debacle has already been at least a short-term disaster.
+
+ut for the broader financial system in Europe, the losses <EVENT eid="e3" class="OCCURRENCE">resulting</EVENT> from a Cypriot banking collapse and the country's <EVENT eid="e4" class="OCCURRENCE">return</EVENT> to its former currency would be minimal compared with the havoc that Greece would have <EVENT eid="e5" class="OCCURRENCE">created</EVENT> had it not been <EVENT eid="e6" class="OCCURRENCE">bailed</EVENT> out.
+
+And that, economists and investors contend, is why Germany and its Dutch stalking horse, Jeroen Dijsselbloem, the president of the Eurogroup of finance ministers, were so adamant that depositors - large and small, Cypriot and Russian - contribute 5.8 billion euros ($7.5 billion) toward the 10 billion euro bailout of Cyprus's largest banks.
+
+Greece may well have been too big to <EVENT eid="e7" class="OCCURRENCE">fail</EVENT> <TIMEX3 tid="t1" type="DATE" value="2012">last year</TIMEX3>, but Cyprus, which <EVENT eid="e8" class="OCCURRENCE">creates</EVENT> less than one-half percent of the euro zone's gross domestic product, is certainly not.
+
+From a financial standpoint, what is most noteworthy is that the combined debt of the Cypriot people, companies and government is 2.6 times the size of the country's gross domestic product. Only Ireland, still <EVENT eid="e9" class="OCCURRENCE">struggling</EVENT> to <EVENT eid="e10" class="OCCURRENCE">recover</EVENT> from the banking collapse that <EVENT eid="e11" class="OCCURRENCE">required</EVENT> an international bailout in <TIMEX3 tid="t2" type="DATE" value="2010">2010</TIMEX3>, has a higher debt-to-G.D.P. ratio among euro zone countries.
+
+As debts in Europe mount in inverse proportion to the ability of its citizens, companies and governments to <EVENT eid="e12" class="OCCURRENCE">make</EVENT> good on them, the view is <EVENT eid="e13" class="OCCURRENCE">forming</EVENT> in Berlin and Brussels that a signal must be <EVENT eid="e14" class="OCCURRENCE">sent</EVENT> that citizens and investors must <EVENT eid="e15" class="ASPECTUAL">start</EVENT> accepting <EVENT eid="e16" class="OCCURRENCE">losses</EVENT> for the euro zone to <EVENT eid="e17" class="OCCURRENCE">survive</EVENT> in the long run.
+
+"There have been too many bailouts in Europe; it's time to <EVENT eid="e18" class="OCCURRENCE">remove</EVENT> the air bags," <EVENT eid="e19" class="REPORTING">said</EVENT> Stephen Jen, a former economist at the International Monetary Fund who <EVENT eid="e20" class="OCCURRENCE">runs</EVENT> a hedge fund in London. "This is not a Lehman," he <EVENT eid="e21" class="REPORTING">said</EVENT>, <EVENT eid="e22" class="OCCURRENCE">referring</EVENT> to the disastrous chain reaction <EVENT eid="e23" class="OCCURRENCE">touched</EVENT> off by the <EVENT eid="e24" class="OCCURRENCE">collapse</EVENT> of Lehman Brothers in <TIMEX3 tid="t3" type="DATE" value="2008">2008</TIMEX3>.
+
+Eric Dor is a French economist who has <EVENT eid="e25" class="OCCURRENCE">studied</EVENT> the mechanics of how a country might <EVENT eid="e26" class="OCCURRENCE">remove</EVENT> itself from the monetary union. By his calculations, the euro zone - through its central banking system and its national banks - has just 27 billion euros in outstanding credit exposure to Cyprus. That is a mere rounding error compared with the euro zone G.D.P. of 9.4 trillion euros.
+
+Estimates of the potential cost if Greece had been <EVENT eid="e27" class="OCCURRENCE">forced</EVENT> into a disorderly euro exit have ranged from 200 billion euros to 800 billion euros, <EVENT eid="e28" class="OCCURRENCE">given</EVENT> the larger exposure that the European Central Bank and European banks had to the country.
+
+"This explains why Germany and others are <EVENT eid="e29" class="OCCURRENCE">putting</EVENT> so much pressure on Cyprus," <EVENT eid="e30" class="REPORTING">said</EVENT> Mr. Dor, head of research at the Ieseg School of Management in Lille, France. "They are <EVENT eid="e31" class="REPORTING">saying</EVENT> we can <EVENT eid="e32" class="OCCURRENCE">take</EVENT> the risk of <EVENT eid="e33" class="OCCURRENCE">pushing</EVENT> Cyprus out of the euro zone, and that Europe can <EVENT eid="e34" class="OCCURRENCE">take</EVENT> the <EVENT eid="e35" class="OCCURRENCE">losses</EVENT> without going <EVENT eid="e36" class="OCCURRENCE">broke</EVENT>."
+
+Mr. Dor notes that the current euro zonewide system of insuring bank <EVENT eid="e37" class="OCCURRENCE">deposits</EVENT> up to 100,000 euros was <EVENT eid="e38" class="OCCURRENCE">put</EVENT> in place after the financial panic that <EVENT eid="e39" class="OCCURRENCE">followed</EVENT> the Lehman collapse. Those deposits are <EVENT eid="e40" class="I_STATE">supposed</EVENT> to be <EVENT eid="e41" class="OCCURRENCE">insured</EVENT> by national governments.
+
+So when the president of Cyprus <EVENT eid="e42" class="OCCURRENCE">admitted</EVENT> <TIMEX3 tid="t4" type="DATE" value="2013-W12">this week</TIMEX3> that his country did not have the money to <EVENT eid="e43" class="OCCURRENCE">backstop</EVENT> the 30 billion euros of guaranteed bank deposits - a figure greater than the Cypriot economy itself - a crucial bond of trust between a government and its citizens was <EVENT eid="e44" class="OCCURRENCE">snapped</EVENT>.
+
+"It is the first time ever that the leader of a euro zone country has <EVENT eid="e45" class="OCCURRENCE">admitted</EVENT> that he could not <EVENT eid="e46" class="OCCURRENCE">afford</EVENT> to <EVENT eid="e47" class="OCCURRENCE">pay</EVENT> the guarantee," Mr. Dor <EVENT eid="e48" class="REPORTING">said</EVENT>.
+
+A hasty expulsion from the euro zone would <EVENT eid="e49" class="OCCURRENCE">make</EVENT> the savings of the Cypriot people all the more evanescent, once they are <EVENT eid="e50" class="OCCURRENCE">converted</EVENT> back into Cypriot pounds, the currency Cyprus <EVENT eid="e51" class="OCCURRENCE">used</EVENT> before <EVENT eid="e52" class="OCCURRENCE">adopting</EVENT> the euro in <TIMEX3 tid="t5" type="DATE" value="2007">2007</TIMEX3>.
+
+</TEXT>
+
+<MAKEINSTANCE eventID="e1" eiid="ei1" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e2" eiid="ei2" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" pos="VERB" />
+<MAKEINSTANCE eventID="e3" eiid="ei3" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e4" eiid="ei4" tense="NONE" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e5" eiid="ei5" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e6" eiid="ei6" tense="PAST" aspect="NONE" polarity="NEG" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e7" eiid="ei7" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e8" eiid="ei8" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e9" eiid="ei9" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e10" eiid="ei10" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e11" eiid="ei11" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e12" eiid="ei12" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e13" eiid="ei13" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e14" eiid="ei14" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e15" eiid="ei15" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e16" eiid="ei16" tense="NONE" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e17" eiid="ei17" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e18" eiid="ei18" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e19" eiid="ei19" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e20" eiid="ei20" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e21" eiid="ei21" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e22" eiid="ei22" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e23" eiid="ei23" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e24" eiid="ei24" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e25" eiid="ei25" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e26" eiid="ei26" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e27" eiid="ei27" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e28" eiid="ei28" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e29" eiid="ei29" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e30" eiid="ei30" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e31" eiid="ei31" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e32" eiid="ei32" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e33" eiid="ei33" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e34" eiid="ei34" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e35" eiid="ei35" tense="NONE" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e36" eiid="ei36" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e37" eiid="ei37" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e38" eiid="ei38" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e39" eiid="ei39" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e40" eiid="ei40" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e41" eiid="ei41" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e42" eiid="ei42" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e43" eiid="ei43" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e44" eiid="ei44" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e45" eiid="ei45" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e46" eiid="ei46" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e47" eiid="ei47" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e48" eiid="ei48" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e49" eiid="ei49" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" pos="VERB" />
+<MAKEINSTANCE eventID="e50" eiid="ei50" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e51" eiid="ei51" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e52" eiid="ei52" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+
+</TimeML>

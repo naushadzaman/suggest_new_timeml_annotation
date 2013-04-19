@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130322_248</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>FAA to close 149 regional airport control towers, spare 40 others</TITLE>
+
+
+
+<TEXT>
+
+The FAA on Friday <EVENT eid="e1" class="REPORTING">announced</EVENT> it will <EVENT eid="e2" class="OCCURRENCE">close</EVENT> 149 regional airport control towers because of forced spending cuts -- <EVENT eid="e3" class="OCCURRENCE">sparing</EVENT> 40 others that the FAA had been <EVENT eid="e4" class="I_STATE">expected</EVENT> to <EVENT eid="e5" class="ASPECTUAL">shutter</EVENT>.
+
+A four-week, phased closure of the 149 control towers will <EVENT eid="e6" class="ASPECTUAL">begin</EVENT> on April 7, the FAA <EVENT eid="e7" class="REPORTING">said</EVENT>.
+
+The FAA had been <EVENT eid="e8" class="I_STATE">expected</EVENT> to <EVENT eid="e9" class="I_ACTION">announce</EVENT> the closure of 189 low- or moderate-volume towers <EVENT eid="e10" class="OCCURRENCE">staffed</EVENT> by contractors. Before Friday's <EVENT eid="e11" class="OCCURRENCE">announcement</EVENT>, it <EVENT eid="e12" class="REPORTING">said</EVENT> it would consider <EVENT eid="e13" class="OCCURRENCE">keeping</EVENT> a tower open if the airport convinces the agency it is in the "national interest" to do so.
+
+By congressional mandate, the FAA must <EVENT eid="e14" class="ASPECTUAL">cut</EVENT> nearly $600 million from its nearly $48 billion budget this fiscal year. Because the majority of its 47,000 employees are air traffic controllers, it is impossible to <EVENT eid="e15" class="OCCURRENCE">cut</EVENT> its budget without affecting controllers, the agency <EVENT eid="e16" class="REPORTING">says</EVENT>.
+
+</TEXT>
+
+
+</TimeML>

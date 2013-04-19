@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130322_1003</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>New York man admits faking his death</TITLE>
+
+<TEXT>
+
+ A New York man who was <EVENT eid="e219" class="I_ACTION">accused</EVENT> of <EVENT eid="e220" class="OCCURRENCE">faking</EVENT> his death <TIMEX3 tid="t38" type="DATE" value="2012-SU">last summer</TIMEX3> <EVENT eid="e221" class="I_ACTION">pleaded</EVENT> guilty to a conspiracy charge <TIMEX3 tid="t39" type="DATE" value="2013-03-21">Thursday</TIMEX3>, Nassau County District Attorney Kathleen Rice <EVENT eid="e222" class="REPORTING">announced</EVENT>.
+
+Raymond Roth, 48, of Massapequa, New York, was first <EVENT eid="e223" class="OCCURRENCE">reported</EVENT> <EVENT eid="e224" class="OCCURRENCE">missing</EVENT> in the waters off Jones Beach <TIMEX3 tid="t40" type="DATE" value="2012-07">late last July</TIMEX3> by his <TIMEX3 tid="t41" type="DURATION" value="P22Y">22-year-old</TIMEX3> son, Jonathan Roth. Several <TIMEX3 tid="t42" type="DURATION" value="PXD">days</TIMEX3> into an extensive <EVENT eid="e225" class="OCCURRENCE">search</EVENT> involving multiple agencies, New York State Park Police <EVENT eid="e226" class="REPORTING">said</EVENT>, authorities <EVENT eid="e227" class="OCCURRENCE">learned</EVENT> the missing man was in South Carolina, where he had been <EVENT eid="e228" class="OCCURRENCE">pulled</EVENT> over for <EVENT eid="e229" class="OCCURRENCE">speeding</EVENT>.
+
+<TIMEX3 tid="t43" type="DATE" value="2013-03-22">The day</TIMEX3> before Raymond Roth was <EVENT eid="e230" class="OCCURRENCE">pulled</EVENT> over, his wife, Evana, <EVENT eid="e231" class="OCCURRENCE">showed</EVENT> authorities e-mails she had <EVENT eid="e232" class="OCCURRENCE">discovered</EVENT> that <EVENT eid="e233" class="OCCURRENCE">appeared</EVENT> to detail a plan between him and his son to fake his death. Raymond Roth <EVENT eid="e234" class="I_STATE">wanted</EVENT> his wife and son to <EVENT eid="e235" class="OCCURRENCE">collect</EVENT> at least $410,000 in life insurance benefits while he <EVENT eid="e236" class="ASPECTUAL">started</EVENT> a new life in Florida, Rice <EVENT eid="e237" class="REPORTING">said</EVENT>.
+
+State police <EVENT eid="e238" class="OCCURRENCE">arrested</EVENT> both men in <TIMEX3 tid="t44" type="DATE" value="2013-08">early August</TIMEX3> on charges of insurance fraud, conspiracy and filing a false report. Raymond Roth on <TIMEX3 tid="t45" type="DATE" value="2013-03-21">Thursday</TIMEX3> <EVENT eid="e239" class="I_ACTION">agreed</EVENT> to <EVENT eid="e240" class="I_ACTION">plead</EVENT> guilty to the conspiracy charge in exchange for a sentence of <TIMEX3 tid="t46" type="DURATION" value="P90D">90 days</TIMEX3> in jail and five years' probation, the district attorney's office <EVENT eid="e241" class="REPORTING">said.</EVENT> He also must <EVENT eid="e242" class="OCCURRENCE">pay</EVENT> restitution for the cost of the <EVENT eid="e243" class="OCCURRENCE">search</EVENT> -- $27,445 to the U.S. Coast Guard and $9,109 to the Nassau County Police Department.
+
+Evana Roth <EVENT eid="e244" class="REPORTING">told</EVENT> CNN in <TIMEX3 tid="t47" type="DATE" value="2013-08">August</TIMEX3> she <EVENT eid="e245" class="I_STATE">thought</EVENT> her husband devised the plan after he was <EVENT eid="e246" class="OCCURRENCE">fired</EVENT> from his job in <TIMEX3 tid="t48" type="DATE" value="2013-07">July.</TIMEX3> Her attorney, Lenard Leeds, <EVENT eid="e247" class="REPORTING">said</EVENT> she had been unaware of the ruse before she <EVENT eid="e248" class="OCCURRENCE">uncovered</EVENT> the e-mail correspondence.
+
+"There <EVENT eid="e249" class="I_STATE">needs</EVENT> to be a way for me to <EVENT eid="e250" class="OCCURRENCE">find</EVENT> out how things are going. <EVENT eid="e251" class="OCCURRENCE">Call</EVENT> me <TIMEX3 tid="t49" type="TIME" value="2013-03-20TNI">Sunday night</TIMEX3> at 8 PM at the resort," Raymond Roth <EVENT eid="e252" class="OCCURRENCE">wrote</EVENT> in an e-mail to his son <TIMEX3 tid="t50" type="DATE" value="2013-03-22">the day</TIMEX3> before the son <EVENT eid="e253" class="REPORTING">reported</EVENT> him <EVENT eid="e254" class="OCCURRENCE">missing</EVENT>.
+
+The son's case is still pending, the district attorney <EVENT eid="e255" class="REPORTING">said.</EVENT> Jonathan Roth's attorney, Joey Jackson, <EVENT eid="e256" class="OCCURRENCE">defended</EVENT> his client after his <EVENT eid="e257" class="OCCURRENCE">arrest</EVENT>, <EVENT eid="e258" class="REPORTING">saying</EVENT>, "There was abuse here, manipulation here, coercion here" from the father.
+
+Raymond Roth's attorney, Brian Davis, <EVENT eid="e259" class="OCCURRENCE">denied</EVENT> in <TIMEX3 tid="t51" type="DATE" value="2013-08">August</TIMEX3> that Roth had <EVENT eid="e260" class="OCCURRENCE">involved</EVENT> his son in the scheme.
+
+"We had issues concerning the facts people had whether (Roth) had an agreement with his son," Davis <EVENT eid="e261" class="REPORTING">told</EVENT> CNN on <TIMEX3 tid="t52" type="DATE" value="2013-03-21">Thursday.</TIMEX3> "He's <EVENT eid="e262" class="OCCURRENCE">admitted</EVENT> it now. He's <EVENT eid="e263" class="OCCURRENCE">accepted</EVENT> responsibility."
+
+Davis <EVENT eid="e264" class="OCCURRENCE">added</EVENT> that his client has been under treatment for bipolar disorder in <TIMEX3 tid="t53" type="DATE" value="PAST_REF">recent weeks</TIMEX3>.
+
+During <EVENT eid="e265" class="OCCURRENCE">plea negotiations</EVENT>, Raymond Roth <EVENT eid="e266" class="I_ACTION">asked</EVENT> the district attorney's office not to <EVENT eid="e267" class="OCCURRENCE">give</EVENT> his son jail time, Davis <EVENT eid="e268" class="REPORTING">said</EVENT>.
+
+On the advice of both their attorneys, father and son have not been in contact since their <EVENT eid="e269" class="OCCURRENCE">arrests</EVENT>, Davis <EVENT eid="e270" class="REPORTING">said</EVENT>.
+
+"He would <EVENT eid="e271" class="I_STATE">like</EVENT> to <EVENT eid="e272" class="OCCURRENCE">straighten</EVENT> things out with (Jonathan) when the time <EVENT eid="e273" class="OCCURRENCE">comes</EVENT>," he <EVENT eid="e274" class="REPORTING">said</EVENT>.
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeML><DOCID>CNN_20130321_821</DOCID><DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-21</TIMEX3></DCT><TEXT>
+Barack Obama would <EVENT eid="e0" class="OCCURRENCE">make</EVENT> a great stand-up comic, not because he's the funniest president ever but because he <EVENT eid="e1" class="OCCURRENCE">uses</EVENT> <EVENT eid="e2" class="OCCURRENCE">jokes</EVENT> the same way many of us comedians <EVENT eid="e3" class="OCCURRENCE">do</EVENT>: as a weapon.
+
+Traditionally, the (intentionally) funny lines by our presidents have had one thing in common: They were self-deprecating. Sure, some presidents have <EVENT eid="e4" class="OCCURRENCE">used</EVENT> <EVENT eid="e5" class="OCCURRENCE">jokes</EVENT> to <EVENT eid="e6" class="OCCURRENCE">take</EVENT> <EVENT eid="e7" class="OCCURRENCE">jabs</EVENT> at their opponents, but not to the extent of Obama.
+
+During his tenure, he has increasingly <EVENT eid="e8" class="OCCURRENCE">unleashed</EVENT> <EVENT eid="e9" class="OCCURRENCE">biting</EVENT> comedic barbs against his critics and political adversaries. These jokes are <EVENT eid="e10" class="OCCURRENCE">intended</EVENT> to <EVENT eid="e11" class="OCCURRENCE">do</EVENT> more than simply <EVENT eid="e12" class="OCCURRENCE">entertain</EVENT> you. They have an agenda.
+
+Obama's humor is often <EVENT eid="e13" class="OCCURRENCE">delivered</EVENT> the way a comedian <EVENT eid="e14" class="OCCURRENCE">dealing</EVENT> with a heckler would <EVENT eid="e15" class="OCCURRENCE">do</EVENT> it. He <EVENT eid="e16" class="I_ACTION">tries</EVENT> to <EVENT eid="e17" class="OCCURRENCE">undermine</EVENT> his opponents with it and <EVENT eid="e18" class="OCCURRENCE">get</EVENT> the crowd -- in this case the public -- on his side. I <EVENT eid="e19" class="OCCURRENCE">can</EVENT> <EVENT eid="e20" class="I_ACTION">assure</EVENT> you that having a crowd laugh at your critic/heckler is not only effective in <EVENT eid="e21" class="OCCURRENCE">dominating</EVENT> them, it's also very satisfying.
+
+</TEXT></TimeML>

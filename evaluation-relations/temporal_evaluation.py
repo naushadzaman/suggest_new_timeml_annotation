@@ -26,10 +26,19 @@ global_gold_total = 0
 
 basedir = re.sub('relation_to_timegraph.py', '', get_arg(0)) 
 debug = float(get_arg(3))
+
 if len(sys.argv) > 4: 
 	evaluation_method = get_arg(4).strip()
 else: 
 	evaluation_method = ''
+
+if len(sys.argv) > 5: 
+	suggest_dir = sys.argv[4].strip() + 'raw_suggest_dir/'
+else: 
+	suggest_dir = sys.argv[4].strip() + 'raw_suggest_dir/'
+	
+
+outfile = ''
 
 cmd_folder = os.path.dirname(basedir)
 if cmd_folder not in sys.path:
@@ -181,24 +190,33 @@ def get_entity_rel(tlink):
     return words[1]+'\t'+words[2]+'\t'+words[3] 
 
 def total_relation_matched(A_tlinks, B_tlinks, B_relations, B_tg): 
-    count = 0 
-    for tlink in A_tlinks.split('\n'): 
-        if tlink.strip() == '': 
-            continue 
-        if debug >= 2: 
-            print tlink
-        x, y, rel = get_x_y_rel(tlink) 
-        foo = relation_to_timegraph.interval_rel_X_Y(x, y, B_tg, rel, 'evaluation')
-        if re.search(get_entity_rel(tlink.strip()), B_relations): 
-            count += 1 
-            if debug >= 2: 
-                print 'True' 
-            continue 
-        if debug >= 2: 
-            print x, y, rel, foo[1]
-        if re.search('true', foo[1]):
-            count += 1 
-    return count 
+	global outfile 
+	count = 0 
+	for tlink in A_tlinks.split('\n'): 
+		if tlink.strip() == '': 
+			continue 
+		if debug >= 2: 
+			print tlink
+		x, y, rel = get_x_y_rel(tlink) 
+		foo = relation_to_timegraph.interval_rel_X_Y(x, y, B_tg, rel, 'evaluation')
+		if re.search(get_entity_rel(tlink.strip()), B_relations): 
+			count += 1 
+			if debug >= 2: 
+				print x, y, rel, 'True' 
+			continue 
+		if debug >= 2: 
+			print x, y, rel, foo[1]
+		if re.search('true', foo[1]):
+			count += 1 
+		else:
+			## ignore the false ones, since they are false from our annotation; but keep the UNKNOWN ones
+			if foo[1] == 'UNKNOWN':
+				if debug >= 1: 
+					print x, y, rel, foo[1]
+					print y, x, reverse_relation(rel)
+				outfile.write('tlink\t'+ x + '\t' + y + '\t' + rel + '\t' + '-'.join(sys.argv[2].split('/')).strip('-') + '\n')
+				outfile.write('tlink\t'+ y + '\t' + x + '\t' + reverse_relation(rel) + '\t' + '-'.join(sys.argv[2].split('/')).strip('-') + '\n')
+	return count 
            
 def total_implicit_matched(system_reduced, gold_reduced, gold_tg): 
     count = 0 
@@ -337,7 +355,9 @@ def evaluate_two_files(arg1, arg2):
     global global_rec_matched
     global global_system_total
     global global_gold_total
-
+    global outfile 
+    outfile = open(suggest_dir + extract_name(arg2), 'a')
+	
     if debug >= 1: 
         print '\n\nEvaluate', arg1, arg2
     gold_annotation = get_relations(arg1)
@@ -378,6 +398,7 @@ def evaluate_two_files(arg1, arg2):
     global_system_total += len(tg_system.final_relations.split('\n'))-1 
     global_gold_total += len(tg_gold.final_relations.split('\n'))-1
 
+    outfile.close() 
     return tg_system 
 
 

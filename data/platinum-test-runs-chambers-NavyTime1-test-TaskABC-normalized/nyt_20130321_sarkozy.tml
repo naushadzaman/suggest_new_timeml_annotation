@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME"></TIMEX3></DCT>
+
+<TEXT>
+
+Former President Nicolas Sarkozy was <EVENT eid="e1" tense="PAST" aspect="NONE" class="OCCURRENCE">informed</EVENT> <TIMEX3 tid="t1" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="NONE">Thursday</TIMEX3> that he would <EVENT eid="e2" tense="NONE" aspect="NONE" class="OCCURRENCE">face</EVENT> a formal <EVENT eid="e3" tense="NONE" aspect="NONE" class="OCCURRENCE">investigation</EVENT> into whether he <EVENT eid="e4" tense="PAST" aspect="NONE" class="OCCURRENCE">abused</EVENT> the frailty of Liliane Bettencourt, 90, the heiress to the L'Oreal fortune and France's richest woman, to <EVENT eid="e5" tense="INFINITIVE" aspect="NONE" class="OCCURRENCE">get</EVENT> funds for his <TIMEX3 tid="t2" type="DATE" value="2007" temporalFunction="false" functionInDocument="NONE">2007</TIMEX3> presidential campaign. Mr. Sarkozy has <EVENT eid="e7" tense="PRESENT" aspect="PERFECTIVE" class="I_ACTION">denied</EVENT> <EVENT eid="e8" tense="PRESPART" aspect="NONE" class="OCCURRENCE">accepting</EVENT> illegal campaign funds from Ms. Bettencourt, either personally or through his party treasurer at the time, Eric Woerth, as <EVENT eid="e10" tense="PASTPART" aspect="NONE" class="OCCURRENCE">alleged</EVENT> by her former butler. Mr. Sarkozy's lawyer, Thierry Herzog, <EVENT eid="e11" tense="PAST" aspect="NONE" class="REPORTING">called</EVENT> the judge's <EVENT eid="e12" tense="NONE" aspect="NONE" class="OCCURRENCE">decision</EVENT>, which <EVENT eid="e13" tense="PRESENT" aspect="NONE" class="OCCURRENCE">indicates</EVENT> that the judge <EVENT eid="e14" tense="PRESENT" aspect="NONE" class="I_STATE">believes</EVENT> that Mr. Sarkozy probably <EVENT eid="e15" tense="PAST" aspect="NONE" class="OCCURRENCE">committed</EVENT> a crime, "incoherent" and "unjust." The lawyer <EVENT eid="e17" tense="PAST" aspect="NONE" class="REPORTING">said</EVENT> he would <EVENT eid="e18" tense="NONE" aspect="NONE" class="OCCURRENCE">appeal</EVENT>. The <EVENT eid="e19" tense="NONE" aspect="NONE" class="OCCURRENCE">ruling</EVENT> does not necessarily <EVENT eid="e20" tense="PRESENT" aspect="NONE" class="OCCURRENCE">mean</EVENT> that Mr. Sarkozy, who <EVENT eid="e21" tense="PAST" aspect="NONE" class="OCCURRENCE">lost</EVENT> his re-election bid <TIMEX3 tid="t3" type="DATE" value="2012-05" temporalFunction="false" functionInDocument="NONE">last May</TIMEX3> and with it his presidential immunity from prosecution, will <EVENT eid="e23" tense="FUTURE" aspect="NONE" class="OCCURRENCE">stand</EVENT> <EVENT eid="e24" tense="NONE" aspect="NONE" class="OCCURRENCE">trial</EVENT>.
+
+</TEXT>
+
+<MAKEINSTANCE eventID="e1" eiid="ei1" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e2" eiid="ei2" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e3" eiid="ei3" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e4" eiid="ei4" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e5" eiid="ei5" tense="INFINITIVE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e7" eiid="ei7" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" />
+<MAKEINSTANCE eventID="e8" eiid="ei8" tense="PRESPART" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e10" eiid="ei10" tense="PASTPART" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e11" eiid="ei11" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e12" eiid="ei12" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e13" eiid="ei13" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e14" eiid="ei14" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e15" eiid="ei15" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e17" eiid="ei17" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e18" eiid="ei18" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e19" eiid="ei19" tense="NONE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e20" eiid="ei20" tense="PRESENT" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e21" eiid="ei21" tense="PAST" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e23" eiid="ei23" tense="FUTURE" aspect="NONE" polarity="POS" />
+<MAKEINSTANCE eventID="e24" eiid="ei24" tense="NONE" aspect="NONE" polarity="POS" />
+<TLINK lid="l1" relType="BEFORE" eventInstanceID="ei17" relatedToEventInstance="ei18" />
+<TLINK lid="l2" relType="IS_INCLUDED" eventInstanceID="ei1" relatedToTime="t1" />
+<TLINK lid="l3" relType="IS_INCLUDED" eventInstanceID="ei21" relatedToTime="t3" />
+<TLINK lid="l4" relType="AFTER" eventInstanceID="ei11" relatedToEventInstance="ei12" />
+<TLINK lid="l5" relType="IS_INCLUDED" eventInstanceID="ei5" relatedToTime="t2" />
+<TLINK lid="l6" relType="BEFORE" eventInstanceID="ei12" relatedToTime="t0" />
+<TLINK lid="l7" relType="BEFORE" eventInstanceID="ei11" relatedToTime="t0" />
+<TLINK lid="l8" relType="AFTER" eventInstanceID="ei2" relatedToTime="t1" />
+<TLINK lid="l9" relType="AFTER" eventInstanceID="ei7" relatedToEventInstance="ei10" />
+<TLINK lid="l10" relType="SIMULTANEOUS" eventInstanceID="ei11" relatedToEventInstance="ei17" />
+<TLINK lid="l11" relType="BEFORE" eventInstanceID="ei7" relatedToEventInstance="ei11" />
+<TLINK lid="l12" relType="BEFORE" eventInstanceID="ei1" relatedToEventInstance="ei7" />
+<TLINK lid="l13" relType="BEFORE" eventInstanceID="ei7" relatedToEventInstance="ei8" />
+<TLINK lid="l14" relType="IS_INCLUDED" eventInstanceID="ei23" relatedToTime="t3" />
+<TLINK lid="l15" relType="INCLUDES" eventInstanceID="ei13" relatedToTime="t0" />
+<TLINK lid="l16" relType="BEFORE" eventInstanceID="ei19" relatedToEventInstance="ei20" />
+<TLINK lid="l17" relType="BEFORE" eventInstanceID="ei17" relatedToEventInstance="ei20" />
+
+</TimeML>

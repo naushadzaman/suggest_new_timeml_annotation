@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130322_1003</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>New York man admits faking his death</TITLE>
+
+<TEXT>
+
+ A New York man who was <EVENT eid="e10891" class="I_ACTION" tense="PAST" aspect="NONE" pos="VERB">accused</EVENT> of <EVENT eid="e10892" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">faking</EVENT> his death <TIMEX3 tid="t10889" type="DATE" value="2012-SU">last summer</TIMEX3> <EVENT eid="e10893" class="I_ACTION" tense="PAST" aspect="NONE" pos="VERB">pleaded</EVENT> guilty to a conspiracy charge <TIMEX3 tid="t10890" type="DATE" value="2013-03-21">Thursday</TIMEX3>, Nassau County District Attorney Kathleen Rice <EVENT eid="e10894" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">announced</EVENT>.
+
+Raymond Roth, 48, of Massapequa, New York, was first <EVENT eid="e10897" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">reported</EVENT> <EVENT eid="e10898" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">missing</EVENT> in the waters off Jones Beach <TIMEX3 tid="t10895" type="DATE" value="2012-07">late last July</TIMEX3> by his <TIMEX3 tid="t10896" type="DURATION" value="P22Y">22-year-old</TIMEX3> son, Jonathan Roth. Several <TIMEX3 tid="t10899" type="DURATION" value="PXD">days</TIMEX3> into an extensive <EVENT eid="e10900" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">search</EVENT> involving multiple agencies, New York State Park Police <EVENT eid="e10901" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT>, authorities <EVENT eid="e10902" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">learned</EVENT> the missing man was in South Carolina, where he had been <EVENT eid="e10903" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">pulled</EVENT> over for <EVENT eid="e10904" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">speeding</EVENT>.
+
+<TIMEX3 tid="t10905" type="DATE" value="2013-03-22">The day</TIMEX3> before Raymond Roth was <EVENT eid="e10906" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">pulled</EVENT> over, his wife, Evana, <EVENT eid="e10907" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">showed</EVENT> authorities e-mails she had <EVENT eid="e10908" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">discovered</EVENT> that <EVENT eid="e10909" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">appeared</EVENT> to detail a plan between him and his son to fake his death. Raymond Roth <EVENT eid="e10910" class="I_STATE" tense="PAST" aspect="NONE" pos="VERB">wanted</EVENT> his wife and son to <EVENT eid="e10911" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">collect</EVENT> at least $410,000 in life insurance benefits while he <EVENT eid="e10912" class="ASPECTUAL" tense="PAST" aspect="NONE" pos="VERB">started</EVENT> a new life in Florida, Rice <EVENT eid="e10913" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT>.
+
+State police <EVENT eid="e10915" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">arrested</EVENT> both men in <TIMEX3 tid="t10914" type="DATE" value="2013-08">early August</TIMEX3> on charges of insurance fraud, conspiracy and filing a false report. Raymond Roth on <TIMEX3 tid="t10916" type="DATE" value="2013-03-21">Thursday</TIMEX3> <EVENT eid="e10918" class="I_ACTION" tense="PAST" aspect="NONE" pos="VERB">agreed</EVENT> to <EVENT eid="e10919" class="I_ACTION" tense="NONE" aspect="NONE" pos="VERB">plead</EVENT> guilty to the conspiracy charge in exchange for a sentence of <TIMEX3 tid="t10917" type="DURATION" value="P90D">90 days</TIMEX3> in jail and five years' probation, the district attorney's office <EVENT eid="e10920" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT>. He also must <EVENT eid="e10921" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="VERB">pay</EVENT> restitution for the cost of the <EVENT eid="e10922" class="OCCURRENCE" tense="FUTURE" aspect="NONE" pos="NOUN">search</EVENT> -- $27,445 to the U.S. Coast Guard and $9,109 to the Nassau County Police Department.
+
+Evana Roth <EVENT eid="e10925" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">told</EVENT> CNN in <TIMEX3 tid="t10923" type="DATE" value="2013-08">August</TIMEX3> she <EVENT eid="e10926" class="I_STATE" tense="PAST" aspect="NONE" pos="VERB">thought</EVENT> her husband devised the plan after he was <EVENT eid="e10927" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">fired</EVENT> from his job in <TIMEX3 tid="t10924" type="DATE" value="2013-07">July</TIMEX3>. Her attorney, Lenard Leeds, <EVENT eid="e10928" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT> she had been unaware of the ruse before she <EVENT eid="e10929" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">uncovered</EVENT> the e-mail correspondence.
+
+"There <EVENT eid="e10930" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">needs</EVENT> to be a way for me to <EVENT eid="e10931" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">find</EVENT> out how things are going.<EVENT eid="e10934" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB"> Call</EVENT> me <TIMEX3 tid="t10932" type="TIME" value="2013-03-20TNI">Sunday night</TIMEX3> at 8 PM at the resort," Raymond Roth <EVENT eid="e10935" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">wrote</EVENT> in an e-mail to his son <TIMEX3 tid="t10933" type="DATE" value="2013-03-22">the day</TIMEX3> before the son <EVENT eid="e10936" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">reported</EVENT> him <EVENT eid="e10937" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">missing</EVENT>.
+
+The son's case is still pending, the district attorney <EVENT eid="e10938" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT>. Jonathan Roth's attorney, Joey Jackson, <EVENT eid="e10939" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">defended</EVENT> his client after his <EVENT eid="e10940" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">arrest</EVENT>, <EVENT eid="e10941" class="REPORTING" tense="PRESENT" aspect="NONE" pos="VERB">saying</EVENT>, "There was abuse here, manipulation here, coercion here" from the father.
+
+Raymond Roth's attorney, Brian Davis, <EVENT eid="e10943" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">denied</EVENT> in <TIMEX3 tid="t10942" type="DATE" value="2013-08">August</TIMEX3> that Roth had <EVENT eid="e10944" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">involved</EVENT> his son in the scheme.
+
+"We had issues concerning the facts people had whether (Roth) had an agreement with his son," Davis <EVENT eid="e10946" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">told</EVENT> CNN on <TIMEX3 tid="t10945" type="DATE" value="2013-03-21">Thursday</TIMEX3>. "He<EVENT eid="e10947" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">'s</EVENT> admitted it now. He's <EVENT eid="e10948" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">accepted</EVENT> responsibility."
+
+Davis <EVENT eid="e10950" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">added</EVENT> that his client has been under treatment for bipolar disorder in <TIMEX3 tid="t10949" type="DATE" value="PAST_REF">recent weeks</TIMEX3>.
+
+During <EVENT eid="e10951" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">plea</EVENT> <EVENT eid="e10952" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">negotiations</EVENT>, Raymond Roth <EVENT eid="e10953" class="I_ACTION" tense="PAST" aspect="NONE" pos="VERB">asked</EVENT> the district attorney's office not to <EVENT eid="e10954" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">give</EVENT> his son jail time, Davis <EVENT eid="e10955" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT>.
+
+On the advice of both their attorneys, father and son have not been in contact since their <EVENT eid="e10956" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="NOUN">arrests</EVENT>, Davis <EVENT eid="e10957" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT>.
+
+"He would <EVENT eid="e10958" class="I_STATE" tense="FUTURE" aspect="NONE" pos="VERB">like</EVENT> to <EVENT eid="e10959" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">straighten</EVENT> things out with (Jonathan) when the time <EVENT eid="e10960" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">comes</EVENT>," he <EVENT eid="e10961" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT>.
+
+</TEXT>
+<MAKEINSTANCE eventID="e10891" eiid="ei10962" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10892" eiid="ei10964" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10893" eiid="ei10966" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10894" eiid="ei10968" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10897" eiid="ei10970" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10898" eiid="ei10972" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10900" eiid="ei10974" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e10901" eiid="ei10976" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10902" eiid="ei10978" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10903" eiid="ei10980" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10904" eiid="ei10982" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10906" eiid="ei10984" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10907" eiid="ei10986" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10908" eiid="ei10988" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10909" eiid="ei10990" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10910" eiid="ei10992" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10911" eiid="ei10994" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10912" eiid="ei10996" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10913" eiid="ei10998" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10915" eiid="ei11000" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10918" eiid="ei11002" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10919" eiid="ei11004" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10920" eiid="ei11006" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10921" eiid="ei11008" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10922" eiid="ei11010" tense="FUTURE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e10925" eiid="ei11012" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10926" eiid="ei11014" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10927" eiid="ei11016" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10928" eiid="ei11018" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10929" eiid="ei11020" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10930" eiid="ei11022" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10931" eiid="ei11024" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10934" eiid="ei11026" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10935" eiid="ei11028" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10936" eiid="ei11030" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10937" eiid="ei11032" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10938" eiid="ei11034" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10939" eiid="ei11036" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10940" eiid="ei11038" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e10941" eiid="ei11040" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10943" eiid="ei11042" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10944" eiid="ei11044" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10946" eiid="ei11046" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10947" eiid="ei11048" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10948" eiid="ei11050" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10950" eiid="ei11052" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10951" eiid="ei11054" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e10952" eiid="ei11056" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e10953" eiid="ei11058" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10954" eiid="ei11060" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10955" eiid="ei11062" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10956" eiid="ei11064" tense="PRESENT" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e10957" eiid="ei11066" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10958" eiid="ei11068" tense="FUTURE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10959" eiid="ei11070" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10960" eiid="ei11072" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10961" eiid="ei11074" tense="PAST" aspect="NONE" pos="VERB"/>
+<TLINK lid="l10963" relType="BEFORE" eventInstanceID="ei10962" relatedToTime="t0"/>
+<TLINK lid="l10965" relType="INCLUDES" eventInstanceID="ei10964" relatedToTime="t0"/>
+<TLINK lid="l10967" relType="BEFORE" eventInstanceID="ei10966" relatedToTime="t0"/>
+<TLINK lid="l10969" relType="BEFORE" eventInstanceID="ei10968" relatedToTime="t0"/>
+<TLINK lid="l10971" relType="BEFORE" eventInstanceID="ei10970" relatedToTime="t0"/>
+<TLINK lid="l10973" relType="BEFORE" eventInstanceID="ei10972" relatedToTime="t0"/>
+<TLINK lid="l10975" relType="INCLUDES" eventInstanceID="ei10974" relatedToTime="t0"/>
+<TLINK lid="l10977" relType="IS_INCLUDED" eventInstanceID="ei10976" relatedToTime="t0"/>
+<TLINK lid="l10979" relType="IS_INCLUDED" eventInstanceID="ei10978" relatedToTime="t0"/>
+<TLINK lid="l10981" relType="BEFORE" eventInstanceID="ei10980" relatedToTime="t0"/>
+<TLINK lid="l10983" relType="IS_INCLUDED" eventInstanceID="ei10982" relatedToTime="t0"/>
+<TLINK lid="l10985" relType="BEFORE" eventInstanceID="ei10984" relatedToTime="t0"/>
+<TLINK lid="l10987" relType="BEFORE" eventInstanceID="ei10986" relatedToTime="t0"/>
+<TLINK lid="l10989" relType="BEFORE" eventInstanceID="ei10988" relatedToTime="t0"/>
+<TLINK lid="l10991" relType="BEFORE" eventInstanceID="ei10990" relatedToTime="t0"/>
+<TLINK lid="l10993" relType="INCLUDES" eventInstanceID="ei10992" relatedToTime="t0"/>
+<TLINK lid="l10995" relType="BEFORE" eventInstanceID="ei10994" relatedToTime="t0"/>
+<TLINK lid="l10997" relType="BEFORE" eventInstanceID="ei10996" relatedToTime="t0"/>
+<TLINK lid="l10999" relType="IS_INCLUDED" eventInstanceID="ei10998" relatedToTime="t0"/>
+<TLINK lid="l11001" relType="IS_INCLUDED" eventInstanceID="ei11000" relatedToTime="t0"/>
+<TLINK lid="l11003" relType="IS_INCLUDED" eventInstanceID="ei11002" relatedToTime="t0"/>
+<TLINK lid="l11005" relType="INCLUDES" eventInstanceID="ei11004" relatedToTime="t0"/>
+<TLINK lid="l11007" relType="BEFORE" eventInstanceID="ei11006" relatedToTime="t0"/>
+<TLINK lid="l11009" relType="BEFORE" eventInstanceID="ei11008" relatedToTime="t0"/>
+<TLINK lid="l11011" relType="INCLUDES" eventInstanceID="ei11010" relatedToTime="t0"/>
+<TLINK lid="l11013" relType="BEFORE" eventInstanceID="ei11012" relatedToTime="t0"/>
+<TLINK lid="l11015" relType="BEFORE" eventInstanceID="ei11014" relatedToTime="t0"/>
+<TLINK lid="l11017" relType="BEFORE" eventInstanceID="ei11016" relatedToTime="t0"/>
+<TLINK lid="l11019" relType="BEFORE" eventInstanceID="ei11018" relatedToTime="t0"/>
+<TLINK lid="l11021" relType="BEFORE" eventInstanceID="ei11020" relatedToTime="t0"/>
+<TLINK lid="l11023" relType="INCLUDES" eventInstanceID="ei11022" relatedToTime="t0"/>
+<TLINK lid="l11025" relType="AFTER" eventInstanceID="ei11024" relatedToTime="t0"/>
+<TLINK lid="l11027" relType="BEFORE" eventInstanceID="ei11026" relatedToTime="t0"/>
+<TLINK lid="l11029" relType="BEFORE" eventInstanceID="ei11028" relatedToTime="t0"/>
+<TLINK lid="l11031" relType="BEFORE" eventInstanceID="ei11030" relatedToTime="t0"/>
+<TLINK lid="l11033" relType="BEFORE" eventInstanceID="ei11032" relatedToTime="t0"/>
+<TLINK lid="l11035" relType="BEFORE" eventInstanceID="ei11034" relatedToTime="t0"/>
+<TLINK lid="l11037" relType="BEFORE" eventInstanceID="ei11036" relatedToTime="t0"/>
+<TLINK lid="l11039" relType="BEFORE" eventInstanceID="ei11038" relatedToTime="t0"/>
+<TLINK lid="l11041" relType="BEFORE" eventInstanceID="ei11040" relatedToTime="t0"/>
+<TLINK lid="l11043" relType="BEFORE" eventInstanceID="ei11042" relatedToTime="t0"/>
+<TLINK lid="l11045" relType="BEFORE" eventInstanceID="ei11044" relatedToTime="t0"/>
+<TLINK lid="l11047" relType="BEFORE" eventInstanceID="ei11046" relatedToTime="t0"/>
+<TLINK lid="l11049" relType="INCLUDES" eventInstanceID="ei11048" relatedToTime="t0"/>
+<TLINK lid="l11051" relType="BEFORE" eventInstanceID="ei11050" relatedToTime="t0"/>
+<TLINK lid="l11053" relType="IS_INCLUDED" eventInstanceID="ei11052" relatedToTime="t0"/>
+<TLINK lid="l11055" relType="BEFORE" eventInstanceID="ei11054" relatedToTime="t0"/>
+<TLINK lid="l11057" relType="BEFORE" eventInstanceID="ei11056" relatedToTime="t0"/>
+<TLINK lid="l11059" relType="BEFORE" eventInstanceID="ei11058" relatedToTime="t0"/>
+<TLINK lid="l11061" relType="BEFORE" eventInstanceID="ei11060" relatedToTime="t0"/>
+<TLINK lid="l11063" relType="BEFORE" eventInstanceID="ei11062" relatedToTime="t0"/>
+<TLINK lid="l11065" relType="BEFORE" eventInstanceID="ei11064" relatedToTime="t0"/>
+<TLINK lid="l11067" relType="BEFORE" eventInstanceID="ei11066" relatedToTime="t0"/>
+<TLINK lid="l11069" relType="AFTER" eventInstanceID="ei11068" relatedToTime="t0"/>
+<TLINK lid="l11071" relType="BEFORE" eventInstanceID="ei11070" relatedToTime="t0"/>
+<TLINK lid="l11073" relType="AFTER" eventInstanceID="ei11072" relatedToTime="t0"/>
+<TLINK lid="l11075" relType="IS_INCLUDED" eventInstanceID="ei11074" relatedToTime="t0"/>
+<TLINK lid="l11076" relType="AFTER" eventInstanceID="ei10978" relatedToEventInstance="ei10962"/>
+<TLINK lid="l11077" relType="AFTER" eventInstanceID="ei10998" relatedToEventInstance="ei10966"/>
+<TLINK lid="l11078" relType="BEFORE" eventInstanceID="ei10970" relatedToEventInstance="ei10968"/>
+<TLINK lid="l11079" relType="BEFORE" eventInstanceID="ei10972" relatedToEventInstance="ei10970"/>
+<TLINK lid="l11080" relType="AFTER" eventInstanceID="ei11074" relatedToEventInstance="ei10972"/>
+<TLINK lid="l11081" relType="DURING_INV" eventInstanceID="ei10976" relatedToEventInstance="ei10974"/>
+<TLINK lid="l11082" relType="BEFORE" eventInstanceID="ei10968" relatedToEventInstance="ei10978"/>
+<TLINK lid="l11083" relType="AFTER" eventInstanceID="ei10998" relatedToEventInstance="ei10980"/>
+<TLINK lid="l11084" relType="BEFORE" eventInstanceID="ei10984" relatedToTime="t10905"/>
+<TLINK lid="l11085" relType="BEFORE" eventInstanceID="ei10986" relatedToEventInstance="ei10984"/>
+<TLINK lid="l11086" relType="BEFORE" eventInstanceID="ei10988" relatedToEventInstance="ei10986"/>
+<TLINK lid="l11087" relType="BEFORE" eventInstanceID="ei10990" relatedToEventInstance="ei10988"/>
+<TLINK lid="l11088" relType="AFTER" eventInstanceID="ei10998" relatedToEventInstance="ei10990"/>
+<TLINK lid="l11089" relType="BEFORE" eventInstanceID="ei10996" relatedToEventInstance="ei10994"/>
+<TLINK lid="l11090" relType="AFTER" eventInstanceID="ei10998" relatedToEventInstance="ei10996"/>
+<TLINK lid="l11091" relType="BEFORE" eventInstanceID="ei10990" relatedToEventInstance="ei11000"/>
+<TLINK lid="l11092" relType="DURING" eventInstanceID="ei11000" relatedToTime="t10914"/>
+<TLINK lid="l11093" relType="AFTER" eventInstanceID="ei10978" relatedToEventInstance="ei11006"/>
+<TLINK lid="l11094" relType="AFTER" eventInstanceID="ei11072" relatedToEventInstance="ei11008"/>
+<TLINK lid="l11095" relType="DURING" eventInstanceID="ei10978" relatedToEventInstance="ei11010"/>
+<TLINK lid="l11096" relType="AFTER" eventInstanceID="ei11068" relatedToEventInstance="ei11012"/>
+<TLINK lid="l11097" relType="AFTER" eventInstanceID="ei10978" relatedToEventInstance="ei11014"/>
+<TLINK lid="l11098" relType="AFTER" eventInstanceID="ei11068" relatedToEventInstance="ei11016"/>
+<TLINK lid="l11099" relType="BEFORE" eventInstanceID="ei11020" relatedToEventInstance="ei11018"/>
+<TLINK lid="l11100" relType="AFTER" eventInstanceID="ei11002" relatedToEventInstance="ei11020"/>
+<TLINK lid="l11101" relType="DURING" eventInstanceID="ei10978" relatedToEventInstance="ei11022"/>
+<TLINK lid="l11102" relType="BEFORE" eventInstanceID="ei10988" relatedToEventInstance="ei11024"/>
+<TLINK lid="l11103" relType="AFTER" eventInstanceID="ei10978" relatedToEventInstance="ei11026"/>
+<!--TLINK lid="l11104" relType="DURING" eventInstanceID="t10932" relatedToTime="t10933"/-->
+<TLINK lid="l11105" relType="DURING" eventInstanceID="ei11028" relatedToTime="t10933"/>
+<TLINK lid="l11106" relType="BEFORE" eventInstanceID="ei11028" relatedToEventInstance="ei11030"/>
+<TLINK lid="l11107" relType="AFTER" eventInstanceID="ei11030" relatedToEventInstance="ei11032"/>
+<TLINK lid="l11108" relType="AFTER" eventInstanceID="ei11052" relatedToEventInstance="ei11034"/>
+<TLINK lid="l11109" relType="BEFORE" eventInstanceID="ei11038" relatedToEventInstance="ei11036"/>
+<TLINK lid="l11110" relType="AFTER" eventInstanceID="ei11068" relatedToEventInstance="ei11040"/>
+<TLINK lid="l11111" relType="BEFORE" eventInstanceID="ei11044" relatedToEventInstance="ei11042"/>
+<TLINK lid="l11112" relType="BEFORE" eventInstanceID="ei11044" relatedToTime="t10942"/>
+<TLINK lid="l11113" relType="DURING" eventInstanceID="ei11046" relatedToTime="t10945"/>
+<TLINK lid="l11114" relType="BEFORE" eventInstanceID="ei11042" relatedToEventInstance="ei11052"/>
+<TLINK lid="l11115" relType="DURING" eventInstanceID="ei11052" relatedToTime="t10949"/>
+<TLINK lid="l11116" relType="AFTER" eventInstanceID="ei11024" relatedToEventInstance="ei11054"/>
+<TLINK lid="l11117" relType="DURING" eventInstanceID="ei11054" relatedToEventInstance="ei11056"/>
+<TLINK lid="l11118" relType="AFTER" eventInstanceID="ei11052" relatedToEventInstance="ei11058"/>
+<TLINK lid="l11119" relType="BEFORE" eventInstanceID="ei11062" relatedToEventInstance="ei11060"/>
+<TLINK lid="l11120" relType="BEFORE" eventInstanceID="ei11064" relatedToEventInstance="ei11062"/>
+<TLINK lid="l11121" relType="BEFORE" eventInstanceID="ei11062" relatedToEventInstance="ei11066"/>
+<TLINK lid="l11122" relType="BEFORE" eventInstanceID="ei11066" relatedToEventInstance="ei11068"/>
+<TLINK lid="l11123" relType="BEFORE" eventInstanceID="ei11072" relatedToEventInstance="ei11070"/>
+<TLINK lid="l11124" relType="BEFORE" eventInstanceID="ei11066" relatedToEventInstance="ei11072"/>
+<TLINK lid="l11125" relType="BEFORE" eventInstanceID="ei11066" relatedToEventInstance="ei11074"/>
+
+</TimeML>

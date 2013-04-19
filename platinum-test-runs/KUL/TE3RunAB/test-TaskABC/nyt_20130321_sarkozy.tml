@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>nyt_20130321_sarcozy</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-21</TIMEX3></DCT>
+
+<TITLE>France: Sarkozy Faces Investigation</TITLE>
+
+<TEXT>
+
+Former President Nicolas Sarkozy was <EVENT eid="e472" class="REPORTING">informed</EVENT> <TIMEX3 tid="t76" type="DATE" value="2013-03-21">Thursday</TIMEX3> that he would <EVENT eid="e473" class="I_ACTION">face</EVENT> a formal <EVENT eid="e474" class="OCCURRENCE">investigation</EVENT> into whether he <EVENT eid="e475" class="OCCURRENCE">abused</EVENT> the frailty of Liliane Bettencourt, 90, the heiress to the L'Oreal fortune and France's richest woman, to <EVENT eid="e476" class="OCCURRENCE">get</EVENT> funds for his <TIMEX3 tid="t77" type="DATE" value="2007">2007</TIMEX3> presidential campaign. Mr. Sarkozy has <EVENT eid="e477" class="OCCURRENCE">denied accepting</EVENT> illegal campaign funds from Ms. Bettencourt, either personally or through his party treasurer at the time, Eric Woerth, as <EVENT eid="e478" class="I_ACTION">alleged</EVENT> by her former butler. Mr. Sarkozy's lawyer, Thierry Herzog, <EVENT eid="e479" class="REPORTING">called</EVENT> the judge's <EVENT eid="e480" class="OCCURRENCE">decision</EVENT>, which <EVENT eid="e481" class="I_ACTION">indicates</EVENT> that the judge <EVENT eid="e482" class="I_STATE">believes</EVENT> that Mr. Sarkozy probably <EVENT eid="e483" class="I_STATE">committed</EVENT> a crime, "incoherent" and "unjust." The lawyer <EVENT eid="e484" class="REPORTING">said</EVENT> he would <EVENT eid="e485" class="I_ACTION">appeal.</EVENT> The <EVENT eid="e486" class="OCCURRENCE">ruling</EVENT> does not necessarily <EVENT eid="e487" class="OCCURRENCE">mean</EVENT> that Mr. Sarkozy, who <EVENT eid="e488" class="OCCURRENCE">lost</EVENT> his re-election bid <TIMEX3 tid="t78" type="DATE" value="2012-05">last May</TIMEX3> and with it his presidential immunity from prosecution, will <EVENT eid="e489" class="OCCURRENCE">stand</EVENT> <EVENT eid="e490" class="OCCURRENCE">trial</EVENT>.
+
+</TEXT>
+
+</TimeML>

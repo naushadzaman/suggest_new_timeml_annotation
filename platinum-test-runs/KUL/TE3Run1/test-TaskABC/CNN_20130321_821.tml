@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130321_821</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">March 21, 2013</TIMEX3></DCT>
+
+<TITLE>How Obama has weaponized wit</TITLE>
+
+
+<TEXT>
+Barack Obama would <EVENT eid="e202" class="OCCURRENCE">make</EVENT> a great stand-up comic, not because he's the funniest president ever but because he <EVENT eid="e203" class="OCCURRENCE">uses</EVENT> jokes the same way many of us comedians <EVENT eid="e204" class="OCCURRENCE">do</EVENT>: as a weapon.
+
+Traditionally, the (intentionally) funny lines by our presidents have had one thing in common: They were self-deprecating. Sure, some presidents have <EVENT eid="e205" class="OCCURRENCE">used</EVENT> jokes to <EVENT eid="e206" class="OCCURRENCE">take jabs</EVENT> at their opponents, but not to the extent of Obama.
+
+During his tenure, he has increasingly <EVENT eid="e207" class="OCCURRENCE">unleashed biting</EVENT> comedic barbs against his critics and political adversaries. These jokes are <EVENT eid="e208" class="I_ACTION">intended</EVENT> to <EVENT eid="e209" class="OCCURRENCE">do</EVENT> more than simply <EVENT eid="e210" class="OCCURRENCE">entertain</EVENT> you. They have an agenda.
+
+Obama's humor is often <EVENT eid="e211" class="OCCURRENCE">delivered</EVENT> the way a comedian <EVENT eid="e212" class="OCCURRENCE">dealing</EVENT> with a heckler would <EVENT eid="e213" class="OCCURRENCE">do</EVENT> it. He <EVENT eid="e214" class="I_ACTION">tries</EVENT> to <EVENT eid="e215" class="OCCURRENCE">undermine</EVENT> his opponents with it and <EVENT eid="e216" class="OCCURRENCE">get</EVENT> the crowd -- in this case the public -- on his side. I can <EVENT eid="e217" class="I_ACTION">assure</EVENT> you that having a crowd laugh at your critic/heckler is not only effective in <EVENT eid="e218" class="OCCURRENCE">dominating</EVENT> them, it's also very satisfying.
+
+</TEXT>
+
+
+</TimeML>

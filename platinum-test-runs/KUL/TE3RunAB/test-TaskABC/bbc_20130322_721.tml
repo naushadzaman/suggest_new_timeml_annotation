@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>bbc_20130322_721</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-22</TIMEX3></DCT>
+
+<TITLE>Russian police raid rights group Memorial and other NGOs</TITLE>
+
+<TEXT>
+
+Russian police and tax inspectors have <EVENT eid="e175" class="OCCURRENCE">raided</EVENT> the offices of the human rights group Memorial and other civil society groups which <EVENT eid="e176" class="OCCURRENCE">get</EVENT> foreign funding.
+
+Memorial is famous for <EVENT eid="e177" class="OCCURRENCE">documenting</EVENT> human rights <EVENT eid="e178" class="OCCURRENCE">abuses</EVENT> in Russia.
+
+The US embassy in Moscow has <EVENT eid="e179" class="REPORTING">voiced</EVENT> concern and <EVENT eid="e180" class="I_ACTION">asked</EVENT> the Russian government for an explanation.
+
+A new Russian law <EVENT eid="e181" class="REPORTING">says</EVENT> foreign-funded non-governmental groups (NGOs) <EVENT eid="e182" class="OCCURRENCE">linked</EVENT> to politics must <EVENT eid="e183" class="OCCURRENCE">register</EVENT> as "foreign agents" - <TIMEX3 tid="t34" type="DATE" value="2013-03-22">a term</TIMEX3> which <EVENT eid="e184" class="I_ACTION">suggests</EVENT> spying.
+
+In the worst repressions of <TIMEX3 tid="t35" type="DATE" value="2013-03-22">the Soviet period</TIMEX3> the <EVENT eid="e185" class="OCCURRENCE">label</EVENT> "foreign agents" was <EVENT eid="e186" class="OCCURRENCE">used</EVENT> to <EVENT eid="e187" class="OCCURRENCE">denounce</EVENT> dissidents - or simply political rivals of Joseph Stalin - and could <EVENT eid="e188" class="OCCURRENCE">lead</EVENT> to <EVENT eid="e189" class="OCCURRENCE">execution</EVENT>.
+
+Memorial <EVENT eid="e190" class="REPORTING">says</EVENT> inspectors <EVENT eid="e191" class="OCCURRENCE">returned</EVENT> to its Moscow offices on <TIMEX3 tid="t36" type="DATE" value="2013-03-22">Friday</TIMEX3>, having already <EVENT eid="e192" class="OCCURRENCE">seized</EVENT> 600 documents including accounts on <TIMEX3 tid="t37" type="DATE" value="2013-03-21">Thursday</TIMEX3>.
+
+A statement on the Memorial website <EVENT eid="e193" class="REPORTING">said</EVENT> the inspections were directly <EVENT eid="e194" class="OCCURRENCE">linked</EVENT> to the new law on NGOs and the targeted groups' compliance with it.
+
+Memorial director Arseny Roginsky, <EVENT eid="e195" class="OCCURRENCE">quoted</EVENT> by the Russian news website Vesti, <EVENT eid="e196" class="REPORTING">said</EVENT> it was "a complete check on everything concerned with our sources of funding".
+
+He <EVENT eid="e197" class="I_ACTION">insisted</EVENT> that the NGO law "will not <EVENT eid="e198" class="OCCURRENCE">change</EVENT> our position at all". "We won't <EVENT eid="e199" class="OCCURRENCE">refuse</EVENT> foreign donations, nor will we <EVENT eid="e200" class="OCCURRENCE">register</EVENT> as a 'foreign agent'," he <EVENT eid="e201" class="REPORTING">said</EVENT>.
+
+</TEXT>
+
+</TimeML>

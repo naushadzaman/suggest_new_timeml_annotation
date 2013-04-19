@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>CNN_20130322_314</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">March 22, 2013</TIMEX3></DCT>
+
+<TITLE>Obama gets diplomatic coup before heading to refugee-flooded Jordan</TITLE>
+
+
+
+<TEXT>
+
+President Barack Obama <EVENT eid="e1" class="OCCURRENCE">arrived</EVENT> in refugee-flooded Jordan on <TIMEX3 tid="t1" type="DATE" value="2013-03-22">Friday</TIMEX3> after <EVENT eid="e2" class="OCCURRENCE">scoring</EVENT> a diplomatic <EVENT eid="e3" class="OCCURRENCE">coup</EVENT> just before <EVENT eid="e4" class="OCCURRENCE">leaving</EVENT> Israel when Prime Minister Benjamin Netanyahu apologized to Turkey for a 2010 commando <EVENT eid="e5" class="OCCURRENCE">raid</EVENT> that <EVENT eid="e6" class="OCCURRENCE">killed</EVENT> nine activists on a Turkish vessel in a Gaza-bound flotilla.
+
+The apology, long <EVENT eid="e7" class="OCCURRENCE">sought</EVENT> by Turkish Prime Minister Recep Erdogan, <EVENT eid="e8" class="OCCURRENCE">eased</EVENT> strained feelings between Turkey and Israel, two vital U.S. allies in the Middle East.
+
+It <EVENT eid="e9" class="OCCURRENCE">happened</EVENT> in a phone call to <EVENT eid="e10" class="OCCURRENCE">Erdogan</EVENT> during a final <EVENT eid="e11" class="OCCURRENCE">meeting</EVENT> between Obama and Netanyahu at Ben Gurion International Airport in Tel Aviv minutes before Air Force One departed for Jordan to <EVENT eid="e12" class="OCCURRENCE">complete</EVENT> the president's Middle East swing. It is the first foreign <EVENT eid="e13" class="OCCURRENCE">trip</EVENT> of his second term.
+
+A statement from Netanyahu's office <EVENT eid="e14" class="REPORTING">said</EVENT> the apology <EVENT eid="e15" class="OCCURRENCE">included</EVENT> an <EVENT eid="e16" class="OCCURRENCE">offer</EVENT> of compensation. However, there was confusion later when the Israeli government <EVENT eid="e17" class="OCCURRENCE">dropped</EVENT> a reference in its original statement to <EVENT eid="e18" class="OCCURRENCE">normalized</EVENT> relations between the countries with a <EVENT eid="e19" class="OCCURRENCE">return</EVENT> of ambassadors.
+
+There also was no word on whether the once-close nations would <EVENT eid="e20" class="ASPECTUAL">resume</EVENT> the joint military <EVENT eid="e21" class="OCCURRENCE">exercises</EVENT> that were <EVENT eid="e22" class="ASPECTUAL">suspended</EVENT> after the flotilla <EVENT eid="e23" class="OCCURRENCE">raid</EVENT>.
+
+Turkey had been <EVENT eid="e24" class="OCCURRENCE">prosecuting</EVENT> four Israeli soldiers in absentia and Israel initially <EVENT eid="e25" class="REPORTING">said</EVENT> the two leaders <EVENT eid="e26" class="I_ACTION">agreed</EVENT> to the <EVENT eid="e27" class="OCCURRENCE">cancellation</EVENT> of legal steps against the troops. Later, however, its amended statement omitted that <EVENT eid="e28" class="OCCURRENCE">action</EVENT> as well.
+
+</TEXT>
+
+<MAKEINSTANCE eventID="e1" eiid="ei1" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e2" eiid="ei2" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e3" eiid="ei3" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e4" eiid="ei4" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e5" eiid="ei5" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e6" eiid="ei6" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e7" eiid="ei7" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e8" eiid="ei8" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e9" eiid="ei9" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e10" eiid="ei10" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e11" eiid="ei11" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e12" eiid="ei12" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e13" eiid="ei13" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e14" eiid="ei14" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e15" eiid="ei15" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e16" eiid="ei16" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e17" eiid="ei17" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e18" eiid="ei18" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e19" eiid="ei19" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e20" eiid="ei20" tense="FUTURE" aspect="NONE" polarity="POS" modality="WOULD" pos="VERB" />
+<MAKEINSTANCE eventID="e21" eiid="ei21" tense="FUTURE" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e22" eiid="ei22" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e23" eiid="ei23" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e24" eiid="ei24" tense="PAST" aspect="PROGRESSIVE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e25" eiid="ei25" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e26" eiid="ei26" tense="PAST" aspect="NONE" polarity="POS" modality="NONE" pos="VERB" />
+<MAKEINSTANCE eventID="e27" eiid="ei27" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+<MAKEINSTANCE eventID="e28" eiid="ei28" tense="PRESENT" aspect="NONE" polarity="POS" modality="NONE" pos="NOUN" />
+
+
+
+</TimeML>

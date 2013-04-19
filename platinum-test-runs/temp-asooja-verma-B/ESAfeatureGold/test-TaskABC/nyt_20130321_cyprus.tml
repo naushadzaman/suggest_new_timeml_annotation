@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>nyt_20130321_cyprus</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-21</TIMEX3></DCT>
+
+<TITLE>For Euro Zone, a Cyprus Exit Would Have Little Impact</TITLE>
+
+<TEXT>
+
+A Cyprus exit from the euro union, if it <EVENT eid="e1" class="OCCURRENCE">comes</EVENT> to that, would have a devastating effect on the country's citizens, who are among the most indebted in the euro zone. And for European unity and diplomacy, the Cyprus debacle has already been at least a short-term disaster.
+
+ut for the broader financial system in Europe, the <EVENT eid="e2" class="OCCURRENCE">losses</EVENT> resulting from a Cypriot banking collapse and the country's <EVENT eid="e3" class="OCCURRENCE">return</EVENT> to its former currency would be minimal compared with the havoc that Greece would have <EVENT eid="e4" class="OCCURRENCE">created</EVENT> had it not been bailed out.
+
+And that, economists and investors <EVENT eid="e5" class="REPORTING">contend</EVENT>, is why Germany and its Dutch stalking horse, Jeroen Dijsselbloem, the president of the Eurogroup of finance ministers, were so adamant that depositors - large and small, Cypriot and Russian - contribute 5.8 billion euros ($7.5 billion) toward the 10 billion euro bailout of Cyprus's largest banks.
+
+Greece may well <EVENT eid="e6" class="STATE">have</EVENT> been too big to <EVENT eid="e7" class="I_STATE">fail</EVENT> last year, but Cyprus, which <EVENT eid="e8" class="OCCURRENCE">creates</EVENT> less than one-half percent of the euro zone's <EVENT eid="e9" class="STATE">gross</EVENT> domestic product, is certainly not.
+
+From a financial standpoint, what is most noteworthy is that the combined debt of the Cypriot people, companies and government is 2.6 times the size of the country's gross domestic product. Only Ireland, still <EVENT eid="e10" class="OCCURRENCE">struggling</EVENT> to <EVENT eid="e11" class="OCCURRENCE">recover</EVENT> from the banking collapse that <EVENT eid="e12" class="I_STATE">required</EVENT> an international bailout in 2010, has a higher debt-to-G.D.P. ratio among euro zone countries.
+
+As debts in Europe <EVENT eid="e13" class="OCCURRENCE">mount</EVENT> in inverse proportion to the ability of its citizens, companies and governments to make good on them, the view is <EVENT eid="e14" class="OCCURRENCE">forming</EVENT> in Berlin and Brussels that a signal must be <EVENT eid="e15" class="OCCURRENCE">sent</EVENT> that citizens and investors must <EVENT eid="e16" class="ASPECTUAL">start</EVENT> <EVENT eid="e17" class="I_ACTION">accepting</EVENT> <EVENT eid="e18" class="OCCURRENCE">losses</EVENT> for the euro zone to <EVENT eid="e19" class="OCCURRENCE">survive</EVENT> in the long run.
+
+"There have been too many bailouts in Europe; it's time to remove the air bags," <EVENT eid="e20" class="REPORTING">said</EVENT> Stephen Jen, a former economist at the International Monetary Fund who <EVENT eid="e21" class="I_STATE">runs</EVENT> a hedge fund in London. "This is not a Lehman," he <EVENT eid="e22" class="REPORTING">said</EVENT>, referring to the disastrous chain reaction <EVENT eid="e23" class="OCCURRENCE">touched</EVENT> off by the collapse of Lehman Brothers in 2008.
+
+Eric Dor is a French economist who has <EVENT eid="e24" class="OCCURRENCE">studied</EVENT> the mechanics of how a country might <EVENT eid="e25" class="OCCURRENCE">remove</EVENT> itself from the monetary union. By his calculations, the euro zone - through its central banking system and its national banks - has just 27 billion euros in outstanding credit <EVENT eid="e26" class="OCCURRENCE">exposure</EVENT> to Cyprus. That is a mere rounding error compared with the euro zone G.D.P. of 9.4 trillion euros.
+
+Estimates of the potential cost if Greece had been <EVENT eid="e27" class="OCCURRENCE">forced</EVENT> into a disorderly euro exit have <EVENT eid="e28" class="OCCURRENCE">ranged</EVENT> from 200 billion euros to 800 billion euros, given the larger exposure that the European Central Bank and European banks had to the country.
+
+"This explains why Germany and others are <EVENT eid="e29" class="OCCURRENCE">putting</EVENT> so much <EVENT eid="e30" class="STATE">pressure</EVENT> on Cyprus," <EVENT eid="e31" class="REPORTING">said</EVENT> Mr. Dor, head of research at the Ieseg School of Management in Lille, France. "They are saying we can take the risk of <EVENT eid="e32" class="I_ACTION">pushing</EVENT> Cyprus out of the euro zone, and that Europe can <EVENT eid="e33" class="OCCURRENCE">take</EVENT> the <EVENT eid="e34" class="STATE">losses</EVENT> without going broke."
+
+Mr. Dor <EVENT eid="e35" class="REPORTING">notes</EVENT> that the current euro zonewide system of <EVENT eid="e36" class="OCCURRENCE">insuring</EVENT> bank deposits up to 100,000 euros was <EVENT eid="e37" class="OCCURRENCE">put</EVENT> in place after the financial panic that followed the Lehman collapse. Those <EVENT eid="e38" class="OCCURRENCE">deposits</EVENT> are <EVENT eid="e39" class="I_STATE">supposed</EVENT> to be <EVENT eid="e40" class="OCCURRENCE">insured</EVENT> by national governments.
+
+So when the president of Cyprus <EVENT eid="e41" class="OCCURRENCE">admitted</EVENT> this week that his country did not have the money to <EVENT eid="e42" class="OCCURRENCE">backstop</EVENT> the 30 billion euros of <EVENT eid="e43" class="OCCURRENCE">guaranteed</EVENT> bank deposits - a figure greater than the Cypriot economy itself - a crucial bond of trust between a government and its citizens was <EVENT eid="e44" class="OCCURRENCE">snapped</EVENT>.
+
+"It is the first time ever that the leader of a euro zone country has admitted that he could not afford to <EVENT eid="e45" class="OCCURRENCE">pay</EVENT> the guarantee," Mr. Dor <EVENT eid="e46" class="REPORTING">said</EVENT>.
+
+A hasty <EVENT eid="e47" class="OCCURRENCE">expulsion</EVENT> from the euro zone would <EVENT eid="e48" class="OCCURRENCE">make</EVENT> the savings of the Cypriot people all the more evanescent, once they are <EVENT eid="e49" class="OCCURRENCE">converted</EVENT> back into Cypriot pounds, the currency Cyprus <EVENT eid="e50" class="OCCURRENCE">used</EVENT> before adopting the euro in 2007.
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>nyt_20130321_sarcozy</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-21</TIMEX3></DCT>
+
+<TITLE>France: Sarkozy Faces Investigation</TITLE>
+
+<TEXT>
+
+Former President Nicolas Sarkozy was <EVENT eid="e1" class="OCCURRENCE">informed</EVENT> Thursday that he would <EVENT eid="e2" class="I_ACTION">face</EVENT> a formal investigation into whether he <EVENT eid="e3" class="OCCURRENCE">abused</EVENT> the frailty of Liliane Bettencourt, 90, the heiress to the L'Oreal fortune and France's richest woman, to get funds for his 2007 presidential <EVENT eid="e4" class="OCCURRENCE">campaign</EVENT>. Mr. Sarkozy has <EVENT eid="e5" class="I_ACTION">denied</EVENT> <EVENT eid="e6" class="I_ACTION">accepting</EVENT> illegal <EVENT eid="e7" class="OCCURRENCE">campaign</EVENT> funds from Ms. Bettencourt, either personally or through his party treasurer at the time, Eric Woerth, as alleged by her former butler. Mr. Sarkozy's lawyer, Thierry Herzog, <EVENT eid="e8" class="REPORTING">called</EVENT> the judge's <EVENT eid="e9" class="OCCURRENCE">decision</EVENT>, which indicates that the judge <EVENT eid="e10" class="I_ACTION">believes</EVENT> that Mr. Sarkozy probably committed a crime, "incoherent" and "unjust." The lawyer said he would <EVENT eid="e11" class="I_ACTION">appeal</EVENT>. The ruling does not necessarily <EVENT eid="e12" class="REPORTING">mean</EVENT> that Mr. Sarkozy, who <EVENT eid="e13" class="OCCURRENCE">lost</EVENT> his re-election <EVENT eid="e14" class="OCCURRENCE">bid</EVENT> last May and with it his presidential immunity from prosecution, will stand trial.
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>bbc_20130322_721</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-22</TIMEX3></DCT>
+
+<TITLE>Russian police raid rights group Memorial and other NGOs</TITLE>
+
+<TEXT>
+
+Russian police and tax inspectors have <EVENT eid="e1" class="OCCURRENCE">raided</EVENT> the offices of the human rights group Memorial and other civil society groups which get foreign funding.
+
+Memorial is famous for documenting human rights abuses in Russia.
+
+The US embassy in Moscow has <EVENT eid="e2" class="OCCURRENCE">voiced</EVENT> concern and <EVENT eid="e3" class="I_ACTION">asked</EVENT> the Russian government for an explanation.
+
+A new Russian law <EVENT eid="e4" class="REPORTING">says</EVENT> foreign-funded non-governmental groups (NGOs) linked to politics must <EVENT eid="e5" class="OCCURRENCE">register</EVENT> as "foreign agents" <EVENT eid="e6" class="OCCURRENCE">-</EVENT> a term which suggests spying.
+
+In the worst repressions of the Soviet period the label "foreign agents" was <EVENT eid="e7" class="OCCURRENCE">used</EVENT> to <EVENT eid="e8" class="OCCURRENCE">denounce</EVENT> dissidents - or simply political rivals of Joseph Stalin - and could <EVENT eid="e9" class="I_ACTION">lead</EVENT> to execution.
+
+Memorial <EVENT eid="e10" class="REPORTING">says</EVENT> inspectors <EVENT eid="e11" class="OCCURRENCE">returned</EVENT> to its Moscow offices on Friday, having already <EVENT eid="e12" class="OCCURRENCE">seized</EVENT> 600 documents including accounts on Thursday.
+
+A statement on the Memorial website <EVENT eid="e13" class="REPORTING">said</EVENT> the inspections were directly <EVENT eid="e14" class="OCCURRENCE">linked</EVENT> to the new law on NGOs and the targeted groups' compliance with it.
+
+Memorial director Arseny Roginsky, quoted by the Russian news website Vesti, <EVENT eid="e15" class="REPORTING">said</EVENT> it was "a complete <EVENT eid="e16" class="STATE">check</EVENT> on everything <EVENT eid="e17" class="I_STATE">concerned</EVENT> with our sources of funding".
+
+He <EVENT eid="e18" class="REPORTING">insisted</EVENT> that the NGO law "will not <EVENT eid="e19" class="OCCURRENCE">change</EVENT> our position at all". "We won't <EVENT eid="e20" class="OCCURRENCE">refuse</EVENT> foreign donations, nor will we register as a 'foreign agent'," he <EVENT eid="e21" class="REPORTING">said</EVENT>.
+
+</TEXT>
+
+</TimeML>

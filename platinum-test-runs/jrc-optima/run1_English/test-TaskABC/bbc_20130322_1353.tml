@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeML><DOCID>bbc_20130322_1353</DOCID><DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-22</TIMEX3></DCT><TEXT>
+
+Israel's prime minister has <EVENT eid="e0" class="OCCURRENCE">apologised</EVENT> to Turkey for "any errors that could have <EVENT eid="e1" class="OCCURRENCE">led</EVENT> to loss of life" during the 2010 commando <EVENT eid="e2" class="OCCURRENCE">raid</EVENT> on an aid flotilla that tried to <EVENT eid="e4" class="OCCURRENCE">breach</EVENT> the Gaza <EVENT eid="e5" class="OCCURRENCE">blockade</EVENT>.
+
+Benjamin Netanyahu also <EVENT eid="e6" class="I_ACTION">agreed</EVENT> with his Turkish counterpart Recep Tayyip Erdogan to <EVENT eid="e7" class="OCCURRENCE">compensate</EVENT> the families of the nine activists <EVENT eid="e8" class="OCCURRENCE">who were killed</EVENT>.
+
+Mr Netanyahu had previously only expressed regret for the <EVENT eid="e9" class="OCCURRENCE">deaths</EVENT>.
+
+The deal was <EVENT eid="e10" class="OCCURRENCE">brokered</EVENT> by US President Barack Obama during a visit to Israel.
+
+Mr Erdogan's office <EVENT eid="e11" class="OCCURRENCE">said</EVENT> he had <EVENT eid="e12" class="OCCURRENCE">accepted</EVENT> the apology, "in the name of the Turkish people".
+
+In the past, he has always <EVENT eid="e13" class="OCCURRENCE">given</EVENT> two <EVENT eid="e14" class="OCCURRENCE">conditions</EVENT> for <EVENT eid="e15" class="ASPECTUAL">restoring</EVENT> bilateral relations with Israel - an apology and compensation for victims' families.
+
+Nine people were <EVENT eid="e16" class="OCCURRENCE">killed</EVENT> on board the Turkish aid ship, Mavi Marmara, when it was <EVENT eid="e17" class="OCCURRENCE">boarded</EVENT> by Israeli commandos while <EVENT eid="e18" class="I_ACTION">trying</EVENT> to <EVENT eid="e19" class="OCCURRENCE">transport</EVENT> <EVENT eid="e20" class="OCCURRENCE">aid</EVENT> <EVENT eid="e21" class="OCCURRENCE">supplies</EVENT> to Gaza in May <TIMEX3 tid="t2" type="DATE" value="2010">2010</TIMEX3> in spite of an Israeli naval blockade.
+
+The Israeli government <EVENT eid="e22" class="REPORTING">admitted</EVENT> mistakes were <EVENT eid="e24" class="OCCURRENCE">made</EVENT> in intelligence-gathering and <EVENT eid="e25" class="I_STATE">planning</EVENT>, but <EVENT eid="e26" class="ASPECTUAL">insisted</EVENT> its commandos <EVENT eid="e28" class="OCCURRENCE">used</EVENT> lethal force because activists had <EVENT eid="e29" class="OCCURRENCE">attacked</EVENT> them.
+
+The activists <EVENT eid="e30" class="OCCURRENCE">said</EVENT> the troops had <EVENT eid="e31" class="OCCURRENCE">opened fire</EVENT> as soon as they <EVENT eid="e32" class="OCCURRENCE">boarded</EVENT> the vessel, which was in international waters at the time.
+
+The incident provoked an international outcry and <EVENT eid="e33" class="OCCURRENCE">led</EVENT> to a major deterioration in relations between Turkey and Israel.
+
+Before <EVENT eid="e34" class="OCCURRENCE">departing</EVENT> for Jordan <TIMEX3 tid="t3" type="DATE" value="2013-03-29">on Friday</TIMEX3> afternoon, Mr Obama <EVENT eid="e35" class="OCCURRENCE">revealed</EVENT> that Mr Netanyahu and Mr Erdogan had just spoken by telephone.
+
+</TEXT></TimeML>

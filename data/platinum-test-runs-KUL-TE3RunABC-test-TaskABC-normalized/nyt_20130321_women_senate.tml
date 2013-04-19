@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>nyt_20130321_women_senate</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-21</TIMEX3></DCT>
+
+<TITLE>Once Few, Women Hold More Power in Senate</TITLE>
+
+<TEXT>
+
+<TIMEX3 tid="t1" type="DURATION" value="PT1H">An hour</TIMEX3> before her colleagues <EVENT eid="e1" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">gathered</EVENT> for their first <EVENT eid="e2" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="NOUN">vote</EVENT> of a new Congress, Senator Kelly Ayotte <EVENT eid="e3" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">slipped</EVENT> into an empty Senate chamber to <EVENT eid="e4" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">savor</EVENT> the grandeur of her legislative home. As Ms. Ayotte, a freshman Republican from New Hampshire, <EVENT eid="e5" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">sat</EVENT> down at the wooden desk where generations of lawmakers from her state had <EVENT eid="e6" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">cast</EVENT> their votes, a doorman <EVENT eid="e7" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">marched</EVENT> toward her with purpose.
+
+The desks, he sternly <EVENT eid="e8" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">told</EVENT> her, were for senators only.
+
+Ms. Ayotte's induction that <TIMEX3 tid="t2" type="DATE" value="2013-04-21">January day</TIMEX3> in <TIMEX3 tid="t3" type="DATE" value="2011">2011</TIMEX3> into the most rarefied ranks of the nation's political class, female senators, had <EVENT eid="e10" class="ASPECTUAL" tense="PAST" aspect="NONE" pos="VERB">begun</EVENT>. "The desk thing <EVENT eid="e11" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">really</EVENT> stuck with me," Ms. <EVENT eid="e13" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">Ayotte</EVENT> said. "There still just aren't that many of us."
+
+In <TIMEX3 tid="t4" type="DURATION" value="P90Y">the 90 years</TIMEX3> since Rebecca Felton of Georgia <EVENT eid="e15" class="STATE" tense="PAST" aspect="NONE" pos="VERB">became</EVENT> the first woman in the United States Senate - <EVENT eid="e16" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">sworn</EVENT> in for <TIMEX3 tid="t5" type="TIME" value="2013-03-21T00:00">a mere 24 hours</TIMEX3> - women <EVENT eid="e17" class="STATE" tense="PRESENT" aspect="NONE" pos="VERB">remain</EVENT> an anomaly in the upper chamber. But with 20 female senators now in office, an all-time high, women have <EVENT eid="e19" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">morphed</EVENT> from the curiosity they were for much of <TIMEX3 tid="t7" type="DATE" value="0001">the 20th century</TIMEX3> into an important new force on key committees and legislation.
+
+A record nine women now <EVENT eid="e21" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">lead</EVENT> committees, including some of the most powerful ones. For the first time there is a woman - Senator Barbara A. Mikulski, a Maryland Democrat - in charge of the Senate Appropriations Committee, which <EVENT eid="e22" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">dispenses</EVENT> billions of dollars annually throughout the government and has long been particularly <EVENT eid="e23" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">dominated</EVENT> by men. Senator Patty Murray, a Washington Democrat, is the first chairwoman of the Budget Committee and is <EVENT eid="e24" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">charged</EVENT> with <EVENT eid="e25" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">shaping</EVENT> the Democratic strategy in the fiscal <EVENT eid="e26" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="NOUN">battle</EVENT> <EVENT eid="e27" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">dominating</EVENT> Capitol Hill.
+
+One of the biggest bills to <EVENT eid="e28" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">pass</EVENT> the Senate <TIMEX3 tid="t10" type="DATE" value="2012">last year</TIMEX3> was farm legislation <EVENT eid="e29" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">led</EVENT> by Senator Debbie Stabenow, a Michigan Democrat who <EVENT eid="e30" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">presides</EVENT> over the agriculture committee. Senator Barbara Boxer, the California Democrat who is chairwoman of the Environment and Public Works Committee, <EVENT eid="e31" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">shepherded</EVENT> the highway bill.
+
+"We are <EVENT eid="e32" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">growing</EVENT> in number," <EVENT eid="e33" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT> Senator Amy Klobuchar, Democrat of Minnesota. "But more importantly, we <EVENT eid="e34" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">are</EVENT> growing in our power. When I first <EVENT eid="e36" class="ASPECTUAL" tense="PAST" aspect="NONE" pos="VERB">started</EVENT> <TIMEX3 tid="t11" type="DATE" value="2007">just six years ago</TIMEX3>, it was unusual to have a woman <EVENT eid="e39" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">managing</EVENT> a bill."
+
+Just as important, even male senators <EVENT eid="e40" class="REPORTING" tense="PRESENT" aspect="NONE" pos="VERB">say</EVENT>, is the potential the women <EVENT eid="e41" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">hold</EVENT> for <EVENT eid="e42" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">changing</EVENT> the tenor of the Senate and <EVENT eid="e43" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">pushing</EVENT> for <EVENT eid="e44" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="NOUN">compromise</EVENT> in the highly partisan atmosphere on Capitol Hill.
+
+"I don't <EVENT eid="e45" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">want</EVENT> to <EVENT eid="e46" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">generalize</EVENT>, because this isn't true of all of them, but they tend to be interested in <EVENT eid="e49" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">finding</EVENT> common ground," <EVENT eid="e50" class="REPORTING" tense="PAST" aspect="NONE" pos="VERB">said</EVENT> Senator Rob Portman, Republican of Ohio. "So <EVENT eid="e51" class="I_STATE" tense="PRESENT" aspect="NONE" pos="VERB">I</EVENT> think it's going to have, and is having, a <EVENT eid="e56" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="NOUN">positive</EVENT> impact on the Senate."
+
+While partisan division is the central characteristic of the modern Congress, women have <EVENT eid="e58" class="ASPECTUAL" tense="PAST" aspect="NONE" pos="VERB">begun</EVENT> to <EVENT eid="e59" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">crack</EVENT> away at the gridlock by <EVENT eid="e61" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">forming</EVENT> coalitions that have surprised leaders of both parties. Senator Kirsten E. Gillibrand, Democrat of New York, and Senator Susan Collins, Republican of Maine, <EVENT eid="e63" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">led</EVENT> the repeal in the Senate of "don't <EVENT eid="e65" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">ask</EVENT>, don't <EVENT eid="e66" class="REPORTING" tense="PRESENT" aspect="NONE" pos="VERB">tell</EVENT>" in <TIMEX3 tid="t12" type="DATE" value="2010">2010</TIMEX3>, <EVENT eid="e67" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">allowing</EVENT> gay men and women to <EVENT eid="e68" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">serve</EVENT> openly in the military.
+
+<TIMEX3 tid="t13" type="DATE" value="2013">This year</TIMEX3>, all four of the female Senate Republicans <EVENT eid="e69" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">split</EVENT> with their party and <EVENT eid="e70" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">voted</EVENT> with Senate Democrats to reauthorize the Violence Against Women Act, which had <EVENT eid="e73" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">lapsed</EVENT> during the last Congress.
+
+</TEXT>
+<MAKEINSTANCE eventID="e1" eiid="ei1" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e2" eiid="ei2" tense="NONE" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e3" eiid="ei3" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e4" eiid="ei4" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e5" eiid="ei5" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e6" eiid="ei6" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e7" eiid="ei7" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e8" eiid="ei8" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e10" eiid="ei10" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e11" eiid="ei11" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e13" eiid="ei13" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e15" eiid="ei15" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e16" eiid="ei16" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e17" eiid="ei17" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e19" eiid="ei19" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e21" eiid="ei21" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e22" eiid="ei22" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e23" eiid="ei23" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e24" eiid="ei24" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e25" eiid="ei25" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e26" eiid="ei26" tense="PRESENT" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e27" eiid="ei27" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e28" eiid="ei28" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e29" eiid="ei29" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e30" eiid="ei30" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e31" eiid="ei31" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e32" eiid="ei32" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e33" eiid="ei33" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e34" eiid="ei34" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e36" eiid="ei36" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e39" eiid="ei39" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e40" eiid="ei40" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e41" eiid="ei41" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e42" eiid="ei42" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e43" eiid="ei43" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e44" eiid="ei44" tense="PRESENT" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e45" eiid="ei45" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e46" eiid="ei46" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e49" eiid="ei49" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e50" eiid="ei50" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e51" eiid="ei51" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e56" eiid="ei56" tense="PRESENT" aspect="NONE" pos="NOUN"/>
+<MAKEINSTANCE eventID="e58" eiid="ei58" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e59" eiid="ei59" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e61" eiid="ei61" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e63" eiid="ei63" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e65" eiid="ei65" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e66" eiid="ei66" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e67" eiid="ei67" tense="PRESENT" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e68" eiid="ei68" tense="NONE" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e69" eiid="ei69" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e70" eiid="ei70" tense="PAST" aspect="NONE" pos="VERB"/>
+<MAKEINSTANCE eventID="e73" eiid="ei73" tense="PAST" aspect="NONE" pos="VERB"/>
+<TLINK lid="l12014" relType="BEFORE" eventInstanceID="ei1" relatedToTime="t0"/>
+<TLINK lid="l12016" relType="BEFORE" eventInstanceID="ei2" relatedToTime="t0"/>
+<TLINK lid="l12018" relType="BEFORE" eventInstanceID="ei3" relatedToTime="t0"/>
+<TLINK lid="l12020" relType="INCLUDES" eventInstanceID="ei4" relatedToTime="t0"/>
+<TLINK lid="l12022" relType="IS_INCLUDED" eventInstanceID="ei5" relatedToTime="t0"/>
+<TLINK lid="l12024" relType="BEFORE" eventInstanceID="ei6" relatedToTime="t0"/>
+<TLINK lid="l12026" relType="BEFORE" eventInstanceID="ei7" relatedToTime="t0"/>
+<TLINK lid="l12028" relType="BEFORE" eventInstanceID="ei8" relatedToTime="t0"/>
+<TLINK lid="l12030" relType="IS_INCLUDED" eventInstanceID="ei10" relatedToTime="t0"/>
+<TLINK lid="l12032" relType="BEFORE" eventInstanceID="ei11" relatedToTime="t0"/>
+<TLINK lid="l12034" relType="IS_INCLUDED" eventInstanceID="ei13" relatedToTime="t0"/>
+<TLINK lid="l12036" relType="BEFORE" eventInstanceID="ei15" relatedToTime="t0"/>
+<TLINK lid="l12038" relType="BEFORE" eventInstanceID="ei16" relatedToTime="t0"/>
+<TLINK lid="l12040" relType="INCLUDES" eventInstanceID="ei17" relatedToTime="t0"/>
+<TLINK lid="l12042" relType="BEFORE" eventInstanceID="ei19" relatedToTime="t0"/>
+<TLINK lid="l12044" relType="INCLUDES" eventInstanceID="ei21" relatedToTime="t0"/>
+<TLINK lid="l12046" relType="INCLUDES" eventInstanceID="ei22" relatedToTime="t0"/>
+<TLINK lid="l12048" relType="BEFORE" eventInstanceID="ei23" relatedToTime="t0"/>
+<TLINK lid="l12050" relType="BEFORE" eventInstanceID="ei24" relatedToTime="t0"/>
+<TLINK lid="l12052" relType="INCLUDES" eventInstanceID="ei25" relatedToTime="t0"/>
+<TLINK lid="l12054" relType="INCLUDES" eventInstanceID="ei26" relatedToTime="t0"/>
+<TLINK lid="l12056" relType="INCLUDES" eventInstanceID="ei27" relatedToTime="t0"/>
+<TLINK lid="l12058" relType="INCLUDES" eventInstanceID="ei28" relatedToTime="t0"/>
+<TLINK lid="l12060" relType="BEFORE" eventInstanceID="ei29" relatedToTime="t0"/>
+<TLINK lid="l12062" relType="INCLUDES" eventInstanceID="ei30" relatedToTime="t0"/>
+<TLINK lid="l12064" relType="BEFORE" eventInstanceID="ei31" relatedToTime="t0"/>
+<TLINK lid="l12066" relType="INCLUDES" eventInstanceID="ei32" relatedToTime="t0"/>
+<TLINK lid="l12068" relType="IS_INCLUDED" eventInstanceID="ei33" relatedToTime="t0"/>
+<TLINK lid="l12070" relType="INCLUDES" eventInstanceID="ei34" relatedToTime="t0"/>
+<TLINK lid="l12072" relType="BEFORE" eventInstanceID="ei36" relatedToTime="t0"/>
+<TLINK lid="l12074" relType="BEFORE" eventInstanceID="ei39" relatedToTime="t0"/>
+<TLINK lid="l12076" relType="IS_INCLUDED" eventInstanceID="ei40" relatedToTime="t0"/>
+<TLINK lid="l12078" relType="BEFORE" eventInstanceID="ei41" relatedToTime="t0"/>
+<TLINK lid="l12080" relType="INCLUDES" eventInstanceID="ei42" relatedToTime="t0"/>
+<TLINK lid="l12082" relType="INCLUDES" eventInstanceID="ei43" relatedToTime="t0"/>
+<TLINK lid="l12084" relType="INCLUDES" eventInstanceID="ei44" relatedToTime="t0"/>
+<TLINK lid="l12086" relType="INCLUDES" eventInstanceID="ei45" relatedToTime="t0"/>
+<TLINK lid="l12088" relType="INCLUDES" eventInstanceID="ei46" relatedToTime="t0"/>
+<TLINK lid="l12090" relType="INCLUDES" eventInstanceID="ei49" relatedToTime="t0"/>
+<TLINK lid="l12092" relType="IS_INCLUDED" eventInstanceID="ei50" relatedToTime="t0"/>
+<TLINK lid="l12094" relType="INCLUDES" eventInstanceID="ei51" relatedToTime="t0"/>
+<TLINK lid="l12096" relType="INCLUDES" eventInstanceID="ei56" relatedToTime="t0"/>
+<TLINK lid="l12098" relType="BEFORE" eventInstanceID="ei58" relatedToTime="t0"/>
+<TLINK lid="l12100" relType="BEFORE" eventInstanceID="ei59" relatedToTime="t0"/>
+<TLINK lid="l12102" relType="BEFORE" eventInstanceID="ei61" relatedToTime="t0"/>
+<TLINK lid="l12104" relType="IS_INCLUDED" eventInstanceID="ei63" relatedToTime="t0"/>
+<TLINK lid="l12106" relType="INCLUDES" eventInstanceID="ei65" relatedToTime="t0"/>
+<TLINK lid="l12108" relType="INCLUDES" eventInstanceID="ei66" relatedToTime="t0"/>
+<TLINK lid="l12110" relType="INCLUDES" eventInstanceID="ei67" relatedToTime="t0"/>
+<TLINK lid="l12112" relType="INCLUDES" eventInstanceID="ei68" relatedToTime="t0"/>
+<TLINK lid="l12114" relType="BEFORE" eventInstanceID="ei69" relatedToTime="t0"/>
+<TLINK lid="l12116" relType="BEFORE" eventInstanceID="ei70" relatedToTime="t0"/>
+<TLINK lid="l12118" relType="BEFORE" eventInstanceID="ei73" relatedToTime="t0"/>
+<TLINK lid="l12119" relType="SIMULTANEOUS" eventInstanceID="ei1" relatedToEventInstance="ei2"/>
+<TLINK lid="l12120" relType="BEFORE" eventInstanceID="ei3" relatedToEventInstance="ei5"/>
+<TLINK lid="l12121" relType="BEFORE" eventInstanceID="ei1" relatedToEventInstance="ei5"/>
+<TLINK lid="l12122" relType="AFTER" eventInstanceID="ei5" relatedToEventInstance="ei6"/>
+<TLINK lid="l12123" relType="AFTER" eventInstanceID="ei5" relatedToEventInstance="ei7"/>
+<TLINK lid="l12124" relType="DURING_INV" eventInstanceID="ei10" relatedToTime="t2"/>
+<TLINK lid="l12125" relType="DURING" eventInstanceID="ei10" relatedToTime="t3"/>
+<TLINK lid="l12126" relType="DURING" eventInstanceID="ei16" relatedToTime="t4"/>
+<TLINK lid="l12127" relType="BEFORE" eventInstanceID="ei15" relatedToEventInstance="ei33"/>
+<TLINK lid="l12128" relType="BEFORE" eventInstanceID="ei16" relatedToEventInstance="ei33"/>
+<TLINK lid="l12129" relType="SIMULTANEOUS" eventInstanceID="ei5" relatedToEventInstance="ei17"/>
+<TLINK lid="l12130" relType="AFTER" eventInstanceID="ei5" relatedToEventInstance="ei19"/>
+<TLINK lid="l12131" relType="SIMULTANEOUS" eventInstanceID="ei5" relatedToEventInstance="ei21"/>
+<TLINK lid="l12132" relType="SIMULTANEOUS" eventInstanceID="ei5" relatedToEventInstance="ei22"/>
+<TLINK lid="l12133" relType="AFTER" eventInstanceID="ei5" relatedToEventInstance="ei23"/>
+<TLINK lid="l12134" relType="AFTER" eventInstanceID="ei5" relatedToEventInstance="ei24"/>
+<TLINK lid="l12135" relType="SIMULTANEOUS" eventInstanceID="ei5" relatedToEventInstance="ei25"/>
+<TLINK lid="l12136" relType="SIMULTANEOUS" eventInstanceID="ei5" relatedToEventInstance="ei26"/>
+<TLINK lid="l12137" relType="SIMULTANEOUS" eventInstanceID="ei27" relatedToEventInstance="ei40"/>
+<TLINK lid="l12138" relType="AFTER" eventInstanceID="ei5" relatedToEventInstance="ei29"/>
+<TLINK lid="l12139" relType="SIMULTANEOUS" eventInstanceID="ei5" relatedToEventInstance="ei30"/>
+<TLINK lid="l12140" relType="AFTER" eventInstanceID="ei5" relatedToEventInstance="ei31"/>
+<TLINK lid="l12141" relType="SIMULTANEOUS" eventInstanceID="ei5" relatedToEventInstance="ei32"/>
+<TLINK lid="l12142" relType="BEFORE" eventInstanceID="ei3" relatedToEventInstance="ei33"/>
+<TLINK lid="l12143" relType="SIMULTANEOUS" eventInstanceID="ei34" relatedToEventInstance="ei40"/>
+<TLINK lid="l12144" relType="AFTER" eventInstanceID="ei5" relatedToEventInstance="ei36"/>
+<TLINK lid="l12145" relType="DURING" eventInstanceID="ei36" relatedToTime="t11"/>
+<TLINK lid="l12146" relType="AFTER" eventInstanceID="ei36" relatedToEventInstance="ei39"/>
+<TLINK lid="l12147" relType="AFTER" eventInstanceID="ei40" relatedToTime="t1"/>
+<TLINK lid="l12148" relType="AFTER" eventInstanceID="ei5" relatedToEventInstance="ei41"/>
+<TLINK lid="l12149" relType="SIMULTANEOUS" eventInstanceID="ei5" relatedToEventInstance="ei42"/>
+<TLINK lid="l12150" relType="AFTER" eventInstanceID="ei43" relatedToEventInstance="ei44"/>
+<TLINK lid="l12151" relType="SIMULTANEOUS" eventInstanceID="ei40" relatedToEventInstance="ei45"/>
+<TLINK lid="l12152" relType="SIMULTANEOUS" eventInstanceID="ei33" relatedToEventInstance="ei46"/>
+<TLINK lid="l12153" relType="SIMULTANEOUS" eventInstanceID="ei5" relatedToEventInstance="ei49"/>
+<TLINK lid="l12154" relType="SIMULTANEOUS" eventInstanceID="ei51" relatedToEventInstance="ei56"/>
+<TLINK lid="l12155" relType="AFTER" eventInstanceID="ei5" relatedToEventInstance="ei58"/>
+<TLINK lid="l12156" relType="AFTER" eventInstanceID="ei5" relatedToEventInstance="ei61"/>
+<TLINK lid="l12157" relType="SIMULTANEOUS" eventInstanceID="ei63" relatedToEventInstance="ei65"/>
+<TLINK lid="l12158" relType="SIMULTANEOUS" eventInstanceID="ei5" relatedToEventInstance="ei66"/>
+<TLINK lid="l12159" relType="SIMULTANEOUS" eventInstanceID="ei40" relatedToEventInstance="ei67"/>
+<TLINK lid="l12160" relType="DURING_INV" eventInstanceID="ei69" relatedToTime="t13"/>
+<TLINK lid="l12161" relType="AFTER" eventInstanceID="ei40" relatedToEventInstance="ei70"/>
+<TLINK lid="l12162" relType="AFTER" eventInstanceID="ei33" relatedToEventInstance="ei73"/>
+
+</TimeML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>WSJ_20130321_1145</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">March 21, 2013</TIMEX3></DCT>
+
+<TITLE>The Terminal Cancer Patient Who Won a Marathon</TITLE>
+
+
+<TEXT>
+
+In competitions against the clock, some athletes <EVENT eid="e600" class="OCCURRENCE">display</EVENT> an ability to <EVENT eid="e601" class="OCCURRENCE">seize</EVENT> control. Think of the Clark-Kent-to-Superman routines that John Elway and Michael Jordan often <EVENT eid="e602" class="OCCURRENCE">pulled</EVENT> in the final seconds.
+
+But Iram Leon <EVENT eid="e603" class="I_STATE">stands</EVENT> on the sidelines of his own race against time. Lodged in his brain is an untreatable and inoperable cancerous tumor that statistics <EVENT eid="e604" class="REPORTING">suggest</EVENT> will <EVENT eid="e605" class="OCCURRENCE">kill</EVENT> him before he is 40, <TIMEX3 tid="t96" type="DURATION" value="P8Y">eight years</TIMEX3> from now. Medical science is <EVENT eid="e606" class="OCCURRENCE">advancing</EVENT> at a rate that doesn't <EVENT eid="e607" class="OCCURRENCE">preclude</EVENT> the <EVENT eid="e608" class="OCCURRENCE">development</EVENT> of a treatment, but it's not clear if it will <EVENT eid="e609" class="OCCURRENCE">come</EVENT> in time.
+
+"No one <EVENT eid="e610" class="I_STATE">knows</EVENT> what technology will be available in <TIMEX3 tid="t97" type="DURATION" value="P5Y">five years</TIMEX3>," <EVENT eid="e611" class="REPORTING">said</EVENT> Allan Friedman, Duke University Hospital neurosurgeon in chief, who in <TIMEX3 tid="t98" type="DATE" value="2011">2011</TIMEX3> <EVENT eid="e612" class="OCCURRENCE">removed</EVENT> as much of Leon's brain tumor as possible.
+
+The torment of <EVENT eid="e613" class="OCCURRENCE">enduring</EVENT> that <EVENT eid="e614" class="OCCURRENCE">wait</EVENT> can paste a cancer patient to the couch, a surrender heavily associated with deadlier outcomes. Some <EVENT eid="e615" class="OCCURRENCE">seek</EVENT> <EVENT eid="e616" class="OCCURRENCE">escape</EVENT> in their careers, but that is no longer an option for Leon, who <TIMEX3 tid="t99" type="DATE" value="2013">early this year</TIMEX3> was <EVENT eid="e617" class="OCCURRENCE">forced</EVENT> to <EVENT eid="e618" class="OCCURRENCE">step</EVENT> down as a juvenile probation officer in Travis County, Texas, a position he had <EVENT eid="e619" class="OCCURRENCE">held</EVENT> for almost <TIMEX3 tid="t100" type="DURATION" value="P7Y">seven years.</TIMEX3> His thinking is no longer clear, <EVENT eid="e620" class="REPORTING">said</EVENT> Leon, <EVENT eid="e621" class="OCCURRENCE">adding</EVENT>, "I was <EVENT eid="e622" class="OCCURRENCE">making</EVENT> too many <EVENT eid="e623" class="OCCURRENCE">mistakes</EVENT> on the stand."
+
+But Leon can still <EVENT eid="e624" class="OCCURRENCE">run.</EVENT> <TIMEX3 tid="t101" type="DURATION" value="P2Y">Two years</TIMEX3> after his brain-cancer diagnosis, he recently <EVENT eid="e625" class="OCCURRENCE">ran</EVENT> a <TIMEX3 tid="t102" type="DURATION" value="PT5M">sub-five-minute</TIMEX3> mile for the first time since high school. What has <EVENT eid="e626" class="OCCURRENCE">startled</EVENT> the medical community even more is what Leon did <TIMEX3 tid="t103" type="DATE" value="2013-03">this month</TIMEX3> in Beaumont, Texas. He <EVENT eid="e627" class="OCCURRENCE">won</EVENT> the Gusher Marathon, <EVENT eid="e628" class="ASPECTUAL">finishing</EVENT> in 3:07:35. That was one second slower than his personal record in <TIMEX3 tid="t104" type="DATE" value="2013-03-21">the 26.2-mile event, set days</TIMEX3> before he <EVENT eid="e629" class="OCCURRENCE">underwent</EVENT> brain surgery in <TIMEX3 tid="t105" type="DATE" value="2011">early 2011</TIMEX3>.
+
+</TEXT>
+
+</TimeML>
