@@ -1,0 +1,17 @@
+==== NEW ENTITY SUGGESTION ===
+t4	5	22-year-old	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+e20	4	detail	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+e30	3	filing	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+e66	2	concerning	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+e21	1	plan	anup_kolya-platinum
+e10	1	involving	cleartk-4-timebank-aquaint-inferences
+e29	1	conspiracy	chambers-NavyTime1
+e17	1	e-mails	chambers-NavyTime1
+e47	1	needs	KUL-TE3RunABC
+e75	1	plea	KUL-TE3RunABC
+e5	1	charge	chambers-NavyTime1
+e70	1	's	KUL-TE3RunABC
+e64	1	had	chambers-NavyTime1
+e67	1	had	cleartk-2-timebank-verbclause
+
+

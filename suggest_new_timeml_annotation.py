@@ -93,15 +93,18 @@ def get_entity(line):
 	
 def get_relations(line): 
 	words = line.split('\t')
-	relation = words[1] + ' ' + words[2] + ' ' + words[3]
+	relation = words[5] + '\t' + words[1] + ' ' + words[2] + ' ' + words[3] 
 	system = get_system_name(words[4])
 	return relation, system 
 	
 
-def rank_suggestions(filename, outfile): 
+def rank_suggestions(source_dir, dest_dir, filename):
+	
+	entity_file = open(dest_dir + 'entity-'+filename, 'w')
+	tlink_file = open(dest_dir + 'tlink-'+filename, 'w')
 	if debug >= 2: 
 		print filename 
-	text = open(filename).read() 
+	text = open(source_dir + filename).read() 
 	new_entity = {} 
 	new_entity_count = {} 
 	entity2text = {} 
@@ -132,17 +135,20 @@ def rank_suggestions(filename, outfile):
 	sorted_e = sorted(new_entity_count.iteritems(), key=operator.itemgetter(1), reverse=True)
 	sorted_r = sorted(new_tlink_count.iteritems(), key=operator.itemgetter(1), reverse=True)
 
-	outfile.write('==== NEW ENTITY SUGGESTION ===\n')
+	entity_file.write('==== NEW ENTITY SUGGESTION ===\n')
 	for i in range(0, len(sorted_e)): 
 		str_foo = sorted_e[i][0] + '\t' + str(sorted_e[i][1]) + '\t' + ', '.join(entity2text[sorted_e[i][0]]) + '\t' + ', '.join(new_entity[sorted_e[i][0]]) 
-		outfile.write(str_foo + '\n')
-	outfile.write('\n\n') 
+		entity_file.write(str_foo + '\n')
+	entity_file.write('\n\n') 
 
-	outfile.write('==== NEW TLINK SUGGESTION ===\n')
+	tlink_file.write('==== NEW TLINK SUGGESTION ===\n')
 	for i in range(0, len(sorted_r)): 
 		str_foo = sorted_r[i][0] + '\t' + str(sorted_r[i][1]) + '\t' + ', '.join(new_tlink[sorted_r[i][0]])
-		outfile.write(str_foo + '\n')
-	outfile.write('\n') 
+		tlink_file.write(str_foo + '\n')
+	tlink_file.write('\n') 
+	
+	entity_file.close()
+	tlink_file.close()
 
 	
 	
@@ -156,10 +162,8 @@ def rank_all_suggestions():
 	for file in files: 
 		if re.search('DS_Store', file): 
 			continue
-		filename = source_dir + file 
-		outfile = open(dest_dir + file, 'w') 
-		rank_suggestions(filename, outfile)
-		outfile.close()
+		rank_suggestions(source_dir, dest_dir, file)
+		
 
 		
 suggest_new_timeml_anntoation()

@@ -1,0 +1,17 @@
+==== NEW ENTITY SUGGESTION ===
+e19	5	get	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+e32	5	cause	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+e2	5	winding	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+e25	4	get	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+e33	4	track	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+e31	4	tends	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+t8	4	6 months	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+e20	3	shot	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+e23	1	old	chambers-NavyTime1
+e21	1	spray	anup_kolya-platinum
+e17	1	ages	chambers-NavyTime1
+t1	1	season	cleartk-2-timebank-verbclause
+e42	1	close	chambers-NavyTime1
+t11	1	the season	cleartk-2-timebank-verbclause
+
+

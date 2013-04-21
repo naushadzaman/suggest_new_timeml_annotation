@@ -1,0 +1,22 @@
+==== NEW ENTITY SUGGESTION ===
+e23	5	make	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+e16	5	opening	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+e63	5	hit	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+e29	4	blocked	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+e37	2	round	chambers-NavyTime1, anup_kolya-platinum
+e33	2	ignore	chambers-NavyTime1, KUL-TE3RunABC
+e5	2	provide	cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+t8	2	current	chambers-NavyTime1, anup_kolya-platinum
+e41	1	proposals	chambers-NavyTime1
+e47	1	policies	cleartk-2-timebank-verbclause
+e44	1	high	chambers-NavyTime1
+e56	1	,	KUL-TE3RunABC
+e6	1	drinking	chambers-NavyTime1
+e15	1	smog	chambers-NavyTime1
+e39	1	represents	KUL-TE3RunABC
+e60	1	to	KUL-TE3RunABC
+e58	1	policy	KUL-TE3RunABC
+e54	1	analysts	KUL-TE3RunABC
+e52	1	will	KUL-TE3RunABC
+
+

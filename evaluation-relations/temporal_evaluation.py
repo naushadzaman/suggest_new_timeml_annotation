@@ -210,12 +210,13 @@ def total_relation_matched(A_tlinks, B_tlinks, B_relations, B_tg):
 			count += 1 
 		else:
 			## ignore the false ones, since they are false from our annotation; but keep the UNKNOWN ones
-			if foo[1] == 'UNKNOWN':
+			if True:
+				#foo[1] == 'UNKNOWN':
 				if debug >= 1: 
 					print x, y, rel, foo[1]
 					print y, x, reverse_relation(rel)
-				outfile.write('tlink\t'+ x + '\t' + y + '\t' + rel + '\t' + '-'.join(sys.argv[2].split('/')).strip('-') + '\n')
-				outfile.write('tlink\t'+ y + '\t' + x + '\t' + reverse_relation(rel) + '\t' + '-'.join(sys.argv[2].split('/')).strip('-') + '\n')
+				outfile.write('tlink\t'+ x + '\t' + y + '\t' + rel + '\t' + '-'.join(sys.argv[2].split('/')).strip('-') + '\t' + foo[1] + '\n')
+				outfile.write('tlink\t'+ y + '\t' + x + '\t' + reverse_relation(rel) + '\t' + '-'.join(sys.argv[2].split('/')).strip('-') + '\t' + foo[1] + '\n')
 	return count 
            
 def total_implicit_matched(system_reduced, gold_reduced, gold_tg): 

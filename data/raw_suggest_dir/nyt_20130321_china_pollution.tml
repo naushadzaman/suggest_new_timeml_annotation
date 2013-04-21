@@ -3,217 +3,293 @@ event	<EVENT eid="e23" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="P
 event	<EVENT eid="e29" class="I_ACTION" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="none">blocked</EVENT>	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
 event	<EVENT eid="e47" class="OCCURRENCE" tense="NONE" aspect="NONE" polarity="POS" modality="none">policies</EVENT>	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
 event	<EVENT eid="e63" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">hit</EVENT>	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei14	ei16	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei16	ei14	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei21	ei23	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei23	ei21	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei46	ei48	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei48	ei46	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei24	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei24	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei25	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei25	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei29	t3	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t3	ei29	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei18	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei18	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei48	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t9	ei48	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei29	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei29	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei23	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei23	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei48	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei48	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei13	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei13	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei53	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei53	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei14	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei14	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei47	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei47	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei12	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei12	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei63	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei63	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei17	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei17	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei61	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei61	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei47	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t9	ei47	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei34	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei34	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei46	ei47	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei47	ei46	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei28	ei29	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei29	ei28	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei14	ei17	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei17	ei14	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei7	ei8	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei8	ei7	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei7	ei9	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei9	ei7	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei7	ei10	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei10	ei7	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei18	ei22	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei22	ei18	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei18	ei24	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei24	ei18	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei26	t3	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t3	ei26	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei28	t4	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t4	ei28	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei18	ei27	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei27	ei18	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei26	ei27	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei27	ei26	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei36	t0	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei36	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei38	t6	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t6	ei38	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei42	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei42	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei36	ei40	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei40	ei36	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei38	ei40	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei40	ei38	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei40	ei43	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei43	ei40	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei49	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t9	ei49	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei46	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei46	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei40	ei45	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei45	ei40	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei45	ei49	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei49	ei45	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei55	ei57	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei57	ei55	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei64	t10	ENDED_BY	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t10	ei64	ENDS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei62	ei64	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei64	ei62	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei1	t1	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t1	ei1	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei65	t11	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t11	ei65	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	t11	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t11	t0	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	t6	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t6	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei51	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t9	ei51	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei59	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	t0	ei59	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei49	ei50	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
-tlink	ei50	ei49	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized
+tlink	ei14	ei16	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei16	ei14	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei21	ei23	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei23	ei21	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei46	ei48	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei48	ei46	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei13	t2	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	t2	ei13	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei24	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei24	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei4	t0	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	t0	ei4	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei46	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	t9	ei46	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei25	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei25	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei29	t3	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t3	ei29	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei18	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei48	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei48	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei29	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei29	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei23	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei23	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei48	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei48	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei13	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei13	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei53	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei53	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei14	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei14	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei47	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei47	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei12	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei12	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei63	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei63	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei17	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei17	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei61	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei61	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei47	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei47	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei34	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei34	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei46	ei47	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei47	ei46	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei28	ei29	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei29	ei28	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei14	ei17	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei17	ei14	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei2	ei3	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei3	ei2	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei3	ei4	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei4	ei3	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei3	ei7	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei7	ei3	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei7	ei8	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei8	ei7	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei7	ei9	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei9	ei7	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei7	ei10	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei10	ei7	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	ei21	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei21	ei18	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei18	ei22	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei22	ei18	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	ei24	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei24	ei18	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei26	t3	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t3	ei26	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei28	t4	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t4	ei28	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	ei27	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	ei18	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei26	ei27	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	ei26	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	ei28	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei28	ei27	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei36	t0	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei36	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei38	t6	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t6	ei38	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei42	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei42	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei36	ei40	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei40	ei36	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei38	ei40	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei40	ei38	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei40	ei42	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei42	ei40	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei40	ei43	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei43	ei40	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei49	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei46	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei46	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei40	ei45	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei40	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei49	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	ei45	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei55	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei55	ei45	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei55	ei57	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei57	ei55	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei64	t10	ENDED_BY	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t10	ei64	ENDS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei62	ei64	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei64	ei62	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei7	t1	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	t1	ei7	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei46	ei55	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei55	ei46	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei46	ei62	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei62	ei46	SIMULTANEOUS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei1	t1	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t1	ei1	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei53	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	t9	ei53	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	ei65	t11	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t11	ei65	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	t11	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t11	t0	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	t6	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t6	t0	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei51	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei51	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei59	t0	AFTER	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei59	BEFORE	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	ei50	IS_INCLUDED	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	ei50	ei49	INCLUDES	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	UNKNOWN
+tlink	t0	t9	BEGINS	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
+tlink	t9	t0	BEGUN_BY	data-platinum-test-runs-cleartk-2-timebank-verbclause-test-TaskABC-normalized	false
 event	<EVENT eid="e16" class="OCCURRENCE" tense="PRESPART" aspect="NONE" polarity="POS" modality="none">opening</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
 event	<EVENT eid="e5" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">provide</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
 event	<EVENT eid="e23" class="OCCURRENCE" tense="PRESENT" aspect="NONE" polarity="POS" modality="none">make</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
 event	<EVENT eid="e29" class="OCCURRENCE" tense="PAST" aspect="PERFECTIVE" polarity="POS" modality="none">blocked</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
 event	<EVENT eid="e63" class="OCCURRENCE" tense="INFINITIVE" aspect="NONE" polarity="POS" modality="none">hit</EVENT>	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei14	ei17	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei17	ei14	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei21	ei23	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei23	ei21	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei28	ei29	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei29	ei28	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei46	ei48	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei48	ei46	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei43	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei43	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei5	t0	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei5	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei24	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei24	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei48	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei48	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei48	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t9	ei48	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei53	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei53	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei12	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei12	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei61	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei61	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei63	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei63	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei4	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei4	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei19	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei19	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei21	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei21	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei17	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei17	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei18	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei18	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei16	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei16	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei34	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei34	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei29	t4	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t4	ei29	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei13	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei13	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei29	t3	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t3	ei29	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei25	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei25	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei23	t0	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei23	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei23	ei24	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei24	ei23	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei16	ei17	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei17	ei16	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei14	ei16	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei16	ei14	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei7	ei9	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei9	ei7	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei13	ei17	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei17	ei13	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei18	ei22	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei22	ei18	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei18	ei24	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei24	ei18	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei26	t3	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t3	ei26	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei18	ei27	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei27	ei18	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei26	ei27	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei27	ei26	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei38	t6	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t6	ei38	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei38	ei40	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei40	ei38	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei40	ei43	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei43	ei40	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei49	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t9	ei49	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei40	ei45	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei45	ei40	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei45	ei49	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei49	ei45	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei64	t10	ENDED_BY	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t10	ei64	ENDS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei62	ei64	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei64	ei62	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei1	t1	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t1	ei1	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei65	t11	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t11	ei65	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	t11	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t11	t0	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	t6	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t6	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei51	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t9	ei51	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei59	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	t0	ei59	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei49	ei50	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
-tlink	ei50	ei49	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized
+tlink	ei7	ei10	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei10	ei7	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei14	ei17	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei17	ei14	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei21	ei23	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei23	ei21	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei28	ei29	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei29	ei28	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei46	ei48	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei48	ei46	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei53	ei57	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei57	ei53	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei43	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei43	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei5	t0	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei5	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei24	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei24	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei48	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei48	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei48	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei48	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei53	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei53	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei28	t4	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	t4	ei28	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei12	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei12	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei61	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei61	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei63	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei63	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei4	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei4	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei13	t2	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	t2	ei13	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei19	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei19	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei21	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei21	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei17	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei17	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei18	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei16	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei16	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei34	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei34	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei29	t4	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t4	ei29	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei13	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei13	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei29	t3	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t3	ei29	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei46	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	t9	ei46	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei27	t4	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	t4	ei27	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei25	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei25	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei23	t0	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei23	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei23	ei24	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei24	ei23	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei16	ei17	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei17	ei16	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei14	ei16	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei16	ei14	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei2	ei3	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei3	ei2	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei3	ei4	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei4	ei3	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei3	ei7	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei7	ei3	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei7	ei8	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei8	ei7	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei7	ei9	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei9	ei7	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei7	ei10	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei10	ei7	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei13	ei17	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei17	ei13	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	ei21	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei21	ei18	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei18	ei22	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei22	ei18	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	ei24	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei24	ei18	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei26	t3	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t3	ei26	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei28	t4	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	t4	ei28	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei18	ei27	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	ei18	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei26	ei27	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	ei26	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	ei28	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei28	ei27	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei38	t6	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t6	ei38	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei36	ei40	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei40	ei36	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei38	ei40	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei40	ei38	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei40	ei42	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei42	ei40	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei40	ei43	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei43	ei40	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei49	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei40	ei45	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei40	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei49	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	ei45	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei55	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei55	ei45	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei55	ei57	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei57	ei55	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei64	t10	ENDED_BY	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t10	ei64	ENDS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei62	ei64	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei64	ei62	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei7	t1	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	t1	ei7	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei46	ei55	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei55	ei46	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei46	ei62	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei62	ei46	SIMULTANEOUS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei1	t1	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t1	ei1	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei53	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	t9	ei53	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	ei65	t11	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t11	ei65	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	t11	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t11	t0	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	t6	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t6	t0	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei51	t9	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei51	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei59	t0	AFTER	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei59	BEFORE	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	ei50	IS_INCLUDED	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	ei50	ei49	INCLUDES	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	UNKNOWN
+tlink	t0	t9	BEGINS	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
+tlink	t9	t0	BEGUN_BY	data-platinum-test-runs-cleartk-4-timebank-aquaint-inferences-test-TaskABC-normalized	false
 event	<EVENT eid="e44" tense="NONE" aspect="NONE" class="STATE">high</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
 event	<EVENT eid="e33" tense="PRESENT" aspect="NONE" class="OCCURRENCE">ignore</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
 event	<EVENT eid="e15" tense="NONE" aspect="NONE" class="OCCURRENCE">smog</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
@@ -225,215 +301,373 @@ event	<EVENT eid="e23" tense="INFINITIVE" aspect="NONE" class="OCCURRENCE">make<
 event	<EVENT eid="e29" tense="PAST" aspect="PERFECTIVE" class="OCCURRENCE">blocked</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
 event	<EVENT eid="e63" tense="INFINITIVE" aspect="NONE" class="OCCURRENCE">hit</EVENT>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
 timex	<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF" temporalFunction="false" functionInDocument="NONE">current</TIMEX3>	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei46	ei48	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei48	ei46	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei15	t2	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t2	ei15	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei46	t8	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t8	ei46	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei29	t0	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t0	ei29	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei11	ei13	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei13	ei11	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei13	t0	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t0	ei13	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei15	ei16	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei16	ei15	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei18	t0	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t0	ei18	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei48	t9	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t9	ei48	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei29	t4	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t4	ei29	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei63	t11	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t11	ei63	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei33	ei36	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei36	ei33	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei23	ei24	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei24	ei23	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei16	t2	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t2	ei16	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei37	t6	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t6	ei37	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei7	ei11	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei11	ei7	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei28	ei29	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei29	ei28	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei63	t10	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t10	ei63	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei48	t8	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t8	ei48	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei7	ei9	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei9	ei7	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei13	ei17	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei17	ei13	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei18	ei19	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei19	ei18	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei18	ei22	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei22	ei18	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei18	ei24	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei24	ei18	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei18	ei25	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei25	ei18	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei28	t4	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t4	ei28	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei30	t0	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t0	ei30	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei42	t0	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t0	ei42	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei40	ei42	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei42	ei40	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei40	ei43	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei43	ei40	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei49	t9	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t9	ei49	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei45	ei49	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei49	ei45	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei53	ei55	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei55	ei53	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei55	ei61	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei61	ei55	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei64	t10	ENDED_BY	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t10	ei64	ENDS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei62	ei64	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei64	ei62	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei1	t1	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t1	ei1	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei31	t0	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t0	ei31	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei53	t9	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t9	ei53	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei65	t11	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t11	ei65	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t0	t6	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t6	t0	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei51	t9	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t9	ei51	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei59	t0	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	t0	ei59	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei49	ei50	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
-tlink	ei50	ei49	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized
+tlink	ei46	ei48	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei48	ei46	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei15	t2	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t2	ei15	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei46	t8	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t8	ei46	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei29	t0	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei29	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei11	ei13	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei13	ei11	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei3	ei7	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei7	ei3	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei13	t0	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei13	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei15	ei16	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei16	ei15	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei36	ei40	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei40	ei36	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei18	t0	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei18	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei48	t9	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei48	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei29	t4	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t4	ei29	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei63	t11	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t11	ei63	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei33	ei36	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei36	ei33	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	ei28	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei28	ei27	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei55	ei62	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei62	ei55	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei23	ei24	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei24	ei23	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei16	t2	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t2	ei16	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei13	ei18	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei18	ei13	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei55	ei57	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei57	ei55	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei26	ei27	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei27	ei26	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei3	ei4	ENDS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei4	ei3	ENDED_BY	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei37	t6	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t6	ei37	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei2	ei3	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei3	ei2	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei7	ei11	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei11	ei7	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei28	ei29	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei29	ei28	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei55	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei55	ei45	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei8	ei10	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei10	ei8	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei45	ei46	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei46	ei45	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei63	t10	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t10	ei63	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei48	t8	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t8	ei48	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei2	ei3	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei3	ei2	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei3	ei4	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei4	ei3	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei3	ei7	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei7	ei3	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei7	ei9	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei9	ei7	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei7	ei10	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei10	ei7	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei14	t2	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	t2	ei14	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei13	ei17	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei17	ei13	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	ei19	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei19	ei18	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	ei21	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei21	ei18	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei18	ei22	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei22	ei18	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	ei24	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei24	ei18	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	ei25	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei25	ei18	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei28	t4	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t4	ei28	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei26	ei27	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei27	ei26	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei27	ei28	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei28	ei27	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei30	t0	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei30	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei36	t0	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	t0	ei36	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei38	t6	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	t6	ei38	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei42	t0	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei42	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei36	ei40	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei40	ei36	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei40	ei42	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei42	ei40	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei40	ei43	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei43	ei40	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	t9	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei49	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei49	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	ei45	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei55	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei55	ei45	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei53	ei55	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei55	ei53	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei55	ei57	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei57	ei55	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei55	ei61	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei61	ei55	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei64	t10	ENDED_BY	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t10	ei64	ENDS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei62	ei64	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei64	ei62	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei7	t1	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	t1	ei7	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei46	ei55	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei55	ei46	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei46	ei62	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei62	ei46	SIMULTANEOUS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	ei1	t1	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t1	ei1	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei31	t0	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei31	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei53	t9	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei53	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei65	t11	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t11	ei65	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t0	t11	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	t11	t0	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	t0	t6	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t6	t0	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei51	t9	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei51	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei59	t0	AFTER	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei59	BEFORE	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	ei50	IS_INCLUDED	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	ei50	ei49	INCLUDES	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	UNKNOWN
+tlink	t0	t9	BEGINS	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
+tlink	t9	t0	BEGUN_BY	data-platinum-test-runs-chambers-NavyTime1-test-TaskABC-normalized	false
 event	<EVENT eid="e37" class="OCCURRENCE">round</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
 event	<EVENT eid="e16" class="ASPECTUAL">opening</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
 event	<EVENT eid="e23" class="OCCURRENCE">make</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
 event	<EVENT eid="e63" class="OCCURRENCE">hit</EVENT>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
 timex	<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">current</TIMEX3>	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei4	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei4	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei12	t0	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei12	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei13	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei13	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei14	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei14	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei16	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei16	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei17	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei17	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei18	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei18	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei21	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei21	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei23	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei23	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei25	t0	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei25	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei34	t0	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei34	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei35	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei35	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei37	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei37	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei43	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei43	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei48	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei48	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei61	t0	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei61	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei63	t0	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei63	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei37	t6	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t6	ei37	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei45	t8	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t8	ei45	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei46	t8	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t8	ei46	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei48	t7	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t7	ei48	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei48	t8	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t8	ei48	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei48	t9	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t9	ei48	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei63	t10	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t10	ei63	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei63	t11	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t11	ei63	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei13	ei16	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei16	ei13	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei22	ei23	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei23	ei22	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei37	ei40	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei40	ei37	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei37	ei42	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei42	ei37	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei37	ei43	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei43	ei37	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei46	ei48	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei48	ei46	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei37	ei45	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei45	ei37	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei14	ei16	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei16	ei14	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei16	ei17	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei17	ei16	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei45	ei48	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei48	ei45	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei34	ei36	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei36	ei34	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei36	ei37	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei37	ei36	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei2	t1	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t1	ei2	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei7	ei9	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei9	ei7	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei14	t2	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t2	ei14	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei18	ei19	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei19	ei18	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei18	ei24	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei24	ei18	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei26	t3	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t3	ei26	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei26	ei27	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei27	ei26	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei38	t6	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t6	ei38	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei38	ei40	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei40	ei38	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei49	t9	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t9	ei49	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei40	ei45	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei45	ei40	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei45	ei49	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei49	ei45	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei64	t10	ENDED_BY	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t10	ei64	ENDS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei62	ei64	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei64	ei62	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei7	t1	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t1	ei7	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei1	t1	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t1	ei1	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei65	t11	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t11	ei65	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	t6	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t6	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei51	t9	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t9	ei51	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei59	t0	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	t0	ei59	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei49	ei50	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
-tlink	ei50	ei49	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized
+tlink	ei4	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei4	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei12	t0	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei12	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei13	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei13	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei14	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei14	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei16	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei16	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei17	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei17	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei18	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei21	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei21	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei22	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t0	ei22	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei23	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei23	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei25	t0	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei25	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei34	t0	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei34	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei35	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei35	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei36	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t0	ei36	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei37	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei37	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei43	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei43	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei46	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t0	ei46	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei48	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei48	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei53	t0	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t0	ei53	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei61	t0	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei61	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei63	t0	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei63	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	t4	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t4	ei27	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei28	t4	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t4	ei28	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei30	t5	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t5	ei30	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei37	t6	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t6	ei37	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei43	t6	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t6	ei43	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei45	t8	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t8	ei45	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	t9	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t9	ei45	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei46	t8	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t8	ei46	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei46	t9	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t9	ei46	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei48	t7	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t7	ei48	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei48	t8	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t8	ei48	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei48	t9	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei48	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei62	t10	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t10	ei62	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei62	t11	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t11	ei62	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei63	t10	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t10	ei63	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei63	t11	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t11	ei63	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei3	ei4	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei4	ei3	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei7	ei8	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei8	ei7	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei13	ei14	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei14	ei13	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei13	ei16	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei16	ei13	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei13	ei17	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei17	ei13	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei22	ei23	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei23	ei22	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	ei28	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei28	ei27	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei37	ei40	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei40	ei37	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei37	ei42	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei42	ei37	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei37	ei43	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei43	ei37	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei40	ei42	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei42	ei40	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei40	ei43	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei43	ei40	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei46	ei48	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei48	ei46	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei55	ei57	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei57	ei55	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei2	ei3	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei3	ei2	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei3	ei7	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei7	ei3	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei7	ei11	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei11	ei7	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei11	ei13	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei13	ei11	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei13	ei18	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei18	ei13	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei18	ei27	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei27	ei18	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei37	ei45	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei37	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei14	ei16	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei16	ei14	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei16	ei17	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei17	ei16	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	ei22	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei22	ei18	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei45	ei48	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei48	ei45	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei34	ei36	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei36	ei34	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei36	ei37	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei37	ei36	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei53	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei53	ei45	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei53	ei62	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei62	ei53	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei2	t1	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t1	ei2	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei2	ei3	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei3	ei2	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei3	ei4	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei4	ei3	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei3	ei7	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei7	ei3	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei7	ei8	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei8	ei7	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei7	ei9	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei9	ei7	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei14	t2	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t2	ei14	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei13	ei14	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei14	ei13	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei13	ei17	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei17	ei13	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei18	ei19	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei19	ei18	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	ei24	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei24	ei18	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei26	t3	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t3	ei26	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei28	t4	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t4	ei28	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei18	ei27	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei27	ei18	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei26	ei27	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	ei26	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	ei28	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei28	ei27	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei36	t0	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t0	ei36	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei38	t6	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t6	ei38	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei36	ei40	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei40	ei36	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei38	ei40	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei40	ei38	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei40	ei42	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei42	ei40	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei40	ei43	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei43	ei40	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei49	t9	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei49	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei46	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t0	ei46	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei40	ei45	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei40	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei49	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	ei45	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei55	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei55	ei45	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei55	ei57	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei57	ei55	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei64	t10	ENDED_BY	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t10	ei64	ENDS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei62	ei64	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei64	ei62	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei7	t1	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t1	ei7	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei46	ei55	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei55	ei46	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei46	ei62	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei62	ei46	SIMULTANEOUS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei1	t1	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t1	ei1	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei53	t9	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t9	ei53	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	ei65	t11	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t11	ei65	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	t6	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t6	t0	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei51	t9	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei51	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei59	t0	AFTER	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei59	BEFORE	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	ei50	IS_INCLUDED	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	ei50	ei49	INCLUDES	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	UNKNOWN
+tlink	t0	t9	BEGINS	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
+tlink	t9	t0	BEGUN_BY	data-platinum-test-runs-anup_kolya-platinum-test-TaskABC-normalized	false
 event	<EVENT eid="e39" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">represents</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
 event	<EVENT eid="e33" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VERB">ignore</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
 event	<EVENT eid="e16" class="ASPECTUAL" tense="PRESENT" aspect="NONE" pos="VERB">opening</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
@@ -446,107 +680,181 @@ event	<EVENT eid="e23" class="OCCURRENCE" tense="PRESENT" aspect="NONE" pos="VER
 event	<EVENT eid="e29" class="OCCURRENCE" tense="PAST" aspect="NONE" pos="VERB">blocked</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
 event	<EVENT eid="e60" class="I_ACTION" tense="FUTURE" aspect="NONE" pos="VERB">to</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
 event	<EVENT eid="e63" class="OCCURRENCE" tense="NONE" aspect="NONE" pos="VERB">hit</EVENT>	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei1	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei1	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei5	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei5	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei13	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei13	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei14	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei14	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei16	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei16	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei17	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei17	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei19	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei19	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei21	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei21	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei23	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei23	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei29	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei29	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei33	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei33	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei34	t0	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei34	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei35	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei35	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei39	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei39	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei48	t0	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei48	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei52	t0	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei52	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei54	t0	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei54	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei56	t0	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei56	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei58	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei58	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei60	t0	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei60	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei63	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei63	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei14	ei16	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei16	ei14	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei16	t2	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t2	ei16	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei28	ei33	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei33	ei28	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei18	ei35	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei35	ei18	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei34	ei49	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei49	ei34	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei7	ei9	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei9	ei7	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei11	ei12	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei12	ei11	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei18	ei24	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei24	ei18	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei26	t3	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t3	ei26	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei28	t4	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t4	ei28	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei26	ei27	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei27	ei26	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei31	t5	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t5	ei31	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei40	ei43	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei43	ei40	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei49	t9	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t9	ei49	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei40	ei45	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei45	ei40	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei45	ei49	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei49	ei45	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei55	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei55	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei45	ei55	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei55	ei45	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei53	ei55	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei55	ei53	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei55	ei57	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei57	ei55	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei55	ei61	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei61	ei55	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei64	t10	ENDED_BY	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t10	ei64	ENDS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei62	ei64	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei64	ei62	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei46	ei55	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei55	ei46	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei53	t9	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t9	ei53	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei65	t11	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t11	ei65	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	t11	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t11	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei51	t9	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t9	ei51	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei59	t0	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	ei59	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei49	ei50	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	ei50	ei49	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t0	t9	BEGINS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
-tlink	t9	t0	BEGUN_BY	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized
+tlink	ei1	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei1	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei4	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t0	ei4	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei5	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei5	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei8	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t0	ei8	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei10	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t0	ei10	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei12	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t0	ei12	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei13	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei13	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei14	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei14	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei16	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei16	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei17	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei17	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	t0	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t0	ei18	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei19	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei19	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei21	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei21	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei22	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t0	ei22	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei23	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei23	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei25	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t0	ei25	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei28	t0	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t0	ei28	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei29	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei29	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei33	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei33	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei34	t0	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei34	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei35	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei35	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei39	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei39	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei43	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t0	ei43	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei48	t0	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei48	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t0	ei49	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei52	t0	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei52	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei54	t0	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei54	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei56	t0	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei56	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei58	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei58	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei60	t0	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei60	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei63	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei63	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei1	ei2	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei2	ei1	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei1	t1	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t1	ei1	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei14	ei16	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei16	ei14	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei16	t2	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t2	ei16	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	t3	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t3	ei27	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei38	t6	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t6	ei38	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei40	ei42	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei42	ei40	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei45	t7	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t7	ei45	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei22	ei28	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei28	ei22	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei28	ei33	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei33	ei28	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	ei35	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei35	ei18	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei34	ei49	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	ei34	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei2	t1	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t1	ei2	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei2	ei3	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei3	ei2	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei3	ei4	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei4	ei3	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei3	ei7	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei7	ei3	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei7	ei8	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei8	ei7	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei7	ei9	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei9	ei7	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei7	ei10	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei10	ei7	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei11	ei12	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei12	ei11	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei14	t2	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t2	ei14	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei18	ei21	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei21	ei18	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei18	ei22	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei22	ei18	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei18	ei24	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei24	ei18	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei18	ei25	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei25	ei18	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei26	t3	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t3	ei26	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei28	t4	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t4	ei28	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei26	ei27	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	ei26	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei27	ei28	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei28	ei27	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei31	t5	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t5	ei31	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei38	t6	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t6	ei38	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei36	ei40	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei40	ei36	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei38	ei40	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei40	ei38	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei40	ei42	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei42	ei40	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei40	ei43	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei43	ei40	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	t7	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t7	ei45	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei49	t9	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei49	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei40	ei45	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei40	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei49	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	ei45	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei55	t0	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei55	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei45	ei55	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei55	ei45	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei53	ei55	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei55	ei53	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei55	ei57	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei57	ei55	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei55	ei61	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei61	ei55	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei64	t10	ENDED_BY	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t10	ei64	ENDS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei62	ei64	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei64	ei62	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei7	t1	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t1	ei7	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei46	ei55	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei55	ei46	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei46	ei62	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei62	ei46	SIMULTANEOUS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei1	t1	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t1	ei1	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei28	t3	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	t3	ei28	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	false
+tlink	ei53	t9	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei53	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei65	t11	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t11	ei65	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	t11	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t11	t0	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei51	t9	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t9	ei51	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei59	t0	AFTER	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	ei59	BEFORE	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei49	ei50	IS_INCLUDED	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	ei50	ei49	INCLUDES	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t0	t9	BEGINS	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN
+tlink	t9	t0	BEGUN_BY	data-platinum-test-runs-KUL-TE3RunABC-test-TaskABC-normalized	UNKNOWN

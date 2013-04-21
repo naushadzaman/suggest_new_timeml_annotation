@@ -1,0 +1,636 @@
+==== NEW TLINK SUGGESTION ===
+false	ei32 ei39 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t0 ei1 BEFORE	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei25 t2 IS_INCLUDED	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei79 ei74 BEFORE	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei4 ei1 INCLUDES	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei4 t0 INCLUDES	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei9 ei8 BEFORE	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei93 ei92 BEFORE	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+false	ei39 ei62 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei1 t0 AFTER	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+false	ei74 ei39 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei73 ei72 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei76 ei77 AFTER	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei25 t0 BEFORE	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei54 ei53 AFTER	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+false	ei39 ei32 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei3 ei1 AFTER	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+false	ei86 ei82 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+false	ei89 ei39 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+false	ei74 ei80 IS_INCLUDED	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei79 ei77 BEFORE	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei90 ei93 BEFORE	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei61 ei64 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+false	ei39 ei89 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei3 t0 AFTER	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t0 ei4 IS_INCLUDED	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei24 ei25 IAFTER	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei92 ei93 AFTER	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei22 t0 INCLUDES	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t0 ei3 BEFORE	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+false	ei80 ei74 INCLUDES	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei1 ei3 BEFORE	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+false	ei82 ei86 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei6 t0 BEFORE	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t0 ei6 AFTER	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei8 ei9 AFTER	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t2 ei27 INCLUDES	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t0 ei22 IS_INCLUDED	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei64 ei61 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei27 t2 IS_INCLUDED	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei93 ei90 AFTER	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei72 ei73 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei61 ei62 INCLUDES	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei62 ei61 IS_INCLUDED	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t0 ei51 IS_INCLUDED	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei77 ei79 AFTER	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei25 ei24 IBEFORE	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t0 ei25 AFTER	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei77 ei76 BEFORE	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei74 ei79 AFTER	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+false	ei39 ei74 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei53 ei54 BEFORE	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t2 ei25 INCLUDES	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+false	ei62 ei39 SIMULTANEOUS	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei51 t0 INCLUDES	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei1 ei4 IS_INCLUDED	5	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+false	t0 ei39 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei55 t0 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei64 ei72 BEFORE	4	cleartk-2-timebank-verbclause, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t0 ei94 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t0 ei50 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei8 ei12 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei12 ei8 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei26 t0 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei90 t0 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+false	ei32 ei31 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei72 ei64 AFTER	4	cleartk-2-timebank-verbclause, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei42 ei46 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei86 ei89 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+false	ei39 ei42 SIMULTANEOUS	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+false	t0 ei42 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	t0 ei45 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei89 ei90 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei60 t0 INCLUDES	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei12 ei13 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei95 ei90 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	t2 ei26 INCLUDES	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+false	ei42 ei39 SIMULTANEOUS	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei88 ei87 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	t0 ei60 IS_INCLUDED	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei13 ei12 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei26 t2 IS_INCLUDED	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei90 ei89 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei91 t0 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei40 t0 INCLUDES	4	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t0 ei12 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei94 t0 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei46 ei42 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	t0 ei26 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+false	ei62 t0 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	t0 ei55 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei2 ei6 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+false	ei80 ei81 SIMULTANEOUS	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t0 ei91 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei50 t0 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+false	ei42 t0 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	t0 ei40 IS_INCLUDED	4	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei87 ei88 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei90 ei95 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+false	ei88 ei89 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+false	ei81 ei80 SIMULTANEOUS	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei12 t0 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei6 ei2 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+false	ei89 ei88 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+false	t0 ei62 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+false	ei31 ei32 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t0 ei90 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei45 t0 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei89 ei86 AFTER	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+false	ei39 t0 BEFORE	4	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+false	ei81 ei80 AFTER	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+UNKNOWN	t0 ei13 AFTER	3	cleartk-2-timebank-verbclause, anup_kolya-platinum, KUL-TE3RunABC
+false	ei30 ei32 BEFORE	3	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei46 ei48 AFTER	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+UNKNOWN	ei13 ei8 BEFORE	3	cleartk-2-timebank-verbclause, chambers-NavyTime1, KUL-TE3RunABC
+false	ei39 ei38 AFTER	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	ei30 t0 INCLUDES	3	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei39 ei44 SIMULTANEOUS	3	cleartk-2-timebank-verbclause, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei85 ei82 AFTER	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+false	ei24 t0 AFTER	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+UNKNOWN	ei19 ei20 BEFORE	3	cleartk-2-timebank-verbclause, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei87 ei86 AFTER	3	cleartk-2-timebank-verbclause, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei44 ei39 SIMULTANEOUS	3	cleartk-2-timebank-verbclause, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei20 ei19 AFTER	3	cleartk-2-timebank-verbclause, chambers-NavyTime1, anup_kolya-platinum
+false	t0 ei80 IS_INCLUDED	3	cleartk-2-timebank-verbclause, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei8 ei2 AFTER	3	cleartk-2-timebank-verbclause, chambers-NavyTime1, anup_kolya-platinum
+false	t0 ei89 AFTER	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	ei19 t0 AFTER	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	ei38 ei39 BEFORE	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	ei89 ei87 AFTER	3	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+false	ei80 t0 INCLUDES	3	cleartk-2-timebank-verbclause, chambers-NavyTime1, KUL-TE3RunABC
+false	t0 ei31 BEFORE	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	ei23 ei20 SIMULTANEOUS	3	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei37 ei32 AFTER	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1
+false	t0 ei19 BEFORE	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+UNKNOWN	ei66 ei64 AFTER	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1
+false	ei31 t0 AFTER	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+UNKNOWN	ei82 ei85 BEFORE	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+UNKNOWN	ei86 ei87 BEFORE	3	cleartk-2-timebank-verbclause, chambers-NavyTime1, anup_kolya-platinum
+false	ei8 t0 AFTER	3	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei8 ei11 SIMULTANEOUS	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+UNKNOWN	ei13 t0 BEFORE	3	cleartk-2-timebank-verbclause, anup_kolya-platinum, KUL-TE3RunABC
+false	ei80 ei81 BEFORE	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	ei20 ei23 SIMULTANEOUS	3	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei95 t0 BEFORE	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	ei87 ei89 BEFORE	3	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei8 ei13 AFTER	3	cleartk-2-timebank-verbclause, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei32 ei37 BEFORE	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1
+false	ei32 ei30 AFTER	3	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+false	t0 ei24 BEFORE	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	ei89 t0 BEFORE	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+UNKNOWN	ei76 ei74 BEFORE	3	chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei49 ei42 BEFORE	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+false	ei38 t0 AFTER	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+UNKNOWN	ei16 t0 INCLUDES	3	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei64 ei66 BEFORE	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1
+UNKNOWN	ei48 ei46 BEFORE	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+UNKNOWN	ei74 ei76 AFTER	3	chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+false	t0 ei30 IS_INCLUDED	3	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	ei42 ei49 AFTER	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+false	t0 ei8 BEFORE	3	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	t4 ei48 INCLUDES	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+UNKNOWN	ei2 ei8 BEFORE	3	cleartk-2-timebank-verbclause, chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei11 ei8 SIMULTANEOUS	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	t0 ei38 BEFORE	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+UNKNOWN	ei48 t4 IS_INCLUDED	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+UNKNOWN	t0 ei16 IS_INCLUDED	3	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	t0 ei95 AFTER	3	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	ei23 ei24 BEFORE	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei8 ei10 AFTER	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei70 t0 AFTER	2	cleartk-2-timebank-verbclause, anup_kolya-platinum
+UNKNOWN	ei2 t0 AFTER	2	cleartk-2-timebank-verbclause, chambers-NavyTime1
+false	ei23 t0 INCLUDES	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei74 t5 IS_INCLUDED	2	chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei10 ei8 BEFORE	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+false	ei74 ei80 SIMULTANEOUS	2	chambers-NavyTime1, anup_kolya-platinum
+false	ei64 ei68 BEFORE	2	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+UNKNOWN	ei89 ei87 AFTER	2	cleartk-2-timebank-verbclause, chambers-NavyTime1
+UNKNOWN	ei87 ei89 BEFORE	2	cleartk-2-timebank-verbclause, chambers-NavyTime1
+UNKNOWN	ei66 t0 AFTER	2	cleartk-2-timebank-verbclause, anup_kolya-platinum
+UNKNOWN	ei23 ei20 SIMULTANEOUS	2	cleartk-2-timebank-verbclause, anup_kolya-platinum
+UNKNOWN	t0 ei2 BEFORE	2	cleartk-2-timebank-verbclause, chambers-NavyTime1
+UNKNOWN	ei34 ei32 AFTER	2	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1
+false	ei2 t0 AFTER	2	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	ei39 ei44 SIMULTANEOUS	2	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+UNKNOWN	ei10 t0 BEFORE	2	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	ei8 ei11 SIMULTANEOUS	2	chambers-NavyTime1, KUL-TE3RunABC
+false	ei81 t0 AFTER	2	cleartk-2-timebank-verbclause, anup_kolya-platinum
+UNKNOWN	ei36 ei37 BEFORE	2	chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	t0 ei20 IS_INCLUDED	2	cleartk-2-timebank-verbclause, anup_kolya-platinum
+false	ei24 ei23 AFTER	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+UNKNOWN	t0 ei59 IS_INCLUDED	2	chambers-NavyTime1, anup_kolya-platinum
+false	ei74 ei64 SIMULTANEOUS	2	chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	t0 ei66 BEFORE	2	cleartk-2-timebank-verbclause, anup_kolya-platinum
+UNKNOWN	ei91 ei93 AFTER	2	cleartk-2-timebank-verbclause, chambers-NavyTime1
+UNKNOWN	t0 ei84 BEFORE	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei37 ei35 AFTER	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei59 ei60 BEFORE	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+false	t0 ei81 AFTER	2	cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+UNKNOWN	ei39 ei38 AFTER	2	chambers-NavyTime1, KUL-TE3RunABC
+false	ei80 ei74 SIMULTANEOUS	2	chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei68 ei64 AFTER	2	cleartk-2-timebank-verbclause, KUL-TE3RunABC
+false	ei34 ei32 AFTER	2	anup_kolya-platinum, KUL-TE3RunABC
+false	ei44 ei39 SIMULTANEOUS	2	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	t0 ei44 AFTER	2	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	ei32 ei34 BEFORE	2	anup_kolya-platinum, KUL-TE3RunABC
+false	ei68 ei64 AFTER	2	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+UNKNOWN	ei8 t0 AFTER	2	cleartk-2-timebank-verbclause, chambers-NavyTime1
+UNKNOWN	ei95 ei94 AFTER	2	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1
+false	ei20 ei19 AFTER	2	cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+false	ei2 ei8 BEFORE	2	cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+UNKNOWN	t0 ei78 AFTER	2	cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+UNKNOWN	ei32 ei34 BEFORE	2	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1
+false	t0 ei88 BEFORE	2	cleartk-2-timebank-verbclause, anup_kolya-platinum
+false	ei88 t0 AFTER	2	cleartk-2-timebank-verbclause, anup_kolya-platinum
+false	t0 ei14 IS_INCLUDED	2	chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	t5 ei74 INCLUDES	2	chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei60 ei59 AFTER	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+false	t0 ei33 AFTER	2	cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+false	ei11 ei8 SIMULTANEOUS	2	chambers-NavyTime1, KUL-TE3RunABC
+false	ei81 t0 BEFORE	2	cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+UNKNOWN	ei94 ei95 BEFORE	2	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1
+false	ei8 ei2 AFTER	2	cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+false	ei59 t0 INCLUDES	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+UNKNOWN	t0 ei8 BEFORE	2	cleartk-2-timebank-verbclause, chambers-NavyTime1
+UNKNOWN	ei78 t0 BEFORE	2	cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+UNKNOWN	ei20 t0 INCLUDES	2	cleartk-2-timebank-verbclause, anup_kolya-platinum
+false	ei64 ei74 SIMULTANEOUS	2	chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	t0 ei10 AFTER	2	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	ei44 t0 BEFORE	2	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	t0 ei81 BEFORE	2	cleartk-2-timebank-verbclause, anup_kolya-platinum
+false	ei82 ei85 BEFORE	2	chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei37 ei36 AFTER	2	chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei20 ei23 SIMULTANEOUS	2	cleartk-2-timebank-verbclause, anup_kolya-platinum
+false	ei85 ei82 AFTER	2	chambers-NavyTime1, anup_kolya-platinum
+false	ei87 t0 INCLUDES	2	anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei7 t0 BEFORE	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+false	t0 ei87 IS_INCLUDED	2	anup_kolya-platinum, KUL-TE3RunABC
+UNKNOWN	ei64 ei68 BEFORE	2	cleartk-2-timebank-verbclause, KUL-TE3RunABC
+UNKNOWN	ei84 t0 AFTER	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+false	ei33 t0 BEFORE	2	cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+false	t0 ei23 IS_INCLUDED	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+UNKNOWN	t0 ei70 BEFORE	2	cleartk-2-timebank-verbclause, anup_kolya-platinum
+UNKNOWN	ei93 ei91 BEFORE	2	cleartk-2-timebank-verbclause, chambers-NavyTime1
+false	ei14 t0 INCLUDES	2	chambers-NavyTime1, anup_kolya-platinum
+false	t0 ei2 BEFORE	2	cleartk-4-timebank-aquaint-inferences, anup_kolya-platinum
+false	t0 ei59 IS_INCLUDED	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei35 ei37 BEFORE	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei59 t0 INCLUDES	2	chambers-NavyTime1, anup_kolya-platinum
+UNKNOWN	ei38 ei39 BEFORE	2	chambers-NavyTime1, KUL-TE3RunABC
+UNKNOWN	t0 ei7 AFTER	2	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences
+false	ei19 ei20 BEFORE	2	cleartk-4-timebank-aquaint-inferences, KUL-TE3RunABC
+false	ei37 ei36 AFTER	1	KUL-TE3RunABC
+false	ei6 ei2 SIMULTANEOUS	1	chambers-NavyTime1
+UNKNOWN	ei64 ei70 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei42 ei39 SIMULTANEOUS	1	KUL-TE3RunABC
+false	ei95 ei93 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei44 t4 IS_INCLUDED	1	anup_kolya-platinum
+false	ei32 ei37 BEFORE	1	KUL-TE3RunABC
+false	ei80 t0 BEFORE	1	KUL-TE3RunABC
+false	ei30 ei34 SIMULTANEOUS	1	anup_kolya-platinum
+false	t0 ei37 IS_INCLUDED	1	KUL-TE3RunABC
+false	t1 ei19 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	ei66 ei64 BEFORE	1	anup_kolya-platinum
+UNKNOWN	ei24 ei28 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei70 ei72 SIMULTANEOUS	1	chambers-NavyTime1
+UNKNOWN	ei73 ei70 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	t6 ei83 INCLUDES	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei38 ei40 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei95 t0 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	t0 ei84 AFTER	1	anup_kolya-platinum
+false	ei11 ei6 SIMULTANEOUS	1	chambers-NavyTime1
+UNKNOWN	ei47 ei45 BEFORE	1	KUL-TE3RunABC
+false	ei42 t4 IS_INCLUDED	1	anup_kolya-platinum
+false	ei82 ei85 AFTER	1	chambers-NavyTime1
+UNKNOWN	t0 ei14 IS_INCLUDED	1	cleartk-2-timebank-verbclause
+UNKNOWN	ei83 t0 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei80 ei81 SIMULTANEOUS	1	chambers-NavyTime1
+UNKNOWN	ei18 t1 IS_INCLUDED	1	anup_kolya-platinum
+false	ei13 ei8 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei91 t8 IS_INCLUDED	1	anup_kolya-platinum
+false	ei13 ei12 AFTER	1	anup_kolya-platinum
+UNKNOWN	ei62 ei60 SIMULTANEOUS	1	KUL-TE3RunABC
+UNKNOWN	ei91 ei94 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei69 t0 AFTER	1	KUL-TE3RunABC
+UNKNOWN	ei66 ei68 BEFORE	1	chambers-NavyTime1
+UNKNOWN	ei84 ei85 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei12 ei10 AFTER	1	anup_kolya-platinum
+false	ei85 ei80 SIMULTANEOUS	1	chambers-NavyTime1
+false	ei8 ei10 AFTER	1	KUL-TE3RunABC
+UNKNOWN	ei76 ei75 AFTER	1	chambers-NavyTime1
+UNKNOWN	t0 ei47 AFTER	1	KUL-TE3RunABC
+UNKNOWN	ei66 ei68 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei93 t0 IS_INCLUDED	1	anup_kolya-platinum
+UNKNOWN	ei23 t0 INCLUDES	1	anup_kolya-platinum
+false	t0 ei23 AFTER	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei64 ei60 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei85 ei84 SIMULTANEOUS	1	anup_kolya-platinum
+false	t0 ei88 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	ei19 ei18 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei65 t0 AFTER	1	KUL-TE3RunABC
+UNKNOWN	ei91 t7 IS_INCLUDED	1	chambers-NavyTime1
+UNKNOWN	ei40 ei39 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei68 ei66 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei33 ei34 BEFORE	1	cleartk-2-timebank-verbclause
+UNKNOWN	ei68 ei70 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei39 ei32 IS_INCLUDED	1	chambers-NavyTime1
+UNKNOWN	ei32 ei26 BEFORE	1	chambers-NavyTime1
+false	ei73 ei64 IS_INCLUDED	1	anup_kolya-platinum
+false	ei14 ei11 AFTER	1	chambers-NavyTime1
+UNKNOWN	ei16 ei14 SIMULTANEOUS	1	anup_kolya-platinum
+false	t0 ei39 INCLUDES	1	KUL-TE3RunABC
+false	ei6 ei11 SIMULTANEOUS	1	chambers-NavyTime1
+false	ei90 t0 BEFORE	1	KUL-TE3RunABC
+UNKNOWN	t7 ei91 INCLUDES	1	chambers-NavyTime1
+false	ei90 ei95 AFTER	1	KUL-TE3RunABC
+UNKNOWN	t0 ei71 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	ei60 ei62 BEFORE	1	chambers-NavyTime1
+false	ei2 t0 IS_INCLUDED	1	anup_kolya-platinum
+false	ei36 t0 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	ei95 ei94 BEFORE	1	cleartk-2-timebank-verbclause
+UNKNOWN	ei33 ei32 AFTER	1	chambers-NavyTime1
+UNKNOWN	ei71 ei74 SIMULTANEOUS	1	KUL-TE3RunABC
+false	ei87 ei89 AFTER	1	anup_kolya-platinum
+UNKNOWN	ei81 ei80 SIMULTANEOUS	1	chambers-NavyTime1
+false	ei95 ei93 AFTER	1	chambers-NavyTime1
+UNKNOWN	ei35 ei31 AFTER	1	anup_kolya-platinum
+UNKNOWN	ei72 ei70 SIMULTANEOUS	1	chambers-NavyTime1
+UNKNOWN	ei72 ei70 AFTER	1	cleartk-4-timebank-aquaint-inferences
+false	t0 ei11 AFTER	1	KUL-TE3RunABC
+false	t0 ei38 INCLUDES	1	KUL-TE3RunABC
+false	ei72 t0 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+false	t0 ei93 AFTER	1	KUL-TE3RunABC
+UNKNOWN	ei60 ei53 BEFORE	1	anup_kolya-platinum
+false	ei64 ei68 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei10 ei12 BEFORE	1	anup_kolya-platinum
+UNKNOWN	ei82 t6 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	ei18 ei14 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei93 ei95 BEFORE	1	chambers-NavyTime1
+false	t0 ei93 IS_INCLUDED	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	t0 ei35 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei53 ei60 AFTER	1	anup_kolya-platinum
+false	ei93 t0 INCLUDES	1	cleartk-4-timebank-aquaint-inferences
+false	ei44 ei46 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei16 t0 IS_INCLUDED	1	anup_kolya-platinum
+false	ei19 t1 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	ei89 ei88 AFTER	1	chambers-NavyTime1
+false	ei13 t0 INCLUDES	1	cleartk-4-timebank-aquaint-inferences
+false	ei31 ei32 AFTER	1	anup_kolya-platinum
+UNKNOWN	ei91 ei89 AFTER	1	chambers-NavyTime1
+false	ei46 t4 IS_INCLUDED	1	chambers-NavyTime1
+false	ei68 t0 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+false	ei48 ei42 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei35 t0 AFTER	1	cleartk-4-timebank-aquaint-inferences
+false	t4 ei46 INCLUDES	1	chambers-NavyTime1
+UNKNOWN	t0 ei43 IS_INCLUDED	1	KUL-TE3RunABC
+false	ei6 ei2 BEFORE	1	chambers-NavyTime1
+UNKNOWN	t6 ei84 INCLUDES	1	anup_kolya-platinum
+UNKNOWN	ei47 t0 BEFORE	1	KUL-TE3RunABC
+false	ei20 t0 INCLUDES	1	chambers-NavyTime1
+false	t0 ei2 IS_INCLUDED	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei75 ei76 BEFORE	1	chambers-NavyTime1
+UNKNOWN	ei75 t5 IS_INCLUDED	1	chambers-NavyTime1
+false	ei81 ei80 BEFORE	1	KUL-TE3RunABC
+UNKNOWN	ei60 ei64 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei62 ei60 BEFORE	1	anup_kolya-platinum
+false	ei32 ei31 BEFORE	1	anup_kolya-platinum
+UNKNOWN	t0 ei52 AFTER	1	KUL-TE3RunABC
+UNKNOWN	ei69 ei65 AFTER	1	KUL-TE3RunABC
+UNKNOWN	t0 ei83 AFTER	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei93 ei91 AFTER	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei90 ei91 BEFORE	1	chambers-NavyTime1
+false	ei20 t1 SIMULTANEOUS	1	KUL-TE3RunABC
+UNKNOWN	ei95 ei91 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei70 ei68 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei34 ei30 SIMULTANEOUS	1	anup_kolya-platinum
+false	t0 ei19 IS_INCLUDED	1	KUL-TE3RunABC
+false	t0 ei36 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	ei63 ei86 SIMULTANEOUS	1	KUL-TE3RunABC
+false	ei30 t0 IS_INCLUDED	1	anup_kolya-platinum
+false	ei37 t0 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	t0 ei36 BEFORE	1	cleartk-2-timebank-verbclause
+UNKNOWN	ei94 ei93 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei31 ei32 SIMULTANEOUS	1	KUL-TE3RunABC
+false	ei30 ei33 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei84 t0 BEFORE	1	anup_kolya-platinum
+false	t0 ei87 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei60 ei62 AFTER	1	anup_kolya-platinum
+UNKNOWN	ei14 ei16 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei50 ei49 AFTER	1	chambers-NavyTime1
+UNKNOWN	ei28 ei24 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei88 ei89 BEFORE	1	chambers-NavyTime1
+false	ei33 ei30 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei85 ei82 BEFORE	1	chambers-NavyTime1
+false	t6 ei85 INCLUDES	1	anup_kolya-platinum
+false	t0 ei80 AFTER	1	KUL-TE3RunABC
+false	ei86 ei82 BEFORE	1	anup_kolya-platinum
+UNKNOWN	t0 ei36 AFTER	1	cleartk-4-timebank-aquaint-inferences
+false	ei23 t0 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei93 ei94 AFTER	1	chambers-NavyTime1
+false	t0 ei68 INCLUDES	1	anup_kolya-platinum
+UNKNOWN	ei89 ei91 BEFORE	1	chambers-NavyTime1
+UNKNOWN	t0 ei56 AFTER	1	KUL-TE3RunABC
+false	ei8 t0 IS_INCLUDED	1	anup_kolya-platinum
+false	ei31 t0 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	ei30 ei35 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	t0 ei35 INCLUDES	1	anup_kolya-platinum
+false	ei62 ei64 INCLUDES	1	chambers-NavyTime1
+false	ei86 t0 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	ei91 ei95 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei59 ei62 SIMULTANEOUS	1	KUL-TE3RunABC
+false	ei82 ei80 SIMULTANEOUS	1	anup_kolya-platinum
+false	t0 ei24 IS_INCLUDED	1	KUL-TE3RunABC
+false	t0 ei13 IS_INCLUDED	1	cleartk-4-timebank-aquaint-inferences
+false	ei89 ei90 BEFORE	1	KUL-TE3RunABC
+UNKNOWN	ei45 ei47 AFTER	1	KUL-TE3RunABC
+false	t4 ei42 INCLUDES	1	anup_kolya-platinum
+false	ei68 ei64 SIMULTANEOUS	1	anup_kolya-platinum
+false	t0 ei8 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	ei30 ei31 BEFORE	1	chambers-NavyTime1
+false	ei34 t0 IS_INCLUDED	1	anup_kolya-platinum
+false	ei64 ei73 INCLUDES	1	anup_kolya-platinum
+UNKNOWN	ei55 ei53 AFTER	1	anup_kolya-platinum
+UNKNOWN	ei35 t0 IS_INCLUDED	1	anup_kolya-platinum
+UNKNOWN	ei55 ei62 BEFORE	1	chambers-NavyTime1
+false	t0 ei95 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	ei94 t8 IS_INCLUDED	1	anup_kolya-platinum
+UNKNOWN	ei82 ei84 IS_INCLUDED	1	anup_kolya-platinum
+false	t0 ei30 INCLUDES	1	anup_kolya-platinum
+UNKNOWN	t4 ei46 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	ei70 ei66 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei71 t0 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	ei49 ei50 AFTER	1	anup_kolya-platinum
+false	ei76 ei74 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei24 ei30 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei26 ei32 AFTER	1	chambers-NavyTime1
+false	ei62 ei59 SIMULTANEOUS	1	KUL-TE3RunABC
+UNKNOWN	t0 ei65 BEFORE	1	KUL-TE3RunABC
+UNKNOWN	t6 ei82 INCLUDES	1	KUL-TE3RunABC
+false	ei34 t0 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	ei50 ei49 BEFORE	1	anup_kolya-platinum
+UNKNOWN	ei46 t4 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	t8 ei91 INCLUDES	1	anup_kolya-platinum
+UNKNOWN	t0 ei63 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	t0 ei18 AFTER	1	anup_kolya-platinum
+false	t0 ei68 AFTER	1	cleartk-4-timebank-aquaint-inferences
+false	ei8 ei14 SIMULTANEOUS	1	anup_kolya-platinum
+false	t0 ei8 AFTER	1	cleartk-4-timebank-aquaint-inferences
+false	ei74 ei76 SIMULTANEOUS	1	anup_kolya-platinum
+false	t2 ei24 INCLUDES	1	anup_kolya-platinum
+false	t0 ei34 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	ei64 ei66 AFTER	1	anup_kolya-platinum
+false	ei8 ei10 SIMULTANEOUS	1	KUL-TE3RunABC
+false	t4 ei44 INCLUDES	1	anup_kolya-platinum
+false	ei14 t0 IS_INCLUDED	1	anup_kolya-platinum
+UNKNOWN	t5 ei75 INCLUDES	1	chambers-NavyTime1
+false	t0 ei90 AFTER	1	KUL-TE3RunABC
+false	ei80 ei81 AFTER	1	KUL-TE3RunABC
+false	ei12 ei13 AFTER	1	anup_kolya-platinum
+UNKNOWN	ei70 ei72 AFTER	1	cleartk-4-timebank-aquaint-inferences
+false	ei8 t0 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+false	t0 ei31 IS_INCLUDED	1	KUL-TE3RunABC
+false	ei10 ei8 SIMULTANEOUS	1	KUL-TE3RunABC
+false	ei46 ei44 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei89 ei85 AFTER	1	chambers-NavyTime1
+false	t0 ei2 INCLUDES	1	anup_kolya-platinum
+false	ei14 ei8 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei43 ei86 SIMULTANEOUS	1	KUL-TE3RunABC
+UNKNOWN	t0 ei69 BEFORE	1	KUL-TE3RunABC
+false	ei32 ei34 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	t0 ei23 IS_INCLUDED	1	anup_kolya-platinum
+UNKNOWN	ei52 t0 BEFORE	1	KUL-TE3RunABC
+false	t8 ei95 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	ei74 ei71 SIMULTANEOUS	1	KUL-TE3RunABC
+false	ei68 t0 IS_INCLUDED	1	anup_kolya-platinum
+false	t0 ei89 INCLUDES	1	KUL-TE3RunABC
+false	t0 ei34 INCLUDES	1	anup_kolya-platinum
+UNKNOWN	ei30 ei32 BEFORE	1	cleartk-2-timebank-verbclause
+false	ei89 ei87 BEFORE	1	anup_kolya-platinum
+false	ei30 ei24 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei26 ei28 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei36 t0 AFTER	1	cleartk-2-timebank-verbclause
+false	ei10 t0 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	ei53 ei55 BEFORE	1	anup_kolya-platinum
+false	ei95 t8 IS_INCLUDED	1	KUL-TE3RunABC
+false	t0 ei86 INCLUDES	1	KUL-TE3RunABC
+false	t0 ei10 INCLUDES	1	KUL-TE3RunABC
+false	ei39 t0 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	ei18 ei19 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei32 ei33 BEFORE	1	KUL-TE3RunABC
+UNKNOWN	ei67 t0 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	ei36 t0 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei70 ei72 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei90 ei91 SIMULTANEOUS	1	KUL-TE3RunABC
+UNKNOWN	ei37 ei33 AFTER	1	anup_kolya-platinum
+false	ei80 ei85 SIMULTANEOUS	1	chambers-NavyTime1
+false	ei85 t6 IS_INCLUDED	1	anup_kolya-platinum
+false	ei72 ei64 AFTER	1	cleartk-4-timebank-aquaint-inferences
+false	ei90 ei89 AFTER	1	KUL-TE3RunABC
+UNKNOWN	ei35 ei32 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei14 ei18 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei62 t0 IS_INCLUDED	1	KUL-TE3RunABC
+false	ei87 t0 AFTER	1	cleartk-4-timebank-aquaint-inferences
+false	ei88 t0 INCLUDES	1	KUL-TE3RunABC
+false	ei64 ei62 IS_INCLUDED	1	chambers-NavyTime1
+false	t1 ei20 SIMULTANEOUS	1	KUL-TE3RunABC
+UNKNOWN	ei32 ei33 BEFORE	1	chambers-NavyTime1
+UNKNOWN	ei32 ei30 AFTER	1	cleartk-2-timebank-verbclause
+UNKNOWN	t0 ei76 AFTER	1	chambers-NavyTime1
+UNKNOWN	ei94 ei95 AFTER	1	cleartk-2-timebank-verbclause
+UNKNOWN	ei95 ei94 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei94 ei91 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	t0 ei16 INCLUDES	1	anup_kolya-platinum
+false	ei85 ei82 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei93 ei95 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei64 ei72 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+false	ei10 ei8 BEFORE	1	KUL-TE3RunABC
+false	ei32 ei39 INCLUDES	1	chambers-NavyTime1
+false	ei42 ei48 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	t8 ei94 SIMULTANEOUS	1	KUL-TE3RunABC
+false	t1 ei20 INCLUDES	1	chambers-NavyTime1
+false	ei95 ei90 BEFORE	1	KUL-TE3RunABC
+UNKNOWN	ei62 ei55 AFTER	1	chambers-NavyTime1
+UNKNOWN	ei70 ei64 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei11 ei14 BEFORE	1	chambers-NavyTime1
+false	ei42 ei39 AFTER	1	chambers-NavyTime1
+UNKNOWN	ei34 ei33 AFTER	1	cleartk-2-timebank-verbclause
+UNKNOWN	t0 ei53 AFTER	1	chambers-NavyTime1
+UNKNOWN	ei56 t0 BEFORE	1	KUL-TE3RunABC
+UNKNOWN	ei91 ei93 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	t0 ei67 IS_INCLUDED	1	KUL-TE3RunABC
+false	ei24 t2 IS_INCLUDED	1	anup_kolya-platinum
+false	ei11 t0 BEFORE	1	KUL-TE3RunABC
+UNKNOWN	ei35 ei30 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei73 t0 BEFORE	1	anup_kolya-platinum
+UNKNOWN	ei28 ei26 SIMULTANEOUS	1	anup_kolya-platinum
+false	t0 ei73 AFTER	1	anup_kolya-platinum
+UNKNOWN	ei47 t3 SIMULTANEOUS	1	KUL-TE3RunABC
+UNKNOWN	ei43 t0 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	ei62 ei60 AFTER	1	chambers-NavyTime1
+UNKNOWN	ei84 t6 INCLUDES	1	chambers-NavyTime1
+UNKNOWN	ei40 ei38 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei90 t0 AFTER	1	KUL-TE3RunABC
+UNKNOWN	ei18 t0 BEFORE	1	anup_kolya-platinum
+false	ei93 t0 BEFORE	1	KUL-TE3RunABC
+false	t0 ei20 IS_INCLUDED	1	chambers-NavyTime1
+false	t8 ei93 INCLUDES	1	anup_kolya-platinum
+UNKNOWN	ei91 ei90 AFTER	1	chambers-NavyTime1
+UNKNOWN	ei76 t5 IS_INCLUDED	1	anup_kolya-platinum
+UNKNOWN	ei70 ei73 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei82 ei85 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei78 ei79 AFTER	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei28 t0 IS_INCLUDED	1	anup_kolya-platinum
+UNKNOWN	ei83 t6 IS_INCLUDED	1	cleartk-4-timebank-aquaint-inferences
+false	ei8 ei13 AFTER	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei35 t0 INCLUDES	1	KUL-TE3RunABC
+false	t0 ei90 BEFORE	1	KUL-TE3RunABC
+UNKNOWN	ei31 ei35 BEFORE	1	anup_kolya-platinum
+false	ei33 ei32 AFTER	1	KUL-TE3RunABC
+UNKNOWN	ei91 ei90 SIMULTANEOUS	1	KUL-TE3RunABC
+UNKNOWN	ei60 ei62 SIMULTANEOUS	1	KUL-TE3RunABC
+false	ei20 t1 IS_INCLUDED	1	chambers-NavyTime1
+false	ei68 ei73 SIMULTANEOUS	1	anup_kolya-platinum
+false	t0 ei8 INCLUDES	1	anup_kolya-platinum
+UNKNOWN	ei10 ei13 BEFORE	1	anup_kolya-platinum
+UNKNOWN	t0 ei28 INCLUDES	1	anup_kolya-platinum
+false	t0 ei14 INCLUDES	1	anup_kolya-platinum
+UNKNOWN	ei84 ei82 INCLUDES	1	anup_kolya-platinum
+false	ei24 t0 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	ei65 ei69 BEFORE	1	KUL-TE3RunABC
+UNKNOWN	ei94 t8 SIMULTANEOUS	1	KUL-TE3RunABC
+UNKNOWN	ei73 ei66 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	t3 ei47 SIMULTANEOUS	1	KUL-TE3RunABC
+UNKNOWN	ei72 ei70 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei33 ei37 BEFORE	1	anup_kolya-platinum
+false	ei37 ei32 AFTER	1	KUL-TE3RunABC
+false	ei13 ei12 BEFORE	1	anup_kolya-platinum
+false	ei32 ei30 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei32 ei35 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	t0 ei41 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	ei66 ei70 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei93 t7 IS_INCLUDED	1	chambers-NavyTime1
+UNKNOWN	t6 ei84 IS_INCLUDED	1	chambers-NavyTime1
+false	ei93 t8 IS_INCLUDED	1	anup_kolya-platinum
+UNKNOWN	ei32 ei31 AFTER	1	chambers-NavyTime1
+UNKNOWN	ei49 ei50 BEFORE	1	chambers-NavyTime1
+false	ei19 ei14 AFTER	1	chambers-NavyTime1
+false	ei38 t0 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	ei94 ei93 BEFORE	1	chambers-NavyTime1
+UNKNOWN	t0 ei35 IS_INCLUDED	1	KUL-TE3RunABC
+false	t0 ei62 INCLUDES	1	KUL-TE3RunABC
+false	ei12 ei13 BEFORE	1	anup_kolya-platinum
+UNKNOWN	ei66 ei73 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei76 t0 BEFORE	1	chambers-NavyTime1
+UNKNOWN	ei79 ei78 BEFORE	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei76 ei78 AFTER	1	KUL-TE3RunABC
+false	ei19 t0 INCLUDES	1	KUL-TE3RunABC
+false	ei73 ei68 SIMULTANEOUS	1	anup_kolya-platinum
+false	t0 ei93 INCLUDES	1	anup_kolya-platinum
+false	t0 ei72 AFTER	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei39 ei40 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei39 ei42 BEFORE	1	chambers-NavyTime1
+UNKNOWN	t8 ei94 INCLUDES	1	anup_kolya-platinum
+UNKNOWN	ei68 ei66 AFTER	1	chambers-NavyTime1
+UNKNOWN	ei31 ei32 BEFORE	1	chambers-NavyTime1
+UNKNOWN	ei31 ei30 AFTER	1	chambers-NavyTime1
+false	ei30 ei32 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei2 t0 INCLUDES	1	cleartk-4-timebank-aquaint-inferences
+UNKNOWN	ei14 t0 INCLUDES	1	cleartk-2-timebank-verbclause
+UNKNOWN	ei93 ei94 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei53 t0 BEFORE	1	chambers-NavyTime1
+UNKNOWN	t7 ei93 INCLUDES	1	chambers-NavyTime1
+false	ei82 ei86 AFTER	1	anup_kolya-platinum
+UNKNOWN	ei94 ei95 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei89 t0 IS_INCLUDED	1	KUL-TE3RunABC
+UNKNOWN	ei86 ei63 SIMULTANEOUS	1	KUL-TE3RunABC
+UNKNOWN	ei13 ei10 AFTER	1	anup_kolya-platinum
+false	ei8 t0 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	ei85 ei89 BEFORE	1	chambers-NavyTime1
+false	ei2 ei6 AFTER	1	chambers-NavyTime1
+UNKNOWN	ei84 t6 IS_INCLUDED	1	anup_kolya-platinum
+false	ei34 ei32 SIMULTANEOUS	1	anup_kolya-platinum
+UNKNOWN	ei78 ei76 BEFORE	1	KUL-TE3RunABC
+false	ei36 ei37 BEFORE	1	KUL-TE3RunABC
+false	ei32 ei31 SIMULTANEOUS	1	KUL-TE3RunABC
+UNKNOWN	ei63 t0 INCLUDES	1	KUL-TE3RunABC
+UNKNOWN	ei41 t0 IS_INCLUDED	1	KUL-TE3RunABC
+false	ei2 ei6 SIMULTANEOUS	1	chambers-NavyTime1
+false	ei80 ei82 SIMULTANEOUS	1	anup_kolya-platinum
+false	ei14 ei19 BEFORE	1	chambers-NavyTime1
+UNKNOWN	t5 ei76 INCLUDES	1	anup_kolya-platinum
+UNKNOWN	ei86 ei43 SIMULTANEOUS	1	KUL-TE3RunABC
+UNKNOWN	t1 ei18 INCLUDES	1	anup_kolya-platinum
+UNKNOWN	ei39 ei42 SIMULTANEOUS	1	KUL-TE3RunABC
+

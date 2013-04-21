@@ -1,0 +1,18 @@
+==== NEW ENTITY SUGGESTION ===
+e10	5	register	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+e15	5	used	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+e9	5	linked	cleartk-2-timebank-verbclause, cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum, KUL-TE3RunABC
+e31	3	concerned	cleartk-2-timebank-verbclause, chambers-NavyTime1, anup_kolya-platinum
+e30	3	check	cleartk-4-timebank-aquaint-inferences, chambers-NavyTime1, anup_kolya-platinum
+e36	1	we	KUL-TE3RunABC
+e34	1	won't	KUL-TE3RunABC
+e21	1	having	anup_kolya-platinum
+e11	1	suggests	KUL-TE3RunABC
+e12	1	spying	chambers-NavyTime1
+e14	1	label	KUL-TE3RunABC
+e38	1	he	KUL-TE3RunABC
+t2	1	the Soviet period	KUL-TE3RunABC
+t1	1	a term	KUL-TE3RunABC
+e2	1	get	KUL-TE3RunABC
+
+
